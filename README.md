@@ -33,6 +33,7 @@
 * **ROAM:** Tianyu Yang, Pengfei Xu, Runbo Hu, Hua Chai, Antoni B. Chan.<br />
   "ROAM: Recurrently Optimizing Tracking Model." CVPR (2020).
   [[paper](https://arxiv.org/pdf/1907.12006v3.pdf)]
+  [[code](https://github.com/skyoung/ROAM)]
 
 * **AutoTrack:** Yiming Li, Changhong Fu, Fangqiang Ding, Ziyuan Huang, Geng Lu.<br />
   "AutoTrack: Towards High-Performance Visual Tracking for UAV with Automatic Spatio-Temporal Regularization." CVPR (2020).
@@ -44,10 +45,30 @@
   [[paper](http://arxiv.org/pdf/1911.08862v2.pdf)]
   [[code](https://github.com/hqucv/siamban)]
 
+* **SiamCAR:** Dongyan Guo, Jun Wang, Ying Cui, Zhenhua Wang, Shengyong Chen.<br />
+  "SiamCAR: Siamese Fully Convolutional Classification and Regression for Visual Tracking." CVPR (2020).
+  [[paper](https://arxiv.org/abs/1911.07241)]
+  [[code](https://github.com/ohhhyeahhh/SiamCAR)]
+
 * **SiamAttn:** Yuechen Yu, Yilei Xiong, Weilin Huang, Matthew R. Scott. <br />
   "Deformable Siamese Attention Networks for Visual Object Tracking." CVPR (2020).
   [[paper](https://arxiv.org/pdf/2004.06711v1.pdf)]
+  
+* **CSA:** Bin Yan, Dong Wang, Huchuan Lu, Xiaoyun Yang.<br />
+  "Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises." CVPR (2020).
+  [[paper](https://arxiv.org/abs/2003.09595)]
+  [[code](https://github.com/MasterBin-IIAU/CSA)]
 
+* **LTMU:** Kenan Dai, Yunhua Zhang, Dong Wang, Jianhua Li, Huchuan Lu, Xiaoyun Yang.<br />
+  "High-Performance Long-Term Tracking with Meta-Updater." CVPR (2020).
+  [[paper](https://arxiv.org/abs/2004.00305)]
+  [[code](https://github.com/Daikenan/LTMU)]
+  
+* **MAST:** Zihang Lai, Erika Lu, Weidi Xie.<br />
+  "MAST: A Memory-Augmented Self-supervised Tracker." CVPR (2020).
+  [[paper](https://arxiv.org/abs/2002.07793)]
+  [[code](https://github.com/zlai0/MAST)]
+  
 * **CGACD:** Fei Du, Peng Liu, Wei Zhao, Xianglong Tang.<br />
   "Correlation-Guided Attention for Corner Detection Based Visual Tracking." CVPR (2020).
 
