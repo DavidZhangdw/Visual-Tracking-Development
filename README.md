@@ -79,6 +79,16 @@
   [[paper](https://arxiv.org/pdf/1911.06188v4.pdf)]
   [[code](https://github.com/MegviiDetection/video_analyst)]
   
+**DROL:** Jinghao Zhou, Peng Wang, Haoyang Sun. <br />
+  "Discriminative and Robust Online Learning for Siamese Visual Tracking." AAAI (2020).
+  [[paper](https://arxiv.org/abs/1909.02959)]
+  [[code](https://github.com/shallowtoil/DROL)]
+  
+**GlobalTrack:** Lianghua Huang, Xin Zhao, Kaiqi Huang. <br />
+  "GlobalTrack: A Simple and Strong Baseline for Long-term Tracking." AAAI (2020).
+  [[paper](https://arxiv.org/abs/1912.08531)]
+  [[code](https://github.com/huanglianghua/GlobalTrack)]
+
 ### ICCV2019
 
 * **DiMP:** Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte.<br />
