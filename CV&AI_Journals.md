@@ -19,6 +19,7 @@
 | CVIU    | Computer Vision and Image Understanding                    | CCF-B    | Elsevier  | SCI-3区                              |
 | TCYB    | IEEE Transactions on Cybernetics                           | CCF-B    | IEEE      | SCI-1区Top                           |
 | TNNLS   | IEEE Transactions on Neural Networks and  learning systems | CCF-B    | IEEE      | SCI-1区Top                           |
+| TCSVT   | IEEE Transactions on Circuits and Systems for Video Technology | CCF-B    | IEEE      | SCI-2区                              |
 | PR      | Pattern Recognition                                        | CCF-B    | Elsevier  | SCI-1区Top                           |
 |         | Neural Computation                                         | CCF-B    | MIT Press | SCI-3区                              |
 |         | Neural Networks                                            | CCF-B    | Elsevier  | SCI-2区                              |
