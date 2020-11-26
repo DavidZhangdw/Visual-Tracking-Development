@@ -5,9 +5,82 @@
 
 ### :star2: Recommendations :star2:
 
-- Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte.<br />
-  "Know Your Surroundings: Exploiting Scene Information for Object Tracking." Arxiv (2020).
-  [[paper](https://arxiv.org/pdf/2003.11014v1.pdf)] 
+- **SiamGAT:** Dongyan Guo, Yanyan Shao, Ying Cui, Zhenhua Wang, Liyan Zhang, Chunhua Shen.<br />
+  "Graph Attention Tracking." Arxiv (2020).
+  [[paper](https://arxiv.org/abs/2011.11204)] 
+
+### ECCV 2020
+
+- **Ocean:** Zhipeng Zhang, Houwen Peng, Jianlong Fu, Bing Li, Weiming Hu. <br />
+  "Ocean: Object-aware Anchor-free Tracking." ECCV (2020).
+  [[paper](https://arxiv.org/pdf/2006.10721.pdf)]
+  [[code](https://github.com/researchmm/TracKit)]
+  
+- **KYS:** Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte. <br />
+  "Know Your Surroundings: Exploiting Scene Information for Object Tracking." ECCV (2020).
+  [[paper](https://arxiv.org/pdf/2003.11014v1.pdf)]
+  [[code](https://github.com/visionml/pytracking)]
+  
+- **PGNet:** Bingyan Liao, Chenye Wang, Yayun Wang, Yaonong Wang, Jun Yin. <br />
+  "PG-Net: Pixel to Global Matching Network for Visual Tracking." ECCV (2020).
+  [[paper](https://arxiv.org/abs/2003.11014)]
+  
+- **RPT:** Ziang Ma, Linyuan Wang, Haitao Zhang, Wei Lu, Jun Yin. <br />
+  "RPT: Learning Point Set Representation for Siamese Visual Tracking." ECCVW (2020).
+  [[paper](https://arxiv.org/abs/2008.03467)]
+  [[code](https://github.com/zhanght021/RPT)]
+  
+- **CenterTrack:** Xingyi Zhou, Vladlen Koltun, and Philipp Krahenbuhl. <br />
+  "Tracking objects as points." ECCV (2020).
+  [[paper](https://arxiv.org/abs/2004.01177)]
+  [[code](https://github.com/xingyizhou/CenterTrack)]
+  
+- **PointTracker:** Zhenbo Xu, Wei Zhang, Xiao Tan, Wei Yang, Huan Huang, Shilei Wen, Errui Ding, Liusheng Huang. <br />
+  "Segment as Points for Efficient Online Multi-Object Tracking and Segmentation." ECCV (2020).
+  [[paper](https://arxiv.org/abs/2007.01550)]
+  [[code](https://github.com/detectRecog/PointTrack)]
+  
+- **DCFST:** Linyu Zheng, Ming Tang, Yingying Chen, Jinqiao Wang, Hanqing Lu. <br />
+  "Learning Feature Embeddings for Discriminant Model based Tracking." ECCV (2020).
+  [[paper](https://arxiv.org/abs/1906.10414)]
+  [[code](https://github.com/noneUmbrella/DCFST)]
+  
+- **CLNet:** Xingping Dong, Jianbing Shen, Ling Shao, Fatih Porikli. <br />
+  "CLNet: A Compact Latent Network for Fast Adjusting Siamese Tracker." ECCV (2020).
+  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650375.pdf)]
+  [[code](https://github.com/xingpingdong/CLNet-tracking)]
+  
+- **RTAA:** Shuai Jia, Chao Ma, Yibing Song, Xiaokang Yang. <br />
+  "Robust Tracking against Adversarial Attacks." ECCV (2020).
+  [[paper](https://arxiv.org/abs/2007.09919)]
+  [[code](https://github.com/joshuajss/RTAA)]
+  
+- **EAA:** Siyuan Liang, Xingxing Wei, Siyuan Yao, Xiaochun Cao. <br />
+  "Efficient Adversarial Attacks for Visual Object Tracking." ECCV (2020).
+  [[paper](https://arxiv.org/abs/2008.00217)]
+
+- **SPARK:** Qing Guo, Xiaofei Xie, Felix Juefei-Xu, Lei Ma, Zhongguo Li, Wanli Xue, Wei Feng, Yang Liu. <br />
+  "SPARK: Spatial-aware Online Incremental Attack Against Visual Tracking." ECCV (2020).
+  [[paper](https://arxiv.org/pdf/1910.08681.pdf)]
+  
+- **CAT:** Chenglong Li, Lei Liu, Andong Lu, Qing Ji, Jin Tang. <br />
+  "Challenge-Aware RGBT Tracking." ECCV (2020).
+  [[paper](https://arxiv.org/abs/2007.13143)]
+
+- **JDE:** Zhongdao Wang, Liang Zheng, Yixuan Liu, Shengjin Wang. <br />
+  "Towards Real-Time Multi-Object Tracking." ECCV (2020).
+  [[paper](https://arxiv.org/pdf/1909.12605v1.pdf)]
+  [[code](https://gitee.com/mat026/Towards-Realtime-MOT)]
+  
+- **Chained-Tracker:** Jinlong Peng, Changan Wang, Fangbin Wan, Yang Wu, Yabiao Wang, Ying Tai, Chengjie Wang, Jilin Li, Feiyue Huang, Yanwei Fu. <br />
+  "Chained-Tracker: Chaining Paired Attentive Regression Results for End-to-End Joint Multiple-Object Detection and Tracking." ECCV (2020).
+  [[paper](https://arxiv.org/pdf/2007.14557.pdf)]
+  [[code](https://github.com/pjl1995/CTracker)]
+  
+- **TAO:** Achal Dave, Tarasha Khurana, Pavel Tokmakov, Cordelia Schmid, Deva Ramanan. <br />
+  "TAO: A Large-scale Benchmark for Tracking Any Object." ECCV (2020).
+  [[paper](https://arxiv.org/abs/2005.10356)]
+  [[code](http://taodataset.org/)]
 
 ### CVPR2020
 
@@ -72,6 +145,16 @@
 * **CGACD:** Fei Du, Peng Liu, Wei Zhao, Xianglong Tang.<br />
   "Correlation-Guided Attention for Corner Detection Based Visual Tracking." CVPR (2020).
 
+### IJCAI 2020
+
+- **TLPG-Tracker:** Siyuan Li, Zhi Zhang, Ziyu Liu, Anna Wang, Linglong Qiu, Feng Du. <br />
+  "TLPG-Tracker: Joint Learning of Target Localization and Proposal Generation for Visual Tracking." IJCAI (2020).
+  [[paper](https://www.ijcai.org/Proceedings/2020/99)]
+  
+- **E3SN:** Meng Lan, Yipeng Zhang, Qinning Xu, Lefei Zhang. <br />
+  "E3SN: Efficient End-to-End Siamese Network for Video Object Segmentation." IJCAI (2020).
+  [[paper](https://www.ijcai.org/Proceedings/2020/98)]
+  
 ### AAAI 2020
 
 - **SiamFC++:** Yinda Xu, Zeyu Wang, Zuoxin Li, Ye Yuan, Gang Yu. <br />
@@ -83,6 +166,23 @@
   "Discriminative and Robust Online Learning for Siamese Visual Tracking." AAAI (2020).
   [[paper](https://arxiv.org/abs/1909.02959)]
   [[code](https://github.com/shallowtoil/DROL)]
+  
+- **POST:** Ning Wang, Wengang Zhou, Guojun Qi, Houqiang Li. <br />
+  "POST: POlicy-Based Switch Tracking." AAAI (2020).
+  [[paper](https://ojs.aaai.org//index.php/AAAI/article/view/6899)]
+  
+- **SPS:** Qintao Hu, Lijun Zhou, Xiaoxiao Wang, Yao Mao, Jianlin Zhang, Qixiang Ye. <br />
+  "SPSTracker: Sub-Peak Suppression of Response Map for Robust Object Tracking." AAAI (2020).
+  [[paper](https://arxiv.org/pdf/1912.00597.pdf)]
+  [[code](https://www.ctolib.com/https://github.com/TrackerLB/SPSTracker)]
+  
+- **RPOT:** Yifan Yang, Guorong Li, Yuankai Qi, Qingming Huang. <br />
+  "Release the Power of Online-Training for Robust Visual Tracking." AAAI (2020).
+  [[paper](https://ojs.aaai.org//index.php/AAAI/article/view/6956)]
+  
+- **MetaRTT:** Ilchae Jung, Kihyun You, Hyeonwoo Noh, Minsu Cho, Bohyung Han. <br />
+  "Real-Time Object Tracking via Meta-Learning: Efficient Model Adaptation and One-Shot Channel Pruning." AAAI (2020).
+  [[paper](https://ojs.aaai.org//index.php/AAAI/article/view/6779)]
   
 - **GlobalTrack:** Lianghua Huang, Xin Zhao, Kaiqi Huang. <br />
   "GlobalTrack: A Simple and Strong Baseline for Long-term Tracking." AAAI (2020).
@@ -115,7 +215,7 @@
   [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Learning_Aberrance_Repressed_Correlation_Filters_for_Real-Time_UAV_Tracking_ICCV_2019_paper.pdf)]
   [[code](https://github.com/vision4robotics/ARCF-tracker)]
 
-* Lianghua Huang, Xin Zhao, Kaiqi Huang. <br />
+* **BGDT:** Lianghua Huang, Xin Zhao, Kaiqi Huang. <br />
   "Bridging the Gap Between Detection and Tracking: A Unified Approach." ICCV (2019).
   [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Bridging_the_Gap_Between_Detection_and_Tracking_A_Unified_Approach_ICCV_2019_paper.pdf)]
 
@@ -131,6 +231,10 @@
 * **CDTB:** Alan Lukežič, Ugur Kart, Jani Käpylä, Ahmed Durmush, Joni-Kristian Kämäräinen, Jiří Matas, Matej Kristan. <br />
   "CDTB: A Color and Depth Visual Object Tracking Dataset and Benchmark." ICCV (2019).
   [[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Lukezic_CDTB_A_Color_and_Depth_Visual_Object_Tracking_Dataset_and_ICCV_2019_paper.pdf)]
+  
+* **fdKCF:** Linyu Zheng, Ming Tang, Yingying Chen, Jinqiao Wang, Hanqing Lu. <br />
+  "Fast-deepKCF Without Boundary Effect." ICCV (2019).
+  [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zheng_Fast-deepKCF_Without_Boundary_Effect_ICCV_2019_paper.pdf)]
 
 * **VOT2019:** Kristan, Matej, et al.<br />
   "The Seventh Visual Object Tracking VOT2019 Challenge Results." ICCV workshops (2019).
@@ -208,6 +312,14 @@
   "Robust Estimation of Similarity Transformation for Visual Object Tracking." AAAI (2019). 
   [[paper](https://arxiv.org/pdf/1712.05231.pdf)]
   [[code](https://github.com/ihpdep/LDES)] 
+  
+* **ANT:** Yuankai Qi, Shengping Zhang, Weigang Zhang, Li Su, Qingming Huang, Ming-Hsuan Yang.<br />
+  "Learning Attribute-Specific Representations for Visual Tracking." AAAI (2019). 
+  [[paper](https://faculty.ucmerced.edu/mhyang/papers/aaai2019_tracking.pdf)]
+  
+* **Re2EMA:** Jianglei Huang, Wengang Zhou.<br />
+  "Re2EMA: Regularized and Reinitialized Exponential Moving Average for Target Model Update in Object Tracking." AAAI (2019). 
+  [[paper](https://ojs.aaai.org//index.php/AAAI/article/view/4862)]
 
 ### NIPS2018
 
