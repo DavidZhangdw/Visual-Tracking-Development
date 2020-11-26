@@ -23,6 +23,7 @@
 | PR      | Pattern Recognition                                        | CCF-B    | Elsevier  | SCI-1区Top                           |
 |         | Neural Computation                                         | CCF-B    | MIT Press | SCI-3区                              |
 |         | Neural Networks                                            | CCF-B    | Elsevier  | SCI-2区                              |
+|         | Information Sciences                                       | CCF-B    | Elsevier  | SCI-1区Top                           |
 |         |                                                            |          |           |                                      |
 | APIN    | Applied Intelligence                                       | CCF-C    | Springer  | SCI-3区                              |
 | ESWA    | Expert Systems with Applications                           | CCF-C    | Elsevier  | SCI-2区                              |
