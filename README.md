@@ -9,6 +9,10 @@
   "Graph Attention Tracking." Arxiv (2020).
   [[paper](https://arxiv.org/abs/2011.11204)] 
 
+- **CRACT:** Heng Fan, Haibin Ling.<br />
+  "CRACT: Cascaded Regression-Align-Classification for Robust Visual Tracking." Arxiv (2020).
+  [[paper](https://arxiv.org/abs/2011.12483)] 
+  
 ### ECCV 2020
 
 - **Ocean:** Zhipeng Zhang, Houwen Peng, Jianlong Fu, Bing Li, Weiming Hu. <br />
