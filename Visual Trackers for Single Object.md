@@ -1,4 +1,4 @@
-## Visual Trackers for Single Object
+﻿## Visual Trackers for Single Object
 
 -----------------------
 ### Dataset
@@ -24,9 +24,27 @@
 -----------------------
 ### Survey
 
+* Ross Goroshin, Jonathan Tompson, Debidatta Dwibedi. An Analysis of Object Representations in Deep Visual Trackers. [[paper](https://arxiv.org/pdf/2001.02593.pdf)]
+
 * Shaoze You, Hua Zhu, Menggang Li, Yutan Li. A Review of Visual Trackers and Analysis of its Application to Mobile Robot. [[paper](https://arxiv.org/ftp/arxiv/papers/1910/1910.09761.pdf)]
 
 * Seyed Mojtaba Marvasti-Zadeh, Li Cheng, Hossein Ghanei-Yakhdan, Shohreh Kasaei. Deep Learning for Visual Tracking: A Comprehensive Survey. [[paper](https://arxiv.org/pdf/1912.00535.pdf)]
+
+----------------------------
+### CVPR2020
+
+* **SiamAttn:** Yuechen Yu, Yilei Xiong, Weilin Huang, Matthew R. Scott. Deformable Siamese Attention Networks for Visual Object Tracking. [[paper](https://arxiv.org/pdf/2004.06711.pdf)]
+
+* **Siam R-CNN:** Paul Voigtlaender, Jonathon Luiten, Philip H.S. Torr, Bastian Leibe. Siam R-CNN: Visual Tracking by Re-Detection. [[paper](https://www.vision.rwth-aachen.de/media/papers/192/siamrcnn.pdf)][[code](https://github.com/VisualComputingInstitute/SiamR-CNN)][[project](https://www.vision.rwth-aachen.de/page/siamrcnn)]
+
+* **Retina-MAML:** Guangting Wang, Chong Luo, Xiaoyan Sun, Zhiwei Xiong, Wenjun Zeng. Tracking by Instance Detection: A Meta-Learning Approach. (**oral**) [[paper](https://arxiv.org/pdf/2004.00830.pdf)]
+
+* **PrDiMP:** Martin Danelljan, Luc Van Gool, Radu Timofte. Probabilistic Regression for Visual Tracking. [[paper](https://arxiv.org/pdf/2003.12565.pdf)][[code](https://github.com/visionml/pytracking)]
+
+* **CSA:** Bin Yan, Dong Wang, Huchuan Lu, Xiaoyun Yang. Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises. [[paper](https://arxiv.org/pdf/2003.09595.pdf)][[code](https://github.com/MasterBin-IIAU/CSA)]
+
+* **SiamBAN:** Zedu Chen, Bineng Zhong, Guorong Li, Shengping Zhang, Rongrong Ji. Siamese Box Adaptive Network for Visual Tracking. [[paper](https://arxiv.org/pdf/2003.06761.pdf)][[code](https://github.com/hqucv/siamban)]
+
 
 ----------------------------
 ### AAAI2020
@@ -35,7 +53,18 @@
 
 * **SPSTracker:** Qintao Hu, Lijun Zhou, Xiaoxiao Wang, Yao Mao, Jianlin Zhang, Qixiang Ye. "SPSTracker: Sub-Peak Suppression of Response Map for Robust Object Tracking." AAAI (2020). [[paper](https://arxiv.org/pdf/1912.00597.pdf)][[code](https://github.com/TrackerLB/SPSTracker)]
 
-* **SiamFC++:** Yinda Xu, Zeyu Wang, Zuoxin Li, Yuan Ye, Gang Yu. "SiamFC++: Towards Robust and Accurate Visual Tracking with Target Estimation Guidelines." AAAI (2020). [[paper](https://arxiv.org/pdf/1911.06188.pdf)]
+* **SiamFC++:** Yinda Xu, Zeyu Wang, Zuoxin Li, Yuan Ye, Gang Yu. "SiamFC++: Towards Robust and Accurate Visual Tracking with Target Estimation Guidelines." AAAI (2020). [[paper](https://arxiv.org/pdf/1911.06188.pdf)][[code](https://github.com/MegviiDetection/video_analyst)]
+
+----------------------------
+### 2020
+
+* **TS-RCN:** Ning Zhang, Jingen Liu, Ke Wang, Dan Zeng, Tao Mei. Robust Visual Object Tracking with Two-Stream Residual Convolutional Networks. [[paper](https://arxiv.org/pdf/2005.06536.pdf)]
+
+* **FCOT:** Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu. Fully Convolutional Online Tracking. [[paper](https://arxiv.org/pdf/2004.07109.pdf)][[code](https://github.com/MCG-NJU/FCOT)]
+
+* **Surroundings:** Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte. Know Your Surroundings: Exploiting Scene Information for Object Tracking. [[paper](https://arxiv.org/pdf/2003.11014.pdf)]
+
+* **DMV:** Gunhee Nam, Seoung Wug Oh, Joon-Young Lee, Seon Joo Kim. DMV: Visual Object Tracking via Part-level Dense Memory and Voting-based Retrieval. [[paper](https://arxiv.org/pdf/2003.09171.pdf)]
 
 -------------------
 ### ICCV2019
@@ -81,9 +110,10 @@
 
 * **SiamRPN++:** Bo Li, Wei Wu, Qiang Wang, Fangyi Zhang, Junliang Xing, Junjie Yan. "SiamRPN++: Evolution of Siamese Visual Tracking with Very Deep Networks." CVPR (2019 **oral**).[[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_SiamRPN_Evolution_of_Siamese_Visual_Tracking_With_Very_Deep_Networks_CVPR_2019_paper.pdf)][[project](http://bo-li.info/SiamRPN++/)]
 
-* **C-RPN:** Heng Fan, Haibin Ling. "Siamese Cascaded Region Proposal Networks for Real-Time Visual Tracking." CVPR (2019). [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Fan_Siamese_Cascaded_Region_Proposal_Networks_for_Real-Time_Visual_Tracking_CVPR_2019_paper.pdf)][[supp](http://openaccess.thecvf.com/content_CVPR_2019/supplemental/Fan_Siamese_Cascaded_Region_CVPR_2019_supplemental.pdf)]
+* **C-RPN:** Heng Fan, Haibin Ling. "Siamese Cascaded Region Proposal Networks for Real-Time Visual Tracking." CVPR (2019). [[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Fan_Siamese_Cascaded_Region_Proposal_Networks_for_Real-Time_Visual_Tracking_CVPR_2019_paper.pdf)][[supp](http://openaccess.thecvf.com/content_CVPR_2019/supplemental/Fan_Siamese_Cascaded_Region_CVPR_2019_supplemental.pdf)][[code](http://www.dabi.temple.edu/~hbling/code/CRPN/crpn.htm)]
 
 ### 2019
+* **Siam-GAN:** Zhaofu Diao, Ying Wei, Yujiang Fu, Shuo Feng. A single target tracking algorithm based on Generative Adversarial Networks. [[paper](https://arxiv.org/pdf/1912.11967.pdf)]
 
 * **SiamMan:** Wenzhang Zhou, Longyin Wen, Libo Zhang, Dawei Du, Tiejian Luo, Yanjun Wu. SiamMan: Siamese Motion-aware Network for Visual Tracking. [[paper](https://arxiv.org/pdf/1912.05515.pdf)]
 
