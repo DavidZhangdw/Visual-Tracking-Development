@@ -8,12 +8,61 @@
 - **SiamGAT:** Dongyan Guo, Yanyan Shao, Ying Cui, Zhenhua Wang, Liyan Zhang, Chunhua Shen.<br />
   "Graph Attention Tracking." Arxiv (2020).
   [[paper](https://arxiv.org/abs/2011.11204)] 
+  [[code](https://github.com/ohhhyeahhh/SiamGAT)]
 
 - **CRACT:** Heng Fan, Haibin Ling.<br />
   "CRACT: Cascaded Regression-Align-Classification for Robust Visual Tracking." Arxiv (2020).
   [[paper](https://arxiv.org/abs/2011.12483)] 
   
-### ECCV 2020
+### CVPR 2021
+
+- **TransT:** Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Xiaoyun yang, Huchuan Lu. <br />
+  "Transformer Tracking." CVPR (2021).
+  [[paper](https://arxiv.org/abs/2103.15436)]
+  [[code](https://github.com/chenxin-dlut/TransT)]
+  
+- **Alpha-Refine:** Bin Yan, Xinyu Zhang, Dong Wang, Huchuan Lu, Xiaoyun Yang. <br />
+  "Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation." CVPR (2021).
+  [[paper](https://arxiv.org/pdf/1911.12836.pdf)]
+  [[code](https://github.com/MasterBin-IIAU/AlphaRefine)]
+  
+- **LightTrack:** Bin Yan, Houwen Peng, Kan Wu, Dong Wang, Jianlong Fu, Huchuan Lu. <br />
+  "LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search." CVPR (2021).
+  [[paper](https://arxiv.org/abs/2003.xxxxx)]
+  [[code](https://github.com/cvpr-2021/lighttrack)]
+  
+- **TrTrack:** Ning Wang, Wengang Zhou, Jie Wang, Houqiang Li. <br />
+  "Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking." CVPR (2021).
+  [[paper](https://arxiv.org/pdf/2103.11681.pdf)]
+  [[code](https://github.com/594422814/TransformerTrack)]
+  
+- **SiamGAT:** Dongyan Guo, Yanyan Shao, Ying Cui, Zhenhua Wang, Liyan Zhang, Chunhua Shen.<br />
+  "Graph Attention Tracking." CVPR (2021).
+  [[paper](https://arxiv.org/abs/2011.11204)] 
+  [[code](https://github.com/ohhhyeahhh/SiamGAT)]
+  
+- **RE-Siam:** Deepak K. Gupta, Devanshu Arya, Efstratios Gavves. <br />
+  "Rotation Equivariant Siamese Networks for Tracking." CVPR (2021).
+  [[paper](https://arxiv.org/abs/2012.13078)]
+  [[code](https://github.com/dkgupta90/re-siamnet)]
+  
+- **DFT:** Linyu Zheng, Ming Tang, Yingying Chen, Jinqiao Wang, Hanqing Lu. <br />
+  "Distractor-Aware Fast Tracking via Dynamic Convolutions and MOT Philosophy." CVPR (2021).
+  [[paper](https://arxiv.org/abs/xxxxx)]
+  [[code](https://github.com/xxxxx)]
+  
+- **LF-Siam:** Xingping Dong, Jianbing Shen, Ling Shao, Fatih Porikli. <br />
+  "Learning to Filter: Siamese Relation Network for Robust Tracking." CVPR (2021).
+  [[paper](https://xxxxxx.pdf)]
+  [[code](https://github.com/xxxxx)]
+  
+- **IoU Attack:** Shuai Jia, Yibing Song, Chao Ma, Xiaokang Yang. <br />
+  "IoU Attack: Towards Temporally Coherent Black-Box Adversarial Attack for Visual Object Tracking." CVPR (2021).
+  [[paper](https://arxiv.org/abs/2103.14938)]
+  [[code](https://github.com/VISION-SJTU/IoUattack)]
+  
+  
+  ### ECCV 2020
 
 - **Ocean:** Zhipeng Zhang, Houwen Peng, Jianlong Fu, Bing Li, Weiming Hu. <br />
   "Ocean: Object-aware Anchor-free Tracking." ECCV (2020).
