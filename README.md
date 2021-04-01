@@ -5,15 +5,10 @@
 
 ### :star2: Recommendations :star2:
 
-- **SPARK:** Bin Yan1, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu.<br />
+- **SPARK:** Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu.<br />
   "Learning Spatio-Temporal Transformer for Visual Tracking." Arxiv (2021).
   [[paper](https://arxiv.org/pdf/2103.17154.pdf)] 
   [[code](https://github.com/researchmm/Stark)]
-  
-- **SiamGAT:** Dongyan Guo, Yanyan Shao, Ying Cui, Zhenhua Wang, Liyan Zhang, Chunhua Shen.<br />
-  "Graph Attention Tracking." CVPR (2021).
-  [[paper](https://arxiv.org/abs/2011.11204)] 
-  [[code](https://github.com/ohhhyeahhh/SiamGAT)]
 
 - **CRACT:** Heng Fan, Haibin Ling.<br />
   "CRACT: Cascaded Regression-Align-Classification for Robust Visual Tracking." Arxiv (2020).
