@@ -67,7 +67,7 @@
   [[code](https://github.com/VISION-SJTU/IoUattack)]
   
   
-  ### ECCV 2020
+### ECCV 2020
 
 - **Ocean:** Zhipeng Zhang, Houwen Peng, Jianlong Fu, Bing Li, Weiming Hu. <br />
   "Ocean: Object-aware Anchor-free Tracking." ECCV (2020).
