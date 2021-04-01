@@ -46,6 +46,11 @@
   [[paper](https://arxiv.org/abs/2012.13078)]
   [[code](https://github.com/dkgupta90/re-siamnet)]
   
+- **LangTrackBenchmark:** Xiao Wang, Xiujun Shu, Zhipeng Zhang, Bo Jiang, Yaowei Wang, Yonghong Tian, Feng Wu. <br />
+  "Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark." CVPR (2021).
+  [[paper](https://arxiv.org/pdf/2103.16746.pdf)]
+  [[code](https://sites.google.com/view/langtrackbenchmark/)]
+  
 - **DFT:** Linyu Zheng, Ming Tang, Yingying Chen, Jinqiao Wang, Hanqing Lu. <br />
   "Distractor-Aware Fast Tracking via Dynamic Convolutions and MOT Philosophy." CVPR (2021).
   [[paper](https://arxiv.org/abs/xxxxx)]
