@@ -6,7 +6,7 @@
 ### :star2: Recommendations :star2:
 
 - **SiamGAT:** Dongyan Guo, Yanyan Shao, Ying Cui, Zhenhua Wang, Liyan Zhang, Chunhua Shen.<br />
-  "Graph Attention Tracking." Arxiv (2020).
+  "Graph Attention Tracking." CVPR (2021).
   [[paper](https://arxiv.org/abs/2011.11204)] 
   [[code](https://github.com/ohhhyeahhh/SiamGAT)]
 
