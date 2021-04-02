@@ -41,6 +41,11 @@
   [[paper](https://arxiv.org/abs/2011.11204)] 
   [[code](https://github.com/ohhhyeahhh/SiamGAT)]
   
+- **Semi-Track:** Yang Fu, Sifei Liu, Umar Iqbal, Shalini De Mello, Humphrey Shi, Jan Kautz.<br />
+  "Learning to Track Instances without Video Annotations." CVPR (2021).
+  [[paper](https://arxiv.org/pdf/2104.00287.pdf)] 
+  [[code](https://oasisyang.github.io/projects/semi-track/index.html)]
+
 - **RE-Siam:** Deepak K. Gupta, Devanshu Arya, Efstratios Gavves. <br />
   "Rotation Equivariant Siamese Networks for Tracking." CVPR (2021).
   [[paper](https://arxiv.org/abs/2012.13078)]
