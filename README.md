@@ -61,9 +61,9 @@
   [[paper](https://arxiv.org/abs/xxxxx)]
   [[code](https://github.com/xxxxx)]
   
-- **LF-Siam:** Xingping Dong, Jianbing Shen, Ling Shao, Fatih Porikli. <br />
+- **LF-Siam:** Siyuan Cheng, Bineng Zhong, Guorong Li, Xin Liu, Zhenjun Tang, Xianxian Li, Jing Wang. <br />
   "Learning to Filter: Siamese Relation Network for Robust Tracking." CVPR (2021).
-  [[paper](https://xxxxxx.pdf)]
+  [[paper](https://arxiv.org/abs/2104.00829)]
   [[code](https://github.com/xxxxx)]
   
 - **IoU Attack:** Shuai Jia, Yibing Song, Chao Ma, Xiaokang Yang. <br />
