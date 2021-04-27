@@ -58,7 +58,7 @@
   
 - **DMTrack:** Zikai Zhang, Bineng Zhong, Shengping Zhang, Zhenjun Tang, Xin Liu, Zhaoxiang Zhang. <br />
   "Distractor-Aware Fast Tracking via Dynamic Convolutions and MOT Philosophy." CVPR (2021).
-  [[paper](https://arxiv.org/abs/2104.12041]
+  [[paper](https://arxiv.org/abs/2104.12041)]
   [[code](https://github.com/hqucv/dmtrack)]
   
 - **LF-Siam:** Siyuan Cheng, Bineng Zhong, Guorong Li, Xin Liu, Zhenjun Tang, Xianxian Li, Jing Wang. <br />
