@@ -28,7 +28,7 @@
   
 - **LightTrack:** Bin Yan, Houwen Peng, Kan Wu, Dong Wang, Jianlong Fu, Huchuan Lu. <br />
   "LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search." CVPR (2021).
-  [[paper](https://arxiv.org/abs/2003.xxxxx)]
+  [[paper](https://arxiv.org/abs/2104.14545)]
   [[code](https://github.com/cvpr-2021/lighttrack)]
   
 - **TrTrack:** Ning Wang, Wengang Zhou, Jie Wang, Houqiang Li. <br />
