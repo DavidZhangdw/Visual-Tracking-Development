@@ -36,10 +36,25 @@
   [[paper](https://arxiv.org/pdf/2103.11681.pdf)]
   [[code](https://github.com/594422814/TransformerTrack)]
   
+- **STMTrack:** Zhihong Fu, Qingjie Liu, Zehua Fu, Yunhong Wang. <br />
+  "STMTrack: Template-free Visual Tracking with Space-time Memory Networks." CVPR (2021).
+  [[paper](https://arxiv.org/abs/2104.00324)]
+  [[code](https://github.com/fzh0917/STMTrack)]
+  
 - **SiamGAT:** Dongyan Guo, Yanyan Shao, Ying Cui, Zhenhua Wang, Liyan Zhang, Chunhua Shen.<br />
   "Graph Attention Tracking." CVPR (2021).
   [[paper](https://arxiv.org/abs/2011.11204)] 
   [[code](https://github.com/ohhhyeahhh/SiamGAT)]
+  
+- **PUL:** Qiangqiang Wu, Jia Wan, Antoni B. Chan. <br />
+  "Progressive Unsupervised Learning for Visual Object Tracking." CVPR (2021).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Progressive_Unsupervised_Learning_for_Visual_Object_Tracking_CVPR_2021_paper.pdf)]
+  [[code](https://github.com/PUL)]
+  
+- **CapsuleRRT:** Ding Ma, Xiangqian Wu. <br />
+  "CapsuleRRT: Relationships-Aware Regression Tracking via Capsules." CVPR (2021).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ma_CapsuleRRT_Relationships-Aware_Regression_Tracking_via_Capsules_CVPR_2021_paper.pdf)]
+  [[code](https://github.com/CapsuleRRT)]
   
 - **Semi-Track:** Yang Fu, Sifei Liu, Umar Iqbal, Shalini De Mello, Humphrey Shi, Jan Kautz.<br />
   "Learning to Track Instances without Video Annotations." CVPR (2021).
@@ -50,6 +65,11 @@
   "Rotation Equivariant Siamese Networks for Tracking." CVPR (2021).
   [[paper](https://arxiv.org/abs/2012.13078)]
   [[code](https://github.com/dkgupta90/re-siamnet)]
+  
+- **SiamNLP:** Qi Feng, Vitaly Ablavsky, Qinxun Bai, Stan Sclaroff. <br />
+  "Siamese Natural Language Tracker: Tracking by Natural Language Descriptions with Siamese Trackers." CVPR (2021).
+  [[paper](https://arxiv.org/abs/1912.02048v2)]
+  [[code](https://github.com/fredfung007/snlt)]
   
 - **LangTrackBenchmark:** Xiao Wang, Xiujun Shu, Zhipeng Zhang, Bo Jiang, Yaowei Wang, Yonghong Tian, Feng Wu. <br />
   "Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark." CVPR (2021).
@@ -70,6 +90,11 @@
   "IoU Attack: Towards Temporally Coherent Black-Box Adversarial Attack for Visual Object Tracking." CVPR (2021).
   [[paper](https://arxiv.org/abs/2103.14938)]
   [[code](https://github.com/VISION-SJTU/IoUattack)]
+  
+- **MeanShift++:** Jennifer Jang, Heinrich Jiang. <br />
+  "MeanShift++: Extremely Fast Mode-Seeking With Applications to Segmentation and Object Tracking." CVPR (2021).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Jang_MeanShift_Extremely_Fast_Mode-Seeking_With_Applications_to_Segmentation_and_Object_CVPR_2021_paper.pdf)]
+  [[code](https://github.com/MeanShift++)]
   
   
 ### ECCV 2020
