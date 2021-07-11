@@ -51,6 +51,11 @@
   [[paper](https://arxiv.org/pdf/2012.02776.pdf)] 
   [[code](https://github.com/wencheng256/SiamBAN-ACM)]
   
+- **PST:** Gunhee Nam, Miran Heo, Seoung Wug Oh, Joon-Young Lee, Seon Joo Kim.<br />
+  "Polygonal Point Set Tracking." CVPR (2021).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Nam_Polygonal_Point_Set_Tracking_CVPR_2021_paper.pdf)] 
+  [[code](https://github.com/PST)]
+  
 - **PUL:** Qiangqiang Wu, Jia Wan, Antoni B. Chan. <br />
   "Progressive Unsupervised Learning for Visual Object Tracking." CVPR (2021).
   [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Progressive_Unsupervised_Learning_for_Visual_Object_Tracking_CVPR_2021_paper.pdf)]
@@ -80,6 +85,11 @@
   "Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark." CVPR (2021).
   [[paper](https://arxiv.org/pdf/2103.16746.pdf)]
   [[code](https://sites.google.com/view/langtrackbenchmark/)]
+  
+- **DroneCrowd:** Longyin Wen, Dawei Du, Pengfei Zhu, Qinghua Hu, Qilong Wang, Liefeng Bo, Siwei Lyu. <br />
+  "Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark." CVPR (2021).
+  [[paper](https://arxiv.org/pdf/2105.02440.pdf)]
+  [[code](https://github.com/VisDrone/DroneCrowd)]
   
 - **DMTrack:** Zikai Zhang, Bineng Zhong, Shengping Zhang, Zhenjun Tang, Xin Liu, Zhaoxiang Zhang. <br />
   "Distractor-Aware Fast Tracking via Dynamic Convolutions and MOT Philosophy." CVPR (2021).
