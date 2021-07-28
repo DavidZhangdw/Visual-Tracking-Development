@@ -6,13 +6,33 @@
 ### :star2: Recommendations :star2:
 
 - **SPARK:** Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu.<br />
-  "Learning Spatio-Temporal Transformer for Visual Tracking." Arxiv (2021).
+  "Learning Spatio-Temporal Transformer for Visual Tracking." ICCV (2021).
   [[paper](https://arxiv.org/pdf/2103.17154.pdf)] 
   [[code](https://github.com/researchmm/Stark)]
+  
+- **LTCA:** Christoph Mayer, Martin Danelljan, Danda Pani Paudel, Luc Van Gool.<br />
+  "Learning Target Candidate Association to Keep Track of What Not to Track." ArXiv (2021).
+  [[paper](https://arxiv.org/abs/2103.16556)] 
+  [[code](https://github.com/visionml/pytracking)]
+  
+  
+### ICCV 2021
 
-- **CRACT:** Heng Fan, Haibin Ling.<br />
-  "CRACT: Cascaded Regression-Align-Classification for Robust Visual Tracking." Arxiv (2020).
-  [[paper](https://arxiv.org/abs/2011.12483)] 
+- **SPARK:** Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu.<br />
+  "Learning Spatio-Temporal Transformer for Visual Tracking." ICCV (2021).
+  [[paper](https://arxiv.org/pdf/2103.17154.pdf)] 
+  [[code](https://github.com/researchmm/Stark)]
+  
+- **LTM:**  Zhang Zhipeng, Liu Yihao, Wang Xiao, Li Bing, Hu Weiming. <br />
+  "Learn to Match: Automatic Matching Network Design for Visual Tracking." ICCV (2021).
+  [[paper](https://arxiv.org/abs/xxxx)]
+  [[code](https://github.com/xxxx)]
+  
+- **ABA:** Qing Guo, Ziyi Cheng, Felix Juefei-Xu, Lei Ma, Xiaofei Xie, Yang Liu, Jianjun Zhao. <br />
+  "Learning to Adversarially Blur Visual Object Tracking." ICCV (2021).
+  [[paper](https://arxiv.org/abs/2107.12085)]
+  [[code](https://github.com/tsingqguo/ABA)]
+  
   
 ### CVPR 2021
 
@@ -110,6 +130,45 @@
   "MeanShift++: Extremely Fast Mode-Seeking With Applications to Segmentation and Object Tracking." CVPR (2021).
   [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Jang_MeanShift_Extremely_Fast_Mode-Seeking_With_Applications_to_Segmentation_and_Object_CVPR_2021_paper.pdf)]
   [[code](https://github.com/MeanShift++)]
+  
+  
+### IROS 2021
+
+- **CRACT:** Heng Fan, Haibin Ling.<br />
+  "CRACT: Cascaded Regression-Align-Classification for Robust Visual Tracking." IROS (2020).
+  [[paper](https://arxiv.org/abs/2011.12483)] 
+  
+  
+### WACV 2021
+
+- **MART:** Heng Fan, Haibin Ling.<br />
+  "MART: Motion-Aware Recurrent Neural Network for Robust Visual Tracking." WACV (2021).
+  [[paper](https://openaccess.thecvf.com/content/WACV2021/papers/Fan_MART_Motion-Aware_Recurrent_Neural_Network_for_Robust_Visual_Tracking_WACV_2021_paper.pdf)] 
+  [[code](https://hengfan2010.github.io/projects/MART/MART.htm)]
+  
+- **TracKlinic:** Heng Fan, Fan Yang, Peng Chu, Yuewei Lin, Lin Yuan, Haibin Ling. <br />
+  "TracKlinic: Diagnosis of Challenge Factors in Visual Tracking." WACV (2021).
+  [[paper](https://arxiv.org/abs/1911.07959)]
+  [[code](https://hengfan2010.github.io/projects/TracKlinic/TracKlinic.htm.)]
+  
+  
+### AAAI 2021
+
+- **MUG:** Lijun Zhou, Antoine Ledent, Qintao Hu, Ting Liu, Jianlin Zhang, Marius Kloft.<br />
+  "Model Uncertainty Guides Visual Object Tracking." AAAI (2021).
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16473)] 
+  
+- **UPA:** Li Ding, Yongwei Wang, Kaiwen Yuan, Minyang Jiang, Ping Wang, Hua Huang, Z. Jane Wang. <br />
+  "Towards Universal Physical Attacks on Single Object Tracking." AAAI (2021).
+  [[paper](https://www.aaai.org/AAAI21Papers/AAAI-2606.DingL.pdf)]
+
+- **PACNet:** Dawei Zhang, Zhonglong Zheng, Riheng Jia, Minglu Li.<br />
+  "Visual Tracking via Hierarchical Deep Reinforcement Learning." AAAI (2021).
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16443)] 
+  
+- **MSANet:** Xuesong Chen, Canmiao Fu, Feng Zheng, Yong Zhao, Hongsheng Li, Ping Luo, Guo-Jun Qi. <br />
+  "A Unified Multi-Scenario Attacking Network for Visual Object Tracking." AAAI (2021).
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16195)]
   
   
 ### ECCV 2020
