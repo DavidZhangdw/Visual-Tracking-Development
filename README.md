@@ -23,10 +23,15 @@
   [[paper](https://arxiv.org/pdf/2103.17154.pdf)] 
   [[code](https://github.com/researchmm/Stark)]
   
-- **LTM:**  Zhang Zhipeng, Liu Yihao, Wang Xiao, Li Bing, Hu Weiming. <br />
+- **AutoMatch:**  Zhang Zhipeng, Liu Yihao, Wang Xiao, Li Bing, Hu Weiming. <br />
   "Learn to Match: Automatic Matching Network Design for Visual Tracking." ICCV (2021).
-  [[paper](https://arxiv.org/abs/xxxx)]
-  [[code](https://github.com/xxxx)]
+  [[paper](https://arxiv.org/pdf/2108.00803.pdf)]
+  [[code](https://github.com/JudasDie/SOTS)]
+  
+- **HiFT:**  Ziang Cao, Changhong Fu, Junjie Ye, Bowen Li, Yiming Li. <br />
+  "HiFT: Hierarchical Feature Transformer for Aerial Tracking." ICCV (2021).
+  [[paper](https://arxiv.org/pdf/2108.00202.pdf)]
+  [[code](https://github.com/vision4robotics/HiFT)]
   
 - **ABA:** Qing Guo, Ziyi Cheng, Felix Juefei-Xu, Lei Ma, Xiaofei Xie, Yang Liu, Jianjun Zhao. <br />
   "Learning to Adversarially Blur Visual Object Tracking." ICCV (2021).
