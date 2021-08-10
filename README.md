@@ -33,6 +33,16 @@
   [[paper](https://arxiv.org/pdf/2108.00202.pdf)]
   [[code](https://github.com/vision4robotics/HiFT)]
   
+- **VASR:** Kenan Dai, Jie Zhao, Lijun Wang, Dong Wang, Jianhua Li, Huchuan Lu, Xuesheng Qian, Xiaoyun Yang. <br />
+  "Video Annotation for Visual Tracking via Selection and Refinement." ICCV (2021).
+  [[paper](https://arxiv.org/pdf/2108.03821.pdf)]
+  [[code](hhttps://github.com/Daikenan/VASR)]
+
+- **SAOT:** Zikun Zhou, Wenjie Pei, Xin Li, Hongpeng Wang, Feng Zheng, Zhenyu He. <br />
+  "Saliency-Associated Object Tracking." ICCV (2021).
+  [[paper](https://arxiv.org/pdf/2108.03637.pdf)]
+  [[code](https://github.com/ZikunZhou/SAOT)]
+  
 - **ABA:** Qing Guo, Ziyi Cheng, Felix Juefei-Xu, Lei Ma, Xiaofei Xie, Yang Liu, Jianjun Zhao. <br />
   "Learning to Adversarially Blur Visual Object Tracking." ICCV (2021).
   [[paper](https://arxiv.org/abs/2107.12085)]
