@@ -18,7 +18,7 @@
   
 ### ICCV 2021
 
-- **SPARK:** Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu.<br />
+- **STARK:** Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu.<br />
   "Learning Spatio-Temporal Transformer for Visual Tracking." ICCV (2021).
   [[paper](https://arxiv.org/pdf/2103.17154.pdf)] 
   [[code](https://github.com/researchmm/Stark)]
