@@ -36,7 +36,7 @@
 - **VASR:** Kenan Dai, Jie Zhao, Lijun Wang, Dong Wang, Jianhua Li, Huchuan Lu, Xuesheng Qian, Xiaoyun Yang. <br />
   "Video Annotation for Visual Tracking via Selection and Refinement." ICCV (2021).
   [[paper](https://arxiv.org/pdf/2108.03821.pdf)]
-  [[code](hhttps://github.com/Daikenan/VASR)]
+  [[code](https://github.com/Daikenan/VASR)]
 
 - **SAOT:** Zikun Zhou, Wenjie Pei, Xin Li, Hongpeng Wang, Feng Zheng, Zhenyu He. <br />
   "Saliency-Associated Object Tracking." ICCV (2021).
