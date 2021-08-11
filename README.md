@@ -42,6 +42,11 @@
   "Saliency-Associated Object Tracking." ICCV (2021).
   [[paper](https://arxiv.org/pdf/2108.03637.pdf)]
   [[code](https://github.com/ZikunZhou/SAOT)]
+ 
+- **BAT:** Chaoda Zheng, Xu Yan, Jiantao Gao, Weibing Zhao, Wei Zhang, Zhen Li, Shuguang Cui. <br />
+  "Box-Aware Feature Enhancement for Single Object Tracking on Point Clouds." ICCV (2021).
+  [[paper](https://arxiv.org/pdf/2108.04728.pdf)]
+  [[code](https://github.com/Ghostish/BAT)]
   
 - **ABA:** Qing Guo, Ziyi Cheng, Felix Juefei-Xu, Lei Ma, Xiaofei Xie, Yang Liu, Jianjun Zhao. <br />
   "Learning to Adversarially Blur Visual Object Tracking." ICCV (2021).
