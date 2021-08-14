@@ -10,8 +10,8 @@
   [[paper](https://arxiv.org/pdf/2103.17154.pdf)] 
   [[code](https://github.com/researchmm/Stark)]
   
-- **LTCA:** Christoph Mayer, Martin Danelljan, Danda Pani Paudel, Luc Van Gool.<br />
-  "Learning Target Candidate Association to Keep Track of What Not to Track." ArXiv (2021).
+- **KeepTrack:** Christoph Mayer, Martin Danelljan, Danda Pani Paudel, Luc Van Gool.<br />
+  "Learning Target Candidate Association to Keep Track of What Not to Track." ICCV (2021).
   [[paper](https://arxiv.org/abs/2103.16556)] 
   [[code](https://github.com/visionml/pytracking)]
   
@@ -33,16 +33,21 @@
   [[paper](https://arxiv.org/pdf/2108.00202.pdf)]
   [[code](https://github.com/vision4robotics/HiFT)]
   
-- **VASR:** Kenan Dai, Jie Zhao, Lijun Wang, Dong Wang, Jianhua Li, Huchuan Lu, Xuesheng Qian, Xiaoyun Yang. <br />
-  "Video Annotation for Visual Tracking via Selection and Refinement." ICCV (2021).
-  [[paper](https://arxiv.org/pdf/2108.03821.pdf)]
-  [[code](https://github.com/Daikenan/VASR)]
+- **KeepTrack:** Christoph Mayer, Martin Danelljan, Danda Pani Paudel, Luc Van Gool.<br />
+  "Learning Target Candidate Association to Keep Track of What Not to Track." ICCV (2021).
+  [[paper](https://arxiv.org/abs/2103.16556)] 
+  [[code](https://github.com/visionml/pytracking)]
 
 - **SAOT:** Zikun Zhou, Wenjie Pei, Xin Li, Hongpeng Wang, Feng Zheng, Zhenyu He. <br />
   "Saliency-Associated Object Tracking." ICCV (2021).
   [[paper](https://arxiv.org/pdf/2108.03637.pdf)]
   [[code](https://github.com/ZikunZhou/SAOT)]
  
+- **VASR:** Kenan Dai, Jie Zhao, Lijun Wang, Dong Wang, Jianhua Li, Huchuan Lu, Xuesheng Qian, Xiaoyun Yang. <br />
+  "Video Annotation for Visual Tracking via Selection and Refinement." ICCV (2021).
+  [[paper](https://arxiv.org/pdf/2108.03821.pdf)]
+  [[code](https://github.com/Daikenan/VASR)]
+  
 - **BAT:** Chaoda Zheng, Xu Yan, Jiantao Gao, Weibing Zhao, Wei Zhang, Zhen Li, Shuguang Cui. <br />
   "Box-Aware Feature Enhancement for Single Object Tracking on Point Clouds." ICCV (2021).
   [[paper](https://arxiv.org/pdf/2108.04728.pdf)]
