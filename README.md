@@ -43,6 +43,21 @@
   [[paper](https://arxiv.org/pdf/2108.03637.pdf)]
   [[code](https://github.com/ZikunZhou/SAOT)]
  
+- **DepthTrack:** Song Yan, Jinyu Yang, Jani Käpylä, Feng Zheng, Aleš Leonardis, Joni-Kristian Kämäräinen. <br />
+  "DepthTrack : Unveiling the Power of RGBD Tracking." ICCV (2021).
+  [[paper](https://arxiv.org/abs/2108.13962)]
+  [[code](https://github.com/xiaozai/DeT)]
+  
+- **USOT:** Jilai Zheng, Chao Ma, Houwen Peng, Xiaokang Yang. <br />
+  "Learning to Track Objects from Unlabeled Videos." ICCV (2021).
+  [[paper](https://arxiv.org/abs/2108.12711)]
+  [[code](https://github.com/VISION-SJTU/USOT)]
+  
+- **FPV:** Matteo Dunnhofer, Antonino Furnari, Giovanni Maria Farinella, Christian Micheloni. <br />
+  "Is First Person Vision Challenging for Object Tracking?." ICCVW (2021).
+  [[paper](https://arxiv.org/abs/2108.13665)]
+  [[code](https://github.com/md/fpv)]
+  
 - **VASR:** Kenan Dai, Jie Zhao, Lijun Wang, Dong Wang, Jianhua Li, Huchuan Lu, Xuesheng Qian, Xiaoyun Yang. <br />
   "Video Annotation for Visual Tracking via Selection and Refinement." ICCV (2021).
   [[paper](https://arxiv.org/pdf/2108.03821.pdf)]
