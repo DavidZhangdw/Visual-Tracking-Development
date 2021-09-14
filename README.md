@@ -15,6 +15,10 @@
   [[paper](https://arxiv.org/abs/2103.16556)] 
   [[code](https://github.com/visionml/pytracking)]
   
+- **VisEvent:** Xiao Wang, Jianing Li, Lin Zhu, Zhipeng Zhang, Zhe Chen, Xin Li, Yaowei Wang, Yonghong Tian, Feng Wu.<br />
+  "VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows." ArXiv (2021).
+  [[paper](https://arxiv.org/abs/2108.05015)] 
+  [[code](https://sites.google.com/view/viseventtrack/)]
   
 ### ICCV 2021
 
