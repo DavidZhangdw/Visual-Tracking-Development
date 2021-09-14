@@ -43,6 +43,16 @@
   [[paper](https://arxiv.org/pdf/2108.03637.pdf)]
   [[code](https://github.com/ZikunZhou/SAOT)]
  
+- **TOTB:** Heng Fan, Halady Akhilesha Miththanthaya, Harshit, Siranjiv Ramana Rajan, Xiaoqiong Liu, Zhilin Zou, Yuewei Lin, Haibin Ling. <br />
+  "Transparent Object Tracking Benchmark." ICCV (2021).
+  [[paper](https://arxiv.org/abs/2011.10875)]
+  [[code](https://hengfan2010.github.io/projects/TOTB/)]
+  
+ - **EFTrack:** Jiqing Zhang, Xin Yang, Yingkai Fu, Xiaopeng Wei, Baocai Yin, Bo Dong. <br />
+  "Object Tracking by Jointly Exploiting Frame and Event Domain." ICCV (2021).
+  [[paper](https://arxiv.org/abs/xxxx.xxxxx)]
+  [[code](https://github.com/Jee-King/ICCV2021_Event_Frame_Tracking)]
+  
 - **DepthTrack:** Song Yan, Jinyu Yang, Jani Käpylä, Feng Zheng, Aleš Leonardis, Joni-Kristian Kämäräinen. <br />
   "DepthTrack : Unveiling the Power of RGBD Tracking." ICCV (2021).
   [[paper](https://arxiv.org/abs/2108.13962)]
