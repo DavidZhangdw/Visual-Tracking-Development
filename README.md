@@ -54,7 +54,7 @@
   
  - **EFTrack:** Jiqing Zhang, Xin Yang, Yingkai Fu, Xiaopeng Wei, Baocai Yin, Bo Dong. <br />
   "Object Tracking by Jointly Exploiting Frame and Event Domain." ICCV (2021).
-  [[paper](https://arxiv.org/abs/xxxx.xxxxx)]
+  [[paper](https://arxiv.org/abs/2109.09052)]
   [[code](https://github.com/Jee-King/ICCV2021_Event_Frame_Tracking)]
   
 - **DepthTrack:** Song Yan, Jinyu Yang, Jani Käpylä, Feng Zheng, Aleš Leonardis, Joni-Kristian Kämäräinen. <br />
