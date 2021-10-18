@@ -9,7 +9,7 @@
   "Learning Spatio-Temporal Transformer for Visual Tracking." ICCV (2021).
   [[paper](https://arxiv.org/pdf/2103.17154.pdf)] 
   [[code](https://github.com/researchmm/Stark)]
-  
+    
 - **KeepTrack:** Christoph Mayer, Martin Danelljan, Danda Pani Paudel, Luc Van Gool.<br />
   "Learning Target Candidate Association to Keep Track of What Not to Track." ICCV (2021).
   [[paper](https://arxiv.org/abs/2103.16556)] 
@@ -32,6 +32,11 @@
   [[paper](https://arxiv.org/pdf/2108.00803.pdf)]
   [[code](https://github.com/JudasDie/SOTS)]
   
+- **DDT:** Bin Yu, Ming Tang, Linyu Zheng, Guibo Zhu, Jinqiao Wang.<br />
+  "High-Performance Discriminative Tracking with Transformers." ICCV (2021).
+  [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_High-Performance_Discriminative_Tracking_With_Transformers_ICCV_2021_paper.pdf)] 
+  [[code](https://github.com/xxxx/xxxx)]
+  
 - **HiFT:**  Ziang Cao, Changhong Fu, Junjie Ye, Bowen Li, Yiming Li. <br />
   "HiFT: Hierarchical Feature Transformer for Aerial Tracking." ICCV (2021).
   [[paper](https://arxiv.org/pdf/2108.00202.pdf)]
@@ -47,10 +52,10 @@
   [[paper](https://arxiv.org/pdf/2108.03637.pdf)]
   [[code](https://github.com/ZikunZhou/SAOT)]
  
-- **TOTB:** Heng Fan, Halady Akhilesha Miththanthaya, Harshit, Siranjiv Ramana Rajan, Xiaoqiong Liu, Zhilin Zou, Yuewei Lin, Haibin Ling. <br />
-  "Transparent Object Tracking Benchmark." ICCV (2021).
-  [[paper](https://arxiv.org/abs/2011.10875)]
-  [[code](https://hengfan2010.github.io/projects/TOTB/)]
+- **MLVSNet:** Zhoutao Wang, Qian Xie, Yu-Kun Lai, Jing Wu, Kun Long , Jun Wang. <br />
+  "MLVSNet: Multi-level Voting Siamese Network for 3D Visual Tracking." ICCV (2021).
+  [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_MLVSNet_Multi-Level_Voting_Siamese_Network_for_3D_Visual_Tracking_ICCV_2021_paper.pdf)]
+  [[code](https://github.com/CodeWZT/MLVSNet)]
   
  - **EFTrack:** Jiqing Zhang, Xin Yang, Yingkai Fu, Xiaopeng Wei, Baocai Yin, Bo Dong. <br />
   "Object Tracking by Jointly Exploiting Frame and Event Domain." ICCV (2021).
@@ -66,6 +71,11 @@
   "Learning to Track Objects from Unlabeled Videos." ICCV (2021).
   [[paper](https://arxiv.org/abs/2108.12711)]
   [[code](https://github.com/VISION-SJTU/USOT)]
+  
+- **TOTB:** Heng Fan, Halady Akhilesha Miththanthaya, Harshit, Siranjiv Ramana Rajan, Xiaoqiong Liu, Zhilin Zou, Yuewei Lin, Haibin Ling. <br />
+  "Transparent Object Tracking Benchmark." ICCV (2021).
+  [[paper](https://arxiv.org/abs/2011.10875)]
+  [[code](https://hengfan2010.github.io/projects/TOTB/)]
   
 - **FPV:** Matteo Dunnhofer, Antonino Furnari, Giovanni Maria Farinella, Christian Micheloni. <br />
   "Is First Person Vision Challenging for Object Tracking?." ICCVW (2021).
