@@ -42,6 +42,16 @@
   [[paper](https://arxiv.org/pdf/2108.00202.pdf)]
   [[code](https://github.com/vision4robotics/HiFT)]
   
+- **DualTFR:**  Fei Xie, Chunyu Wang, Guangting Wang, Wankou Yang, Wenjun Zeng. <br />
+  "Learning Tracking Representations via Dual-Branch Fully Transformer Networks." ICCVW (2021).
+  [[paper](https://arxiv.org/pdf/xxxxx)]
+  [[code](https://github.com/phiphiphi31/DualTFR)]
+  
+- **DMB:**  Fei Xie, Wankou Yang, Kaihua Zhang, Bo Liu, Wanli Xue, Wangmeng Zuo. <br /> 
+  "Learning Spatio-Appearance Memory Network for High-Performance Visual Tracking." ICCVW (2021).
+  [[paper](https://arxiv.org/pdf/2009.09669.pdf)]
+  [[code](https://github.com/phiphiphi31/DMB)]
+
 - **KeepTrack:** Christoph Mayer, Martin Danelljan, Danda Pani Paudel, Luc Van Gool.<br />
   "Learning Target Candidate Association to Keep Track of What Not to Track." ICCV (2021).
   [[paper](https://arxiv.org/abs/2103.16556)] 
