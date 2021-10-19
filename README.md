@@ -22,7 +22,7 @@
   
 ### WACV 2022
 
-- **SiamTPN:** Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu.<br />
+- **SiamTPN:** Daitao Xing, Nikolaos Evangeliou, Athanasios Tsoukalas, Anthony Tzes.<br />
   "Siamese Transformer Pyramid Networks for Real-Time UAV Tracking." WACV (2022).
   [[paper](https://arxiv.org/pdf/2110.08822.pdf)] 
   [[code](https://github.com/RISC-NYUAD/SiamTPNTracker)]
