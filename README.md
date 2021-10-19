@@ -20,6 +20,13 @@
   [[paper](https://arxiv.org/abs/2108.05015)] 
   [[code](https://sites.google.com/view/viseventtrack/)]
   
+### WACV 2022
+
+- **SiamTPN:** Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu.<br />
+  "Siamese Transformer Pyramid Networks for Real-Time UAV Tracking." WACV (2022).
+  [[paper](https://arxiv.org/pdf/2110.08822.pdf)] 
+  [[code](https://github.com/RISC-NYUAD/SiamTPNTracker)]
+  
 ### ICCV 2021
 
 - **STARK:** Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu.<br />
