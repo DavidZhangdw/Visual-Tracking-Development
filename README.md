@@ -5,6 +5,11 @@
 
 ### :star2: Recommendations :star2:
 
+- **SwinTrack:** Liting Lin,Heng Fan,Yong Xu,Haibin Ling.<br />
+  "SwinTrack: A Simple and Strong Baseline for Transformer Tracking." ArXiv (2021).
+  [[paper](https://arxiv.org/abs/2112.00995)] 
+  [[code](https://github.com/LitingLin/SwinTrack)]
+  
 - **STARK:** Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu.<br />
   "Learning Spatio-Temporal Transformer for Visual Tracking." ICCV (2021).
   [[paper](https://arxiv.org/pdf/2103.17154.pdf)] 
