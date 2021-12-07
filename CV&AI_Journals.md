@@ -54,10 +54,10 @@
 
 | Name | Full Name                                  | CCF Rank | Publisher            | Chinese Academy of Sciences Division |
 | ---- | ------------------------------------------ | -------- | -------------------- | ------------------------------------ |
-|      | Science China Information Sciences         | CCF-B    |                      | 2019 IF = 18.952                     |
-| JCST | Journal of Computer Science and Technology | CCF-B    |                      | 2018 IF = 15~17.5.                   |
-|      | Computational Visual Media                 |          |                      | SCI-1                                |
-| FCS  | Frontiers in Computer Science              | CCF-C    |                      | SCI-1                                |
+|      | Science China Information Sciences         | CCF-B    |                      |                  |
+| JCST | Journal of Computer Science and Technology | CCF-B    |                      |                  |
+|      | Computational Visual Media                 |          |                      |                            |
+| FCS  | Frontiers in Computer Science              | CCF-C    |                      |                               |
 |      |                                            |          |                      |                                      |
 |      | 计算机学报                                 | CCF-A    | 中国计算机学会       |                                      |
 |      | 软件学报                                   | CCF-A    | 中国计算机学会       |                                      |
