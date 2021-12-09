@@ -56,7 +56,7 @@
   
 - **DualTFR:**  Fei Xie, Chunyu Wang, Guangting Wang, Wankou Yang, Wenjun Zeng. <br />
   "Learning Tracking Representations via Dual-Branch Fully Transformer Networks." ICCVW (2021).
-  [[paper](https://arxiv.org/pdf/xxxxx)]
+  [[paper](https://arxiv.org/abs/2112.02571)]
   [[code](https://github.com/phiphiphi31/DualTFR)]
   
 - **DMB:**  Fei Xie, Wankou Yang, Kaihua Zhang, Bo Liu, Wanli Xue, Wangmeng Zuo. <br /> 
