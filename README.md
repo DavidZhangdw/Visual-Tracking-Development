@@ -5,7 +5,11 @@
 
 ### :star2: Recommendations :star2:
 
-- **SwinTrack:** Liting Lin,Heng Fan,Yong Xu,Haibin Ling.<br />
+- **VOTSurvey:** Sajid Javed, Martin Danelljan, Fahad Shahbaz Khan, Muhammad Haris Khan, Michael Felsberg, Jiri Matas.<br />
+  "Visual Object Tracking with Discriminative Filters and Siamese Networks: A Survey and Outlook." ArXiv (2021).
+  [[paper](https://arxiv.org/abs/2112.02838)] 
+  
+- **SwinTrack:** Liting Lin, Heng Fan, Yong Xu, Haibin Ling.<br />
   "SwinTrack: A Simple and Strong Baseline for Transformer Tracking." ArXiv (2021).
   [[paper](https://arxiv.org/abs/2112.00995)] 
   [[code](https://github.com/LitingLin/SwinTrack)]
