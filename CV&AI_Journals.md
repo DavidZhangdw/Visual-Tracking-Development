@@ -25,7 +25,9 @@
 | TKDD       | ACM Transactions on Knowledge Discovery from Data            | CCF-B    | ACM               | SCI-3区                              |
 | TCSVT      | IEEE Transactions on Circuits and Systems for Video Technology | CCF-B    | IEEE              | SCI-2区                              |
 | TITS       | IEEE Transactions on Intelligent Transportation Systems      | CCF-B    | IEEE              | SCI-1区Top                           |
+| TGRS       | IEEE Transactions on Geoscience and Remote Sensing           | CCF-B    | IEEE              | SCI-2区Top                           |
 | PR         | Pattern Recognition                                          | CCF-B    | Elsevier          | SCI-1区Top                           |
+| ML         | Machine Learning                                             | CCF-B    | Springer          | SCI-3区                              |
 |            | Neural Computation                                           | CCF-B    | MIT Press         | SCI-3区                              |
 |            | Neural Networks                                              | CCF-B    | Elsevier          | SCI-2区                              |
 |            | Information Sciences                                         | CCF-B    | Elsevier          | SCI-1区Top                           |
@@ -34,13 +36,17 @@
 |            |                                                              |          |                   |                                      |
 | TBD        | IEEE Transactions on Big Data                                | CCF-C    | IEEE              | None                                 |
 | APIN       | Applied Intelligence                                         | CCF-C    | Springer          | SCI-3区                              |
+| EAAI       | Engineering Applications of Artificial Intelligence          | CCF-C    | Elsevier          | SCI-2区                              |
 | ESWA       | Expert Systems with Applications                             | CCF-C    | Elsevier          | SCI-2区                              |
 | IVC        | Image and Vision Computing                                   | CCF-C    | Elsevier          | SCI-3区                              |
+| IJIS       | International Journal of Intelligent Systems                 | CCF-C    | Wiley             | SCI-2区                              |
 | KBS        | Knowledge-Based Systems                                      | CCF-C    | Elsevier          | SCI-1区Top                           |
 | NCA        | Neural Computing & Applications                              | CCF-C    | Springer          | SCI-2区                              |
 |            | Neurocomputing                                               | CCF-C    | Elsevier          | SCI-2区                              |
+|            | Signal Processing                                            | CCF-C    | Elsevier          | SCI-2区                              |
 | PRL        | Pattern Recognition Letters                                  | CCF-C    | Elsevier          | SCI-3区                              |
 | SPL        | IEEE Signal Processing Letters                               | CCF-C    | IEEE              | SCI-2区                              |
+| GRSL       | IEEE Geoscience and Remote Sensing Letters                   | CCF-C    | IEEE              | SCI-2区                              |
 | IET-IPR    | IET Image Processing                                         | CCF-C    | IET               | SCI-3区                              |
 | IET-CVI    | IET Computer Vision                                          | CCF-C    | IET               | SCI-4区                              |
 | MTA        | Multimedia Tools and Applications                            | CCF-C    | Springer          | SCI-4区                              |
