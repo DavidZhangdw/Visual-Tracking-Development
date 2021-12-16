@@ -24,10 +24,19 @@
   [[paper](https://arxiv.org/abs/2103.16556)] 
   [[code](https://github.com/visionml/pytracking)]
   
+  
+### ArXiv
+  
 - **VisEvent:** Xiao Wang, Jianing Li, Lin Zhu, Zhipeng Zhang, Zhe Chen, Xin Li, Yaowei Wang, Yonghong Tian, Feng Wu.<br />
   "VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows." ArXiv (2021).
   [[paper](https://arxiv.org/abs/2108.05015)] 
   [[code](https://sites.google.com/view/viseventtrack/)]
+  
+- **FEAR:** Vasyl Borsuk, Roman Vei, Orest Kupyn, Tetiana Martyniuk, Igor Krashenyi, Jiři Matas.<br />
+  "FEAR: Fast, Efficient, Accurate and Robust Visual Tracker." ArXiv (2021).
+  [[paper](https://arxiv.org/pdf/2112.07957.pdf)] 
+  [[code](https://xxxxxxx)]
+  
   
 ### WACV 2022
 
