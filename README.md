@@ -27,16 +27,21 @@
   
 ### ArXiv
   
-- **VisEvent:** Xiao Wang, Jianing Li, Lin Zhu, Zhipeng Zhang, Zhe Chen, Xin Li, Yaowei Wang, Yonghong Tian, Feng Wu.<br />
-  "VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows." ArXiv (2021).
-  [[paper](https://arxiv.org/abs/2108.05015)] 
-  [[code](https://sites.google.com/view/viseventtrack/)]
-  
 - **FEAR:** Vasyl Borsuk, Roman Vei, Orest Kupyn, Tetiana Martyniuk, Igor Krashenyi, Jiři Matas.<br />
   "FEAR: Fast, Efficient, Accurate and Robust Visual Tracker." ArXiv (2021).
   [[paper](https://arxiv.org/pdf/2112.07957.pdf)] 
   [[code](https://xxxxxxx)]
   
+- **ITB:** Xin Li, Qiao Liu, Wenjie Pei, Qiuhong Shen, Yaowei Wang, Huchuan Lu, Ming-Hsuan Yang.<br />
+  "An Informative Tracking Benchmark." ArXiv (2021).
+  [[paper](https://arxiv.org/abs/2112.06467)] 
+  [[code](https://github.com/XinLi-zn/Informative-tracking-benchmark)]
+  
+- **VisEvent:** Xiao Wang, Jianing Li, Lin Zhu, Zhipeng Zhang, Zhe Chen, Xin Li, Yaowei Wang, Yonghong Tian, Feng Wu.<br />
+  "VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows." ArXiv (2021).
+  [[paper](https://arxiv.org/abs/2108.05015)] 
+  [[code](https://sites.google.com/view/viseventtrack/)]
+
   
 ### WACV 2022
 
