@@ -609,7 +609,7 @@
 * **SiamMCF:** Henrique Morimitsu.<br />
   "Multiple Context Features in Siamese Networks for Visual Object Tracking." ECCV (2018).
   [[paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-11009-3_6.pdf)]
-  [[github](hhttps://github.com/hmorimitsu/siam-mcf)]
+  [[github](https://github.com/hmorimitsu/siam-mcf)]
 
 * **SACF:** Mengdan Zhang, Qiang Wang, Junliang Xing, Jin Gao, Peixi Peng, Weiming Hu, Steve Maybank.<br />
   "Visual Tracking via Spatially Aligned Correlation Filters Network." ECCV (2018).
