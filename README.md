@@ -605,6 +605,11 @@
   "Distractor-aware Siamese Networks for Visual Object Tracking." ECCV (2018).
   [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zheng_Zhu_Distractor-aware_Siamese_Networks_ECCV_2018_paper.pdf)]
   [[github](https://github.com/foolwood/DaSiamRPN)]
+  
+* **SiamMCF:** Henrique Morimitsu.<br />
+  "Multiple Context Features in Siamese Networks for Visual Object Tracking." ECCV (2018).
+  [[paper](https://link.springer.com/content/pdf/10.1007%2F978-3-030-11009-3_6.pdf)]
+  [[github](hhttps://github.com/hmorimitsu/siam-mcf)]
 
 * **SACF:** Mengdan Zhang, Qiang Wang, Junliang Xing, Jin Gao, Peixi Peng, Weiming Hu, Steve Maybank.<br />
   "Visual Tracking via Spatially Aligned Correlation Filters Network." ECCV (2018).
