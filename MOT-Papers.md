@@ -37,7 +37,7 @@ A 101 slide [[paper]](http://vision.stanford.edu/teaching/cs231b_spring1415/slid
 
 **CLEAR MOT** : Bernardin, K. & Stiefelhagen, R. "Evaluating Multiple Object Tracking Performance: The CLEAR MOT Metric" [[paper]](https://cvhci.anthropomatik.kit.edu/images/stories/msmmi/papers/eurasip2008.pdf)<br>
 **IDF1** : Ristani, E., Solera, F., Zou, R., Cucchiara, R. & Tomasi, C. "Performance Measures and a Data Set for Multi-Target, Multi-Camera Tracking" [[paper]](https://users.cs.duke.edu/~ristani/bmtt2016/ristani2016MTMC.pdf)<br>
-**Evaluation Code**: [[Python]](https://github.com/cheind/py-motmetrics)<br> 
+**Evaluation Code**: [[Python]](https://github.com/cheind/py-motmetrics)<br>   [[Matlab]](https://bitbucket.org/amilan/motchallenge-devkit/src/default/ )<br> 
 
 ## Researcher
 
