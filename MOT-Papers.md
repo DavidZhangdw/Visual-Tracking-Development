@@ -4,8 +4,6 @@ Multi-object tracking is a deeply explored but not successfully solved computer 
 
 ![MOT-demo](https://github.com/wangxiao5791509/MOT-Paper-List/blob/master/Tracking_D_clip.gif)
 
-- etector” protocol.
-
 <table class="center">
    </font>
 <font size="1" face="Courier New" >
@@ -723,9 +721,7 @@ Multi-object tracking is a deeply explored but not successfully solved computer 
 ​      <td>-</td>
    </tr>
 </table></font>
-<!-- #### Contents
 
-- [Multiple Objects Tracking]() -->
 
 ## Datasets
 
