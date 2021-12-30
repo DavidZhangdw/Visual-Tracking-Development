@@ -47,10 +47,7 @@ A 101 slide [[paper]](http://vision.stanford.edu/teaching/cs231b_spring1415/slid
 **Dynamic Vision and Learning Group** [[webpage and their source code]](https://dvl.in.tum.de/research/mot/)<br>
 **Longyin Wen** [[webpage and his source code]](http://www.cbsr.ia.ac.cn/users/lywen/)<br>
 **UCF** [[webpage]](http://crcv.ucf.edu/projects/tracking)<br>
-Some source codes in above webpage are not listed in below Open Source.Such as:<br>
-"segTrack"<br>
-"Exploiting Hierarchical Dense Structures on Hypergraphs for Multi-Object Tracking"<br>
-"Learning an image-based motion context for multiple people tracking"<br> 
+
 
 ## Open Source
 
