@@ -27,11 +27,12 @@ Multi-object tracking is a deeply explored but not successfully solved computer 
 [Apollo-Tracking](http://apolloscape.auto/tracking.html) 3D Lidar multi-object tracking.<br> 
 [Baidu Trajectory](http://apolloscape.auto/trajectory.html) Interesting dataset for trajectory prediction for Autonomous drive, wait to be opened.<br>
 
-## Overview
+## Review Papers
 
+Wenhan Luo, Junliang Xing, Anton Milan, Xiaoqin Zhang, Wei Liu, and Tae-Kyun Kim, "Multiple Object Tracking: A Literature Review" [[paper]](http://pdfs.semanticscholar.org/3dff/acda086689c1bcb01a8dad4557a4e92b8205.pdf)<br>
 P Emami,PM Pardalos,L Elefteriadou,S Ranka "Machine Learning Methods for Solving Assignment Problems in Multi-Target Tracking" [[paper]](http://xueshu.baidu.com/s?wd=paperuri%3A%28dcfbdc0f8f79fe44d9166fd2481e37aa%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fpdf%2F1802.06897&ie=utf-8&sc_us=15766836095004964816)<br>
-Wenhan Luo, Junliang Xing, Anton Milan, Xiaoqin Zhang, Wei Liu, Xiaowei Zhao and Tae-Kyun Kim, "Multiple Object Tracking: A Literature Review" [[paper]](http://pdfs.semanticscholar.org/3dff/acda086689c1bcb01a8dad4557a4e92b8205.pdf)<br>
-A 101 slide [[paper]](http://vision.stanford.edu/teaching/cs231b_spring1415/slides/greedy_fahim_albert.pdf)<br>
+A 101 slide, Globally-Optimal Greedy Algorithms for Tracking a Variable Number of Objects [[paper]](http://vision.stanford.edu/teaching/cs231b_spring1415/slides/greedy_fahim_albert.pdf)<br>
+Francisco Luque Sánchez, Siham Tabik, Luigi Troiano, Roberto Tagliaferri, Francisco Herrera, "Deep Learning in Video Multi-Object Tracking: A Survey" [[paper]](https://arxiv.org/pdf/1907.12740.pdf)<br>
 
 ## Evaluation Metric
 
