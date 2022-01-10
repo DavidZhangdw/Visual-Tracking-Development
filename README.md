@@ -27,6 +27,11 @@
   
 ### ArXiv
   
+- **InBN:** Mingzhe Guo, Zhipeng Zhang, Heng Fan, Liping Jing, Yilin Lyu, Bing Li, Weiming Hu.<br />
+  "Learning Target-aware Representation for Visual Tracking via Informative Interactions." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2201.02526)] 
+  [[code](https://xxxxxxx)]
+  
 - **FEAR:** Vasyl Borsuk, Roman Vei, Orest Kupyn, Tetiana Martyniuk, Igor Krashenyi, Jiři Matas.<br />
   "FEAR: Fast, Efficient, Accurate and Robust Visual Tracker." ArXiv (2021).
   [[paper](https://arxiv.org/pdf/2112.07957.pdf)] 
