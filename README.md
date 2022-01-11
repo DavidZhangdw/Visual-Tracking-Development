@@ -47,47 +47,47 @@
   [[paper](https://arxiv.org/abs/2108.05015)] 
   [[code](https://sites.google.com/view/viseventtrack/)]
   
-- **RPT++** Ziang Ma, Haitao Zhang, Linyuan Wang, Jun Yin.<br />
+- **RPT++:** Ziang Ma, Haitao Zhang, Linyuan Wang, Jun Yin.<br />
   "RPT++: Customized Feature Representation for Siamese Visual Tracking." ArXiv (2021).
   [[paper](https://arxiv.org/abs/2110.12194)] 
   [[code](https://xxxxxxx/)]
   
-- **IAT** Mengmeng Wang, Xiaoqian Yang, Yong Liu.<br />
+- **IAT:** Mengmeng Wang, Xiaoqian Yang, Yong Liu.<br />
   "Explicitly Modeling the Discriminability for Instance-Aware Visual Object Tracking." ArXiv (2021).
   [[paper](https://arxiv.org/abs/2110.13259)] 
   [[code](https://xxxxxxx/)]
   
-- **ALT** Di Yuan, Xiaojun Chang, Qiao Liu, Dehua Wang, Zhenyu He.<br />
+- **ALT:** Di Yuan, Xiaojun Chang, Qiao Liu, Dehua Wang, Zhenyu He.<br />
   "Active Learning for Deep Visual Tracking." ArXiv (2021).
   [[paper](https://arxiv.org/abs/2110.15030)] 
   [[code](https://xxxxxxx/)]
   
-- **FSLT** Jinghao Zhou, Bo Li, Peng Wang, Peixia Li, Weihao Gan, Wei Wu, Junjie Yan, Wanli Ouyang.<br />
+- **FSLT:** Jinghao Zhou, Bo Li, Peng Wang, Peixia Li, Weihao Gan, Wei Wu, Junjie Yan, Wanli Ouyang.<br />
   "Real-Time Visual Object Tracking via Few-Shot Learning." ArXiv (2021).
   [[paper](https://arxiv.org/pdf/2103.10130.pdf)] 
   [[code](https://xxxxxxx/)]
   
-- **DML** Jinghao Zhou, Bo Li, Lei Qiao, Peng Wang, Weihao Gan, Wei Wu, Junjie Yan, Wanli Ouyang.<br />
+- **DML:** Jinghao Zhou, Bo Li, Lei Qiao, Peng Wang, Weihao Gan, Wei Wu, Junjie Yan, Wanli Ouyang.<br />
   "Higher Performance Visual Tracking with Dual-Modal Localization." ArXiv (2021).
   [[paper](https://arxiv.org/pdf/2103.10089.pdf)] 
   [[code](https://xxxxxxx/)]
   
-- **TREG** Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu.<br />
+- **TREG:** Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu.<br />
   "Target Transformed Regression for Accurate Tracking." ArXiv (2021).
   [[paper](https://arxiv.org/pdf/2104.00403.pdf)] 
   [[code](https://github.com/MCG-NJU/TREG)]
   
-- **SiamSTM** Jinpu Zhang, Yuehuan Wang.<br />
+- **SiamSTM:** Jinpu Zhang, Yuehuan Wang.<br />
   "Spatio-Temporal Matching for Siamese Visual Tracking." ArXiv (2021).
   [[paper](https://arxiv.org/pdf/2105.02408.pdf)] 
   [[code](https://xxxxxxx/)]
   
-- **TrTr** Moju Zhao, Kei Okada, Masayuki Inaba.<br />
+- **TrTr:** Moju Zhao, Kei Okada, Masayuki Inaba.<br />
   "TrTr: Visual Tracking with Transformer." ArXiv (2021).
   [[paper](https://arxiv.org/pdf/2105.03817.pdf)] 
   [[code](https://github.com/tongtybj/TrTr)]
 
-- **FCOT** Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu..<br />
+- **FCOT:** Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu..<br />
   "Fully Convolutional Online Tracking." ArXiv (2020).
   [[paper](https://arxiv.org/abs/2004.07109)] 
   [[code](https://github.com/MCG-NJU/FCOT)]
