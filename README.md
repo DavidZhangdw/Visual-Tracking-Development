@@ -349,7 +349,7 @@
   [[paper](https://arxiv.org/abs/2111.06994)]
 
 - **TAPL:** Wei han, Hantao Huang, Xiaoxi Yu.<br />
-  "TAPL: Dynamic Part-based Visual Tracking via Attention-guided Part Localization." BMVC　(2021).
+  "TAPL: Dynamic Part-based Visual Tracking via Attention-guided Part Localization." BMVC (2021).
   [[paper](https://arxiv.org/abs/2110.13027)] 
  
   
