@@ -46,7 +46,51 @@
   "VisEvent: Reliable Object Tracking via Collaboration of Frame and Event Flows." ArXiv (2021).
   [[paper](https://arxiv.org/abs/2108.05015)] 
   [[code](https://sites.google.com/view/viseventtrack/)]
+  
+- **RPT++** Ziang Ma, Haitao Zhang, Linyuan Wang, Jun Yin.<br />
+  "RPT++: Customized Feature Representation for Siamese Visual Tracking." ArXiv (2021).
+  [[paper](https://arxiv.org/abs/2110.12194)] 
+  [[code](https://xxxxxxx/)]
+  
+- **IAT** Mengmeng Wang, Xiaoqian Yang, Yong Liu.<br />
+  "Explicitly Modeling the Discriminability for Instance-Aware Visual Object Tracking." ArXiv (2021).
+  [[paper](https://arxiv.org/abs/2110.13259)] 
+  [[code](https://xxxxxxx/)]
+  
+- **ALT** Di Yuan, Xiaojun Chang, Qiao Liu, Dehua Wang, Zhenyu He.<br />
+  "Active Learning for Deep Visual Tracking." ArXiv (2021).
+  [[paper](https://arxiv.org/abs/2110.15030)] 
+  [[code](https://xxxxxxx/)]
+  
+- **FSLT** Jinghao Zhou, Bo Li, Peng Wang, Peixia Li, Weihao Gan, Wei Wu, Junjie Yan, Wanli Ouyang.<br />
+  "Real-Time Visual Object Tracking via Few-Shot Learning." ArXiv (2021).
+  [[paper](https://arxiv.org/pdf/2103.10130.pdf)] 
+  [[code](https://xxxxxxx/)]
+  
+- **DML** Jinghao Zhou, Bo Li, Lei Qiao, Peng Wang, Weihao Gan, Wei Wu, Junjie Yan, Wanli Ouyang.<br />
+  "Higher Performance Visual Tracking with Dual-Modal Localization." ArXiv (2021).
+  [[paper](https://arxiv.org/pdf/2103.10089.pdf)] 
+  [[code](https://xxxxxxx/)]
+  
+- **TREG** Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu.<br />
+  "Target Transformed Regression for Accurate Tracking." ArXiv (2021).
+  [[paper](https://arxiv.org/pdf/2104.00403.pdf)] 
+  [[code](https://github.com/MCG-NJU/TREG)]
+  
+- **SiamSTM** Jinpu Zhang, Yuehuan Wang.<br />
+  "Spatio-Temporal Matching for Siamese Visual Tracking." ArXiv (2021).
+  [[paper](https://arxiv.org/pdf/2105.02408.pdf)] 
+  [[code](https://xxxxxxx/)]
+  
+- **TrTr** Moju Zhao, Kei Okada, Masayuki Inaba.<br />
+  "TrTr: Visual Tracking with Transformer." ArXiv (2021).
+  [[paper](https://arxiv.org/pdf/2105.03817.pdf)] 
+  [[code](https://github.com/tongtybj/TrTr)]
 
+- **FCOT** Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu..<br />
+  "Fully Convolutional Online Tracking." ArXiv (2020).
+  [[paper](https://arxiv.org/abs/2004.07109)] 
+  [[code](https://github.com/MCG-NJU/FCOT)]
   
 ### WACV 2022
 
@@ -106,6 +150,11 @@
   "Object Tracking by Jointly Exploiting Frame and Event Domain." ICCV (2021).
   [[paper](https://arxiv.org/abs/2109.09052)]
   [[code](https://github.com/Jee-King/ICCV2021_Event_Frame_Tracking)]
+  
+ - **Box2Mask:** Bin Zhao, Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte. <br />
+  "Generating Masks from Boxes by Mining Spatio-Temporal Consistencies in Videos." ICCV (2021).
+  [[paper](https://arxiv.org/abs/2101.02196)]
+  [[code](https://github.com/visionml/pytracking)]
   
 - **DepthTrack:** Song Yan, Jinyu Yang, Jani Käpylä, Feng Zheng, Aleš Leonardis, Joni-Kristian Kämäräinen. <br />
   "DepthTrack : Unveiling the Power of RGBD Tracking." ICCV (2021).
@@ -246,7 +295,16 @@
 - **CRACT:** Heng Fan, Haibin Ling.<br />
   "CRACT: Cascaded Regression-Align-Classification for Robust Visual Tracking." IROS (2020).
   [[paper](https://arxiv.org/abs/2011.12483)] 
-  
+
+- **SiamAPN++:** Ziang Cao, Changhong Fu, Junjie Ye, Bowen Li, Yiming Li.<br />
+  "SiamAPN++: Siamese Attentional Aggregation Network for Real-Time UAV Tracking." IROS (2021).
+  [[paper](https://arxiv.org/pdf/2106.08816.pdf)] 
+  [[code](https://github.com/vision4robotics/SiamAPN)]
+
+- **DarkLighter:** Junjie Ye, Changhong Fu, Guangze Zheng, Ziang Cao, Bowen Li.<br />
+  "DarkLighter: Light Up the Darkness for UAV Tracking." IROS (2021).
+  [[paper](https://arxiv.org/pdf/2107.14389.pdf)] 
+  [[code](https://github.com/vision4robotics/DarkLighter)]
   
 ### WACV 2021
 
@@ -279,6 +337,21 @@
   "A Unified Multi-Scenario Attacking Network for Visual Object Tracking." AAAI (2021).
   [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/16195)]
   
+
+### Others 2021
+
+- **PCDHV:** Ying Wang, Tingfa Xu, Jianan Li, Shenwang Jiang, Junjie Chen.<br />
+  "Pyramid Correlation based Deep Hough Voting for Visual Object Tracking." ACML (2021).
+  [[paper](https://arxiv.org/abs/2110.07994)] 
+  
+- **TrackMLP:** Tianyu Zhu, Rongkai Ma, Mehrtash Harandi, Tom Drummond. <br />
+  "Learning Online for Unified Segmentation and Tracking Models." IJCNN (2021).
+  [[paper](https://arxiv.org/abs/2111.06994)]
+
+- **TAPL:** Wei han, Hantao Huang, Xiaoxi Yu.<br />
+  "TAPL: Dynamic Part-based Visual Tracking via Attention-guided Part Localization." BMVC　(2021).
+  [[paper](https://arxiv.org/abs/2110.13027)] 
+ 
   
 ### ECCV 2020
 
@@ -295,6 +368,10 @@
 - **PGNet:** Bingyan Liao, Chenye Wang, Yayun Wang, Yaonong Wang, Jun Yin. <br />
   "PG-Net: Pixel to Global Matching Network for Visual Tracking." ECCV (2020).
   [[paper](https://arxiv.org/abs/2003.11014)]
+  
+- **STN:** Yuan Liu, Ruoteng Li, Yu Cheng, Robby T.Tan, Xiubao Sui. <br />
+  "Object Tracking using Spatio-Temporal Networks for Future Prediction Location." ECCV (2020).
+  [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670001.pdf)]
   
 - **RPT:** Ziang Ma, Linyuan Wang, Haitao Zhang, Wei Lu, Jun Yin. <br />
   "RPT: Learning Point Set Representation for Siamese Visual Tracking." ECCVW (2020).
@@ -460,6 +537,19 @@
   [[paper](https://arxiv.org/abs/1912.08531)]
   [[code](https://github.com/huanglianghua/GlobalTrack)]
 
+### Others 2020
+
+* **SiamKPN:** Qiang Li, Zekui Qin, Wenbo Zhang, Wen Zheng.<br />
+  "Siamese Keypoint Prediction Network for Visual Object Tracking." ArXiv 2020. 
+  [[paper](https://arxiv.org/abs/2006.04078)]
+  [[code](https://github.com/ZekuiQin/SiamKPN)]
+
+* **SiamCAN:** Wenzhang Zhou, Longyin Wen, Libo Zhang, Dawei Du, Tiejian Luo, Yanjun Wu. <br />
+  "SiamMan: Siamese Motion-aware Network for Visual Tracking." TIP 2020. 
+  [[paper](https://arxiv.org/abs/1912.05515v2)]
+  [[paper_new](https://arxiv.org/abs/1912.05515v2)]
+  [[code](https://isrc.iscas.ac.cn/gitlab/research/siamcan)]
+  
 ### ICCV2019
 
 * **DiMP:** Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte.<br />
