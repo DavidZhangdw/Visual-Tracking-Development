@@ -352,6 +352,9 @@
   "TAPL: Dynamic Part-based Visual Tracking via Attention-guided Part Localization." BMVC (2021).
   [[paper](https://arxiv.org/abs/2110.13027)] 
  
+- **CHASE:** Seyed Mojtaba Marvasti-Zadeh, Javad Khaghani, Li Cheng, Hossein Ghanei-Yakhdan, Shohreh Kasaei.<br />
+  "CHASE: Robust Visual Tracking via Cell-Level Differentiable Neural Architecture Search." BMVC (2021).
+  [[paper](https://arxiv.org/abs/2107.03463)] 
   
 ### ECCV 2020
 
@@ -539,6 +542,11 @@
 
 ### Others 2020
 
+* **COMET:** Seyed Mojtaba Marvasti-Zadeh, Javad Khaghani, Hossein Ghanei-Yakhdan, Shohreh Kasaei, and Li Cheng.<br />
+  "COMET: Context-aware iOu-guided network for sMall objEct Tracking." ACCV 2020. 
+  [[paper](https://arxiv.org/pdf/2006.02597.pdf)]
+  [[code](https://github.com/VisualTrackingVLL)]
+  
 * **SiamKPN:** Qiang Li, Zekui Qin, Wenbo Zhang, Wen Zheng.<br />
   "Siamese Keypoint Prediction Network for Visual Object Tracking." ArXiv 2020. 
   [[paper](https://arxiv.org/abs/2006.04078)]
