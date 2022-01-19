@@ -9,6 +9,11 @@
   "Visual Object Tracking with Discriminative Filters and Siamese Networks: A Survey and Outlook." ArXiv (2021).
   [[paper](https://arxiv.org/abs/2112.02838)] 
   
+- **DL4VT:** Seyed Mojtaba Marvasti-Zadeh, Li Cheng, Senior Member, Hossein Ghanei-Yakhdan, Shohreh Kasaei, Senior Member.<br />
+  "Deep Learning for Visual Tracking: A Comprehensive Survey." ArXiv (2021).
+  [[paper](https://arxiv.org/pdf/1912.00535.pdf)] 
+  [[code](https://github.com/MMarvasti/Deep-Learning-for-Visual-Tracking-Survey)]
+  
 - **SwinTrack:** Liting Lin, Heng Fan, Yong Xu, Haibin Ling.<br />
   "SwinTrack: A Simple and Strong Baseline for Transformer Tracking." ArXiv (2021).
   [[paper](https://arxiv.org/abs/2112.00995)] 
