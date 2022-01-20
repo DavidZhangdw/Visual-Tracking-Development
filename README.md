@@ -355,6 +355,11 @@
 
 ### Others 2021
 
+- **SiamGAN:** Yifei Zhou, Jing Li, Jun Chang, Yafu Xiao, Jun Wan, Hang Sun.<br />
+  "Siamese Guided Anchoring Network for Visual Tracking." IEEE IJCNN (2021).
+  [[paper](https://ieeexplore.ieee.org/document/9533985)] 
+  [[code](https://github.com/xxxxx.xx)]
+  
 - **CCR:** Shiming Ge, Chunhui Zhang, Shikun Li, Dan Zeng, Dacheng Tao.<br />
   "Cascaded Correlation Refinement for Robust Deep Tracking." IEEE TNNLS (2021).
   [[paper](https://ieeexplore.ieee.org/document/9069312)] 
