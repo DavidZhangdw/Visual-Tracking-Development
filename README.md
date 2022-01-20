@@ -32,6 +32,11 @@
   
 ### ArXiv
   
+- **WebUAV-3M:** Chunhui Zhang, Guanjie Huang, Li Liu, Shan Huang, Yinan Yang, Yuxuan Zhang, Xiang Wan, Shiming Ge.<br />
+  "WebUAV-3M: A Benchmark Unveiling the Power of Million-Scale Deep UAV Tracking." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2201.07425)] 
+  [[code](https://github.com/983632847/WebUAV-3M)]
+  
 - **InBN:** Mingzhe Guo, Zhipeng Zhang, Heng Fan, Liping Jing, Yilin Lyu, Bing Li, Weiming Hu.<br />
   "Learning Target-aware Representation for Visual Tracking via Informative Interactions." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2201.02526)] 
@@ -345,6 +350,11 @@
 
 ### Others 2021
 
+- **PTT:** Jiayao Shan, Sifan Zhou, Zheng Fang, Yubo Cui.<br />
+  "PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds." IROS (2021).
+  [[paper](https://arxiv.org/abs/2108.06455)] 
+  [[code](https://github.com/shanjiayao/PTT)]
+  
 - **PCDHV:** Ying Wang, Tingfa Xu, Jianan Li, Shenwang Jiang, Junjie Chen.<br />
   "Pyramid Correlation based Deep Hough Voting for Visual Object Tracking." ACML (2021).
   [[paper](https://arxiv.org/abs/2110.07994)] 
