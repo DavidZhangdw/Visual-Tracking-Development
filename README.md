@@ -102,6 +102,14 @@
   [[paper](https://arxiv.org/abs/2004.07109)] 
   [[code](https://github.com/MCG-NJU/FCOT)]
   
+### ICLR 2022
+
+- **FSBA:** Yiming Li, Haoxiang Zhong*, Xingjun Ma, Yong Jiang, Shu-Tao Xia.<br />
+  "Few-Shot Backdoor Attacks on Visual Object Tracking." ICLR (2022).
+  [[paper](https://openreview.net/pdf?id=qSV5CuSaK_a)] 
+  [[code](https://www.dropbox.com/s/nfg7en8azc1cvz3/codes_FSBA_ICLR22.zip?dl=0)]
+  
+  
 ### WACV 2022
 
 - **SiamTPN:** Daitao Xing, Nikolaos Evangeliou, Athanasios Tsoukalas, Anthony Tzes.<br />
