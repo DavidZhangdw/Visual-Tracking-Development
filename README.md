@@ -37,6 +37,10 @@
   [[paper](https://arxiv.org/abs/2201.07425)] 
   [[code](https://github.com/983632847/WebUAV-3M)]
   
+- **SOTSurvey:** Zahra Soleimanitaleb, Mohammad Ali Keyvanrad.<br />
+  "Single Object Tracking: A Survey of Methods, Datasets, and Evaluation Metrics." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2201.13066)] 
+  
 - **InBN:** Mingzhe Guo, Zhipeng Zhang, Heng Fan, Liping Jing, Yilin Lyu, Bing Li, Weiming Hu.<br />
   "Learning Target-aware Representation for Visual Tracking via Informative Interactions." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2201.02526)] 
