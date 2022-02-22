@@ -46,6 +46,11 @@
   "Single Object Tracking: A Survey of Methods, Datasets, and Evaluation Metrics." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2201.13066)] 
   
+- **AdaptiveSiam:** Madhu Kiran, Le Thanh Nguyen-Meidine, Rajat Sahay, Rafael Menelau Oliveira E Cruz, Louis-Antoine Blais-Morin, Eric Granger.<br />
+  "Generative Target Update for Adaptive Siamese Tracking." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2202.09938)] 
+  [[code](https://anonymous.4open.science/r/AdaptiveSiamese-CE78/)]
+  
 - **InBN:** Mingzhe Guo, Zhipeng Zhang, Heng Fan, Liping Jing, Yilin Lyu, Bing Li, Weiming Hu.<br />
   "Learning Target-aware Representation for Visual Tracking via Informative Interactions." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2201.02526)] 
