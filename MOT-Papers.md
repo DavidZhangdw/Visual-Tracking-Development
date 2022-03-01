@@ -722,7 +722,11 @@ Multi-object tracking is a deeply explored but not successfully solved computer 
    </tr>
 </table></font>
 
+### Recent MOT Papers
 
+**StrongSORT** Yunhao Du, Yang Song, Bo Yang, Yanyun Zhao. StrongSORT: Make DeepSORT Great Again[[paper]](https://arxiv.org/pdf/2202.13514.pdf)[[code]](https://github.com/xxxxx)<br>
+      
+      
 ## Datasets
 
 ### Surveillance Scenarios
