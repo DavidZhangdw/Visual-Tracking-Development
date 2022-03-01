@@ -19,10 +19,10 @@
   [[paper](https://arxiv.org/abs/2112.00995)] 
   [[code](https://github.com/LitingLin/SwinTrack)]
   
-- **STARK:** Bin Yan, Houwen Peng, Jianlong Fu, Dong Wang, Huchuan Lu.<br />
-  "Learning Spatio-Temporal Transformer for Visual Tracking." ICCV (2021).
-  [[paper](https://arxiv.org/pdf/2103.17154.pdf)] 
-  [[code](https://github.com/researchmm/Stark)]
+- **GIT:** Shiyu Hu, Xin Zhao, Lianghua Huang, Kaiqi Huang.<br />
+  "Global Instance Tracking: Locating Target More Like Humans." IEEE TPAMI (2022).
+  [[paper](https://arxiv.org/pdf/2202.13073.pdf)] 
+  [[code](http://videocube.aitestunion.com/)]
     
 - **KeepTrack:** Christoph Mayer, Martin Danelljan, Danda Pani Paudel, Luc Van Gool.<br />
   "Learning Target Candidate Association to Keep Track of What Not to Track." ICCV (2021).
