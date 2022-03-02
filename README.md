@@ -32,8 +32,13 @@
 
 ### CVPR 2022
 
-- **TCTrack:** Shiwei Zhang.<br />
+- **TCTrack:** Ziang Cao, Ziyuan Huang, Liang Pan, Shiwei Zhang, Ziwei Liu, Changhong Fu.<br />
   "TCTrack: Temporal Contexts for Aerial Tracking." CVPR (2022).
+  [[paper](https:xxxx)] 
+  [[code](https:xxxxxx)]
+  
+- **UDAT:** Junjie Ye, Changhong Fu, Guangze Zheng, Danda Pani Paudel, Guang Chen.<br />
+  "Unsupervised Domain Adaptation for Nighttime Aerial Tracking." CVPR (2022).
   [[paper](https:xxxx)] 
   [[code](https:xxxxxx)]
   
@@ -132,6 +137,19 @@
   [[code](https://www.dropbox.com/s/nfg7en8azc1cvz3/codes_FSBA_ICLR22.zip?dl=0)]
   
   
+### ICRA 2022
+
+- **Ad2Attack:** Changhong Fu, Sihang Li, Xinnan Yuan, Junjie Ye, Ziang Cao, Fangqiang Ding.<br />
+  "Ad2Attack: Adaptive Adversarial Attack on Real-Time UAV Tracking." ICRA (2022).
+  [[paper](https:xxxxx)] 
+  [[code](https://github.com/vision4robotics/Ad2Attack)]
+ 
+- **SCT:** Junjie Ye, Changhong Fu, Ziang Cao, Shan An, Guangze Zheng, Bowen Li.<br />
+  "Tracker Meets Night: A Transformer Enhancer for UAV Tracking." ICRA/RAL (2022).
+  [[paper](https://ieeexplore.ieee.org/document/9696362)] 
+  [[code](https://github.com/vision4robotics/SCT)]
+ 
+ 
 ### WACV 2022
 
 - **SiamTPN:** Daitao Xing, Nikolaos Evangeliou, Athanasios Tsoukalas, Anthony Tzes.<br />
@@ -385,6 +403,11 @@
 
 ### Others 2021
 
+- **SiamAPN:** Changhong Fu, Ziang Cao, Yiming Li, Junjie Ye, Chen Feng.<br />
+  "Onboard Real-Time Aerial Tracking with Efficient Siamese Anchor Proposal Network." IEEE TGRS (2021).
+  [[paper](https://ieeexplore.ieee.org/document/9477413)] 
+  [[code](https://github.com/vision4robotics/SiamAPN)]
+  
 - **SiamGAN:** Yifei Zhou, Jing Li, Jun Chang, Yafu Xiao, Jun Wan, Hang Sun.<br />
   "Siamese Guided Anchoring Network for Visual Tracking." IEEE IJCNN (2021).
   [[paper](https://ieeexplore.ieee.org/document/9533985)] 
