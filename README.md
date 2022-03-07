@@ -40,7 +40,7 @@
 - **SBT:** Fei Xie, Chunyu Wang, Guangting Wang, Yue Cao, Wankou Yang, Wenjun Zeng.<br />
   "Correlation-Aware Deep Tracking." CVPR (2022).
   [[paper](https://arxiv.org/abs/2203.01666)] 
-  [[code](https://github.com/vision4robotics/TCTrack)]
+  [[code](https://github.com/phiphiphi31/SuperSBT)]
   
 - **UDAT:** Junjie Ye, Changhong Fu, Guangze Zheng, Danda Pani Paudel, Guang Chen.<br />
   "Unsupervised Domain Adaptation for Nighttime Aerial Tracking." CVPR (2022).
