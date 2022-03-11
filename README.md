@@ -68,6 +68,11 @@
   "Single Object Tracking: A Survey of Methods, Datasets, and Evaluation Metrics." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2201.13066)] 
   
+- **SimTrack:** Boyu Chen, Peixia Li, Lei Bai, Lei Qiao, Qiuhong Shen, Bo Li, Weihao Gan, Wei Wu, Wanli Ouyang.<br />
+  "Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2203.05328)] 
+  [[code](https://xxxxxxxxxxxxxxxxxxxxxxxxx/)]
+  
 - **AdaptiveSiam:** Madhu Kiran, Le Thanh Nguyen-Meidine, Rajat Sahay, Rafael Menelau Oliveira E Cruz, Louis-Antoine Blais-Morin, Eric Granger.<br />
   "Generative Target Update for Adaptive Siamese Tracking." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2202.09938)] 
