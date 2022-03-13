@@ -138,10 +138,44 @@
   [[paper](https://arxiv.org/pdf/2105.03817.pdf)] 
   [[code](https://github.com/tongtybj/TrTr)]
 
-- **FCOT:** Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu..<br />
+- **TS-RCN:** Ning Zhang, Jingen Liu, Ke Wang, Dan Zeng, Tao Mei.<br />
+  "Robust Visual Object Tracking with Two-Stream Residual Convolutional Networks." ArXiv (2020).
+  [[paper](https://arxiv.org/pdf/2005.06536.pdf)] 
+  [[code](https://github.com/xxxxx/xxxx)]
+  
+- **DMV:** Gunhee Nam, Seoung Wug Oh, Joon-Young Lee, Seon Joo Kim.<br />
+  "DMV: Visual Object Tracking via Part-level Dense Memory and Voting-based Retrieval." ArXiv (2020).
+  [[paper](https://arxiv.org/abs/2003.09171v1)] 
+  [[code](https://github.com/xxxxx/xxxx)]
+  
+- **FCOT:** Yutao Cui, Cheng Jiang, Limin Wang, Gangshan Wu.<br />
   "Fully Convolutional Online Tracking." ArXiv (2020).
   [[paper](https://arxiv.org/abs/2004.07109)] 
   [[code](https://github.com/MCG-NJU/FCOT)]
+  
+  
+### AAAI 2022
+
+- **HDN:** Xinrui Zhan, Yueran Liu, jianke Zhu, Yang Li.<br />
+  "Homography Decomposition Networks for Planar Object Tracking." AAAI (2022).
+  [[paper](https://arxiv.org/pdf/2112.07909.pdf)] 
+  [[code](https://github.com/zhanxinrui/HDN)]
+
+- **MArMOT:** Chenglong Li, Tianhao Zhu, Lei Liu, Xiaonan Si, Zilin Fan, Sulan Zhai.<br />
+  "Cross-Modal Object Tracking: Modality-Aware Representations and a Unified Benchmark." AAAI (2022).
+  [[paper](https://arxiv.org/abs/2111.04264)] 
+  [[code](https://github.com/xxxxx/MArMOT)]
+
+- **APFNet:** Yun Xiao, Mengmeng Yang, Chenglong Li, Lei Liu, Jin Tang.<br />
+  "Attribute-based Progressive Fusion Network for RGBT Tracking." AAAI (2022).
+  [[paper](https://github.com/yangmengmeng1997/APFNet/tree/main/Paper)] 
+  [[code](https://github.com/yangmengmeng1997/APFNet)]
+
+- **TAV:** Tahar Allouche, Jerome Lang, Florian Yger.<br />
+  "Truth-Tracking via Approval Voting: Size Matters." AAAI (2022).
+  [[paper](https://arxiv.org/abs/2112.04387)] 
+  [[code](https://github.com/zhanxinrui/HDN)]
+  
   
 ### ICLR 2022
 
@@ -533,6 +567,7 @@
 
 * **Siam R-CNN:** Paul Voigtlaender, Jonathon Luiten, Philip H.S. Torr, Bastian Leibe.<br />
   "Siam R-CNN: Visual Tracking by Re-Detection." CVPR (2020).
+  [[BoLTVOS](https://arxiv.org/pdf/1904.04552.pdf)] 
   [[paper](https://arxiv.org/pdf/1911.12836.pdf)] 
   [[code](https://www.vision.rwth-aachen.de/page/siamrcnn)]
 
