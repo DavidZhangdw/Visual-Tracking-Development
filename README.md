@@ -88,6 +88,11 @@
   [[paper](https://arxiv.org/pdf/2112.07957.pdf)] 
   [[code](https://xxxxxxx)]
   
+- **EUSA:** Siao Liu, Zhaoyu Chen, Wei Li, Jiwei Zhu, Jiafeng Wang, Wenqiang Zhang, Zhongxue Gan.<br />
+  " Efficient universal shuffle attack for visual object tracking." ICASSP (2022).
+  [[paper](https://arxiv.org/abs/2203.06898)] 
+  [[code](https://xxxxxxx)]
+  
 - **ITB:** Xin Li, Qiao Liu, Wenjie Pei, Qiuhong Shen, Yaowei Wang, Huchuan Lu, Ming-Hsuan Yang.<br />
   "An Informative Tracking Benchmark." ArXiv (2021).
   [[paper](https://arxiv.org/abs/2112.06467)] 
