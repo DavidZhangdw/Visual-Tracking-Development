@@ -63,10 +63,12 @@
 
 | Name | Full Name                                  | CCF Rank | Publisher                       | Chinese Academy of Sciences Division |
 | ---- | ------------------------------------------ | -------- | ------------------------------- | ------------------------------------ |
+| JAS  | IEEE/CAA Journal of Automatica Sinica      |          | IEEE/CAA                        | SCI-1区Top                           |
 | SCIS | Science China Information Sciences         | CCF-B    | Science in China Press/Springer | SCI-2区                              |
 | JCST | Journal of Computer Science and Technology | CCF-B    | SCIENCE PRESS/Springer          | SCI-2区                              |
 |      |                                            |          |                                 |                                      |
 | FCS  | Frontiers in Computer Science              | CCF-C    | Springer                        | SCI-2区                              |
+|      | CAAI Transactions on Intelligence Technology| CCF-B    | CAAI                           | SCI                                  |
 | CVM  | Computational Visual Media                 | None     | Springer                        | None                                 |
 |      |                                            |          |                                 |                                      |
 |      | 计算机学报                                  | CCF-A    | 中国计算机学会                  |                                      |
