@@ -32,6 +32,16 @@
 
 ### CVPR 2022
 
+- **MixFormer:** Yutao Cui, Jiang Cheng, Limin Wang, Gangshan Wu.<br />
+  "MixFormer: End-to-End Tracking with Iterative Mixed Attention." CVPR (2022).
+  [[paper](https://arxiv.org/abs/2203.11082)] 
+  [[code](https://github.com/MCG-NJU/MixFormer)]
+  
+- **ToMP:** Christoph Mayer, Martin Danelljan, Goutam Bhat, Matthieu Paul, Danda Pani Paudel, Fisher Yu, Luc Van Gool.<br />
+  "Transforming Model Prediction for Tracking." CVPR (2022).
+  [[paper](https://arxiv.org/abs/2203.11192)] 
+  [[code](https://github.com/visionml/pytracking)]
+  
 - **TCTrack:** Ziang Cao, Ziyuan Huang, Liang Pan, Shiwei Zhang, Ziwei Liu, Changhong Fu.<br />
   "TCTrack: Temporal Contexts for Aerial Tracking." CVPR (2022).
   [[paper](https://arxiv.org/abs/2203.01885)] 
@@ -44,8 +54,8 @@
   
 - **UDAT:** Junjie Ye, Changhong Fu, Guangze Zheng, Danda Pani Paudel, Guang Chen.<br />
   "Unsupervised Domain Adaptation for Nighttime Aerial Tracking." CVPR (2022).
-  [[paper](https:xxxx)] 
-  [[code](https:xxxxxx)]
+  [[paper](https://arxiv.org/abs/2203.10541)] 
+  [[code](https://github.com/vision4robotics/UDAT)]
   
 - **M2Track:** Chaoda Zheng, Xu Yan, Haiming Zhang, Baoyuan Wang, Shenghui Cheng, Shuguang Cui, Zhen Li.<br />
   "Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds." CVPR (2022).
@@ -72,6 +82,41 @@
   "Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2203.05328)] 
   [[code](https://xxxxxxxxxxxxxxxxxxxxxxxxx/)]
+  
+- **RTS:** Matthieu Paul,Martin Danelljan,Christoph Mayer,Luc Van Gool.<br />
+  "Robust Visual Tracking by Segmentation." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2203.11191)] 
+  [[code](https://github.com/visionml/pytracking)]
+  
+- **ResamplingNet:** Haobo Zuo, Changhong Fu, Sihang Li, Junjie Ye, and Guangze Zheng.<br />
+  "ResamplingNet: End-to-End Adaptive Feature Resampling Network for Real-Time Aerial Tracking." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/xxxxxxxx)] 
+  [[code](https://github.com/vision4robotics/ResamplingNet)]
+  
+- **LPAT:** Changhong Fu, Weiyu Peng, Sihang Li, Junjie Ye, and Ziang Cao.<br />
+  "Local Perception-Aware Transformer for Aerial Tracking." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/xxxxxxxx)] 
+  [[code](https://github.com/vision4robotics/LPAT)]
+  
+- **FDT:** Changhong Fu, Haobo Zuo, Guangze Zheng, Junjie Ye, and Bowen Li.<br />
+  "Feature-Distilled Transformer for UAV Tracking." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/xxxxxxxx)] 
+  [[code](https://github.com/vision4robotics/FDT-tracker)]
+  
+- **HighlightNet:** Changhong Fu, Haolin Dong.<br />
+  "HighlightNet: Highlighting Low-Light Potential Features for Real-Time UAV Tracking." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/xxxxxxxx)] 
+  [[code](https://github.com/vision4robotics/HighlightNet)]
+  
+- **LAE-PVT:** Bowen Li, Yiming Li, Junjie Ye, Changhong Fu, and Hang Zhao.<br />
+  "Predictive Visual Tracking: A New Benchmark and Baseline Approach." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/xxxxxxxx)] 
+  [[code](https://github.com/vision4robotics/LAE-PVT-master)]
+  
+- **SiamPSA:** Guangze Zheng, Changhong Fu, Junjie Ye, Bowen Li, Geng Lu, and Jia Pan.<br />
+  "SiamPSA: Siamese Object Tracking for Vision-Based UAM Approaching with Pairwise Scale-Channel Attention." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/xxxxxxxx)] 
+  [[code](https://github.com/vision4robotics/SiamPSA)]
   
 - **AdaptiveSiam:** Madhu Kiran, Le Thanh Nguyen-Meidine, Rajat Sahay, Rafael Menelau Oliveira E Cruz, Louis-Antoine Blais-Morin, Eric Granger.<br />
   "Generative Target Update for Adaptive Siamese Tracking." ArXiv (2022).
@@ -428,6 +473,11 @@
   "MART: Motion-Aware Recurrent Neural Network for Robust Visual Tracking." WACV (2021).
   [[paper](https://openaccess.thecvf.com/content/WACV2021/papers/Fan_MART_Motion-Aware_Recurrent_Neural_Network_for_Robust_Visual_Tracking_WACV_2021_paper.pdf)] 
   [[code](https://hengfan2010.github.io/projects/MART/MART.htm)]
+  
+- **SiamSE:** Ivan Sosnovik, Artem Moskalev, Arnold Smeulders.<br />
+  "Scale Equivariance Improves Siamese Tracking." WACV (2021).
+  [[paper](https://arxiv.org/pdf/2007.09115.pdf)] 
+  [[code](https://github.com/ISosnovik/SiamSE)]
   
 - **TracKlinic:** Heng Fan, Fan Yang, Peng Chu, Yuewei Lin, Lin Yuan, Haibin Ling. <br />
   "TracKlinic: Diagnosis of Challenge Factors in Visual Tracking." WACV (2021).
