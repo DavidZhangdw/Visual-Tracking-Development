@@ -82,6 +82,11 @@
   "Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2203.05328)] 
   [[code](https://xxxxxxxxxxxxxxxxxxxxxxxxx/)]
+    
+- **OSTrack:** Botao Ye, Hong Chang, Bingpeng Ma, Shiguang Shan.<br />
+  "Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2203.11991)] 
+  [[code](https://github.com/botaoye/OSTrack)]
   
 - **RTS:** Matthieu Paul,Martin Danelljan,Christoph Mayer,Luc Van Gool.<br />
   "Robust Visual Tracking by Segmentation." ArXiv (2022).
