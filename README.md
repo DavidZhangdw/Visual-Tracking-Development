@@ -52,6 +52,11 @@
   [[paper](https://arxiv.org/abs/2203.01666)] 
   [[code](https://github.com/phiphiphi31/SuperSBT)]
   
+- **GTR:** Xingyi Zhou, Tianwei Yin, Vladlen Koltun, Phillip Krähenbühl.<br />
+  "Global Tracking Transformers." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2203.13250)] 
+  [[code](https://github.com/xingyizhou/GTR)]
+  
 - **UDAT:** Junjie Ye, Changhong Fu, Guangze Zheng, Danda Pani Paudel, Guang Chen.<br />
   "Unsupervised Domain Adaptation for Nighttime Aerial Tracking." CVPR (2022).
   [[paper](https://arxiv.org/abs/2203.10541)] 
@@ -87,7 +92,7 @@
   "Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2203.11991)] 
   [[code](https://github.com/botaoye/OSTrack)]
-  
+    
 - **RTS:** Matthieu Paul,Martin Danelljan,Christoph Mayer,Luc Van Gool.<br />
   "Robust Visual Tracking by Segmentation." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2203.11191)] 
