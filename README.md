@@ -53,7 +53,7 @@
   [[code](https://github.com/phiphiphi31/SuperSBT)]
   
 - **GTR:** Xingyi Zhou, Tianwei Yin, Vladlen Koltun, Phillip Krähenbühl.<br />
-  "Global Tracking Transformers." ArXiv (2022).
+  "Global Tracking Transformers." CVPR (2022).
   [[paper](https://arxiv.org/abs/2203.13250)] 
   [[code](https://github.com/xingyizhou/GTR)]
   
