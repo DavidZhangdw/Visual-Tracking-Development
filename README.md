@@ -478,6 +478,20 @@
   [[paper](https://arxiv.org/abs/2108.06455)] 
   [[code](https://github.com/shanjiayao/PTT)]
   
+  
+### NeurIPS 2021
+
+- **PathTrack:** Drew Linsley, Girik Malik, Junkyung Kim, Lakshmi Narasimhan Govindarajan, Ennio Mingolla, Thomas Serre.<br />
+  "Tracking Without Re-recognition in Humans and Machines." NeurIPS (2021).
+  [[paper](https://proceedings.neurips.cc/paper/2021/hash/a2557a7b2e94197ff767970b67041697-Abstract.html)] 
+  [[code](http://bit.ly/InTcircuit)]
+  
+- **UniTrack:** Zhongdao Wang, Hengshuang Zhao, Ya-Li Li, Shengjin Wang, Philip Torr, Luca Bertinetto.<br />
+  "Do Different Tracking Tasks Require Different Appearance Models?." NeurIPS (2021).
+  [[paper](https://proceedings.neurips.cc/paper/2021/hash/06997f04a7db92466a2baa6ebc8b872d-Abstract.html)] 
+  [[code](https://zhongdao.github.io/UniTrack/)]
+
+  
 ### WACV 2021
 
 - **MART:** Heng Fan, Haibin Ling.<br />
