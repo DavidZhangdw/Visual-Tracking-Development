@@ -93,6 +93,16 @@
   [[paper](https://arxiv.org/abs/2203.11991)] 
   [[code](https://github.com/botaoye/OSTrack)]
     
+- **HCAT** Xin Chen, Dong Wang, Dongdong Li, Huchuan Lu.<br />
+  "Efficient Visual Tracking via Hierarchical Cross-Attention Transformer." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2203.13537)] 
+  [[code](https://github.com/chenxin-dlut/HCAT)]
+  
+- **TransT-M** Xin Chen, Bin Yan, Jiawen Zhu, Dong Wang, Huchuan Lu.<br />
+  "High-Performance Transformer Tracking." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2203.13533)] 
+  [[code](https://github.com/chenxin-dlut/TransT-M)]
+  
 - **RTS:** Matthieu Paul,Martin Danelljan,Christoph Mayer,Luc Van Gool.<br />
   "Robust Visual Tracking by Segmentation." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2203.11191)] 
