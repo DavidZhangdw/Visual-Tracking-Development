@@ -69,6 +69,7 @@
 |      |                                            |          |                                 |                                      |
 | FCS  | Frontiers in Computer Science              | CCF-C    | Springer                        | SCI-2区                              |
 |      | CAAI Transactions on Intelligence Technology| CCF-B    | CAAI                           | SCI                                  |
+| MIR  | Machine Intelligence Research              |          | Springer                        | SCI                                  |
 | CVM  | Computational Visual Media                 | None     | Springer                        | None                                 |
 |      |                                            |          |                                 |                                      |
 |      | 计算机学报                                  | CCF-A    | 中国计算机学会                  |                                      |
