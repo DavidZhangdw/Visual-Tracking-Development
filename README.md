@@ -113,6 +113,11 @@
   [[paper](https://arxiv.org/abs/2203.11191)] 
   [[code](https://github.com/visionml/pytracking)]
   
+- **RGBDT:** Jinyu Yang, Zhe Li, Song Yan, Feng Zheng, Aleš Leonardis, Joni-Kristian Kämäräinen, Ling Shao.<br />
+  "RGBD Object Tracking: An In-depth Review." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2203.14134)] 
+  [[code](https://github.com/memoryunreal/RGBD-tracking-review)]
+  
 - **ResamplingNet:** Haobo Zuo, Changhong Fu, Sihang Li, Junjie Ye, and Guangze Zheng.<br />
   "ResamplingNet: End-to-End Adaptive Feature Resampling Network for Real-Time Aerial Tracking." ArXiv (2022).
   [[paper](https://arxiv.org/abs/xxxxxxxx)] 
