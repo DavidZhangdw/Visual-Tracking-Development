@@ -37,6 +37,11 @@
   [[paper](https://arxiv.org/abs/2203.11082)] 
   [[code](https://github.com/MCG-NJU/MixFormer)]
   
+- **UTT:** Fan Ma, Mike Zheng Shou, Linchao Zhu, Haoqi Fan, Yilei Xu, Yi Yang, Zhicheng Yan.<br />
+  "Unified Transformer Tracker for Object Tracking." CVPR (2022).
+  [[paper](https://arxiv.org/abs/2203.15175)] 
+  [[code](https://github.com/Flowerfan/Trackron)]
+  
 - **ToMP:** Christoph Mayer, Martin Danelljan, Goutam Bhat, Matthieu Paul, Danda Pani Paudel, Fisher Yu, Luc Van Gool.<br />
   "Transforming Model Prediction for Tracking." CVPR (2022).
   [[paper](https://arxiv.org/abs/2203.11192)] 
