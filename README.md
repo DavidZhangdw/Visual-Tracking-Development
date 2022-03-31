@@ -62,6 +62,11 @@
   [[paper](https://arxiv.org/abs/2203.13250)] 
   [[code](https://github.com/xingyizhou/GTR)]
   
+- **GTELT:** Zikun Zhou, Jianqiu Chen, Wenjie Pei, Kaige Mao, Hongpeng Wang, Zhenyu He.<br />
+  "Global Tracking via Ensemble of Local Trackers." CVPR (2022).
+  [[paper](https://arxiv.org/abs/2203.16092)] 
+  [[code](https://github.com/ZikunZhou/GTELT)]
+  
 - **ULSiam:** Bo Li.<br />
   "Unsupervised Learning of Accurate Siamese Tracking." CVPR (2022).
   [[paper](https://arxiv.org/abs/xxxx)] 
