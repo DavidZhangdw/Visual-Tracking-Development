@@ -67,10 +67,10 @@
 | SCIS | Science China Information Sciences         | CCF-B    | Science in China Press/Springer | SCI-2区                              |
 | JCST | Journal of Computer Science and Technology | CCF-B    | SCIENCE PRESS/Springer          | SCI-2区                              |
 |      |                                            |          |                                 |                                      |
+| CVM  | Computational Visual Media                 | None     | Springer                        | SCI-2区                              |
 | FCS  | Frontiers in Computer Science              | CCF-C    | Springer                        | SCI-2区                              |
 |      | CAAI Transactions on Intelligence Technology| CCF-B    | CAAI                           | SCI                                  |
 | MIR  | Machine Intelligence Research              |          | Springer                        | SCI                                  |
-| CVM  | Computational Visual Media                 | None     | Springer                        | None                                 |
 |      |                                            |          |                                 |                                      |
 |      | 计算机学报                                  | CCF-A    | 中国计算机学会                  |                                      |
 |      | 软件学报                                    | CCF-A    | 中国计算机学会                  |                                      |
