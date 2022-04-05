@@ -128,6 +128,11 @@
   [[paper](https://arxiv.org/abs/2203.14134)] 
   [[code](https://github.com/memoryunreal/RGBD-tracking-review)]
   
+- **SkeleVision:** Nilaksh Das, Sheng-Yun Peng, Duen Horng Chau.<br />
+  "SkeleVision: Towards Adversarial Resiliency of Person Tracking with Multi-Task Learning." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2204.00734)] 
+  [[code](https://github.com/xxxxxxxx)]
+  
 - **CAJMU:** Qiuhong Shen, Xin Li, Fanyang Meng, Yongsheng Liang.<br />
   "Context-aware Visual Tracking with Joint Meta-updating." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2204.01513)] 
