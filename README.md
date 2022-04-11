@@ -57,6 +57,11 @@
   [[paper](https://arxiv.org/abs/2203.01666)] 
   [[code](https://github.com/phiphiphi31/SuperSBT)]
   
+- **VTUAV:** Pengyu Zhang, Jie Zhao, Dong Wang, Huchuan Lu, Xiang Ruan.<br />
+  "Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline." CVPR (2022).
+  [[paper](https://arxiv.org/abs/2204.04120)] 
+  [[code](https://zhang-pengyu.github.io/DUT-VTUAV/)]
+  
 - **GTR:** Xingyi Zhou, Tianwei Yin, Vladlen Koltun, Phillip Krähenbühl.<br />
   "Global Tracking Transformers." CVPR (2022).
   [[paper](https://arxiv.org/abs/2203.13250)] 
