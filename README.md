@@ -586,6 +586,11 @@
   [[paper](https://ieeexplore.ieee.org/document/9533985)] 
   [[code](https://github.com/xxxxx.xx)]
   
+- **τ:** Matteo Dunnhofer, Kristian Simonato, Christian Micheloni.<br />
+  "Combining complementary trackers for enhanced long-term visual object tracking." IVC (2022).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0262885622000774?via%3Dihub)] 
+  [[code](https://github.com/xxxxx.xx)]
+  
 - **CCR:** Shiming Ge, Chunhui Zhang, Shikun Li, Dan Zeng, Dacheng Tao.<br />
   "Cascaded Correlation Refinement for Robust Deep Tracking." IEEE TNNLS (2021).
   [[paper](https://ieeexplore.ieee.org/document/9069312)] 
