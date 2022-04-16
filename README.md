@@ -72,6 +72,11 @@
   [[paper](https://arxiv.org/abs/2203.16092)] 
   [[code](https://github.com/ZikunZhou/GTELT)]
   
+- **RBO:** Feng Tang, Qiang Ling.<br />
+  "Ranking-based Siamese Visual Tracking." CVPR (2022).
+  [[paper](https://arxiv.org/abs/xxxxxx)] 
+  [[code](https://github.com/sansanfree/RBO)]
+  
 - **ULAST:** Qiuhong Shen, Lei Qiao, Jinyang Guo, Peixia Li, Xin Li, Bo Li, Weitao Feng, Weihao Gan, Wei Wu, Wanli Ouyang.<br />
   "Unsupervised Learning of Accurate Siamese Tracking." CVPR (2022).
   [[paper](https://arxiv.org/abs/2204.01475)] 
