@@ -104,6 +104,11 @@
   [[paper](https://arxiv.org/abs/2201.07425)] 
   [[code](https://github.com/983632847/WebUAV-3M)]
   
+- **SOTVerse:** Shiyu Hu, Xin Zhao, Kaiqi Huang.<br />
+  "SOTVerse: A User-defined Task Space of Single Object Tracking." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2204.07414)] 
+  [[code](http://metaverse.aitestunion.com/sotverse)]
+  
 - **SOTSurvey:** Zahra Soleimanitaleb, Mohammad Ali Keyvanrad.<br />
   "Single Object Tracking: A Survey of Methods, Datasets, and Evaluation Metrics." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2201.13066)] 
