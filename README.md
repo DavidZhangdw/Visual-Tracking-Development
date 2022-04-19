@@ -193,6 +193,11 @@
   [[paper](https://arxiv.org/abs/2201.02526)] 
   [[code](https://xxxxxxx)]
   
+- **DST:** Yao Sui, Guanghui Wang, Li Zhang.<br />
+  "In Defense of Subspace Tracker: Orthogonal Embedding for Visual Tracking." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2204.07927)] 
+  [[code](https://xxxxxxx)]
+  
 - **FEAR:** Vasyl Borsuk, Roman Vei, Orest Kupyn, Tetiana Martyniuk, Igor Krashenyi, Jiři Matas.<br />
   "FEAR: Fast, Efficient, Accurate and Robust Visual Tracker." ArXiv (2021).
   [[paper](https://arxiv.org/pdf/2112.07957.pdf)] 
