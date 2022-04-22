@@ -92,6 +92,15 @@
   [[paper](https://arxiv.org/abs/2203.01730)] 
   [[code](https://github.com/Ghostish/Open3DSOT)]
   
+
+### IJCAI 2022
+
+- **InBN:** Mingzhe Guo, Zhipeng Zhang, Heng Fan, Liping Jing, Yilin Lyu, Bing Li, Weiming Hu.<br />
+  "Learning Target-aware Representation for Visual Tracking via Informative Interactions." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2201.02526)] 
+  [[code](https://xxxxxxx)]
+  
+  
 ### ArXiv
   
 - **TOT/MKDNet:** Yabin Zhu, Chenglong Li, Yao Liu, Xiao Wang, Jin Tang, Bin Luo, Zhixiang Huang.<br />
@@ -187,11 +196,6 @@
   "Generative Target Update for Adaptive Siamese Tracking." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2202.09938)] 
   [[code](https://anonymous.4open.science/r/AdaptiveSiamese-CE78/)]
-  
-- **InBN:** Mingzhe Guo, Zhipeng Zhang, Heng Fan, Liping Jing, Yilin Lyu, Bing Li, Weiming Hu.<br />
-  "Learning Target-aware Representation for Visual Tracking via Informative Interactions." ArXiv (2022).
-  [[paper](https://arxiv.org/abs/2201.02526)] 
-  [[code](https://xxxxxxx)]
   
 - **DST:** Yao Sui, Guanghui Wang, Li Zhang.<br />
   "In Defense of Subspace Tracker: Orthogonal Embedding for Visual Tracking." ArXiv (2022).
