@@ -96,7 +96,7 @@
 ### IJCAI 2022
 
 - **InBN:** Mingzhe Guo, Zhipeng Zhang, Heng Fan, Liping Jing, Yilin Lyu, Bing Li, Weiming Hu.<br />
-  "Learning Target-aware Representation for Visual Tracking via Informative Interactions." ArXiv (2022).
+  "Learning Target-aware Representation for Visual Tracking via Informative Interactions." IJCAI (2022).
   [[paper](https://arxiv.org/abs/2201.02526)] 
   [[code](https://xxxxxxx)]
   
