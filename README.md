@@ -122,6 +122,10 @@
   "Single Object Tracking: A Survey of Methods, Datasets, and Evaluation Metrics." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2201.13066)] 
   
+- **SOTRearch:** Ruize Han, Wei Feng, Qing Guo, Qinghua Hu.<br />
+  "Single Object Tracking Research: A Survey." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2204.11410)] 
+  
 - **SimTrack:** Boyu Chen, Peixia Li, Lei Bai, Lei Qiao, Qiuhong Shen, Bo Li, Weihao Gan, Wei Wu, Wanli Ouyang.<br />
   "Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2203.05328)] 
