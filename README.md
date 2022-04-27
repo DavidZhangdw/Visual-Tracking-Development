@@ -62,6 +62,11 @@
   [[paper](https://arxiv.org/abs/2204.04120)] 
   [[code](https://zhang-pengyu.github.io/DUT-VTUAV/)]
   
+- **UAVMOT:** Shuai Liu, Xin Li, Huchuan Lu, You He.<br />
+  "Multi-Object Tracking Meets Moving UAV." CVPR (2022).
+  [[paper](https://arxiv.org/abs/xxxx.xxxx)] 
+  [[code](https://github.com/LiuShuaiyr/UAVMOT)]
+  
 - **GTR:** Xingyi Zhou, Tianwei Yin, Vladlen Koltun, Phillip Krähenbühl.<br />
   "Global Tracking Transformers." CVPR (2022).
   [[paper](https://arxiv.org/abs/2203.13250)] 
