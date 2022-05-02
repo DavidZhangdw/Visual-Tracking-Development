@@ -211,6 +211,11 @@
   [[paper](https://arxiv.org/abs/2204.07927)] 
   [[code](https://xxxxxxx)]
   
+- **SiamLA:** Jiahao Nie, Han Wu, Zhiwei He, Yuxiang Yang, Mingyu Gao, Zhekang Dong.<br />
+  "Learning Localization-aware Target Confidence for Siamese Visual Tracking." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2204.14093)] 
+  [[code](https://xxxxxxx/)]
+  
 - **FEAR:** Vasyl Borsuk, Roman Vei, Orest Kupyn, Tetiana Martyniuk, Igor Krashenyi, Jiři Matas.<br />
   "FEAR: Fast, Efficient, Accurate and Robust Visual Tracker." ArXiv (2021).
   [[paper](https://arxiv.org/pdf/2112.07957.pdf)] 
