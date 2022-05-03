@@ -105,6 +105,10 @@
   [[paper](https://arxiv.org/abs/2201.02526)] 
   [[code](https://xxxxxxx)]
   
+- **SparseTT:** Zhihong Fu, Qingjie Liu, Zehua Fu, Yunhong Wang.<br />
+  "SparseTT: Visual Tracking with Sparse Transformers." IJCAI (2022).
+  [[paper](https://arxiv.org/abs/xxxx)] 
+  [[code](https://github.com/fzh0917/SparseTT)]
   
 ### ArXiv
   
