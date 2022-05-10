@@ -42,6 +42,11 @@
   [[paper](https://arxiv.org/abs/2203.15175)] 
   [[code](https://github.com/Flowerfan/Trackron)]
   
+- **CSWinTT:** Zikai Song, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang.<br />
+  "Transformer Tracking with Cyclic Shifting Window Attention." CVPR (2022).
+  [[paper](https://arxiv.org/abs/2205.03806)] 
+  [[code](https://github.com/SkyeSong38/CSWinTT)]
+  
 - **ToMP:** Christoph Mayer, Martin Danelljan, Goutam Bhat, Matthieu Paul, Danda Pani Paudel, Fisher Yu, Luc Van Gool.<br />
   "Transforming Model Prediction for Tracking." CVPR (2022).
   [[paper](https://arxiv.org/abs/2203.11192)] 
@@ -105,9 +110,9 @@
   [[paper](https://arxiv.org/abs/2201.02526)] 
   [[code](https://xxxxxxx)]
   
-- **SparseTT:** Zhihong Fu, Qingjie Liu, Zehua Fu, Yunhong Wang.<br />
+- **SparseTT:** Zhihong Fu, Zehua Fu, Qingjie Liu, Zehua Fu, Yunhong Wang.<br />
   "SparseTT: Visual Tracking with Sparse Transformers." IJCAI (2022).
-  [[paper](https://arxiv.org/abs/xxxx)] 
+  [[paper](https://arxiv.org/abs/2205.03776)] 
   [[code](https://github.com/fzh0917/SparseTT)]
   
 ### ArXiv
@@ -126,6 +131,11 @@
   "SOTVerse: A User-defined Task Space of Single Object Tracking." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2204.07414)] 
   [[code](http://metaverse.aitestunion.com/sotverse)]
+  
+- **SiamTracking4UAV:** Changhong Fu, Kunhan Lu, Guangze Zheng, Junjie Ye, Ziang Cao, Bowen Li.<br />
+  "Siamese Object Tracking for Unmanned Aerial Vehicle: A Review and Comprehensive Analysis." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2205.04281)] 
+  [[code](https://github.com/vision4robotics/SiameseTracking4UAV)]
   
 - **SOTSurvey:** Zahra Soleimanitaleb, Mohammad Ali Keyvanrad.<br />
   "Single Object Tracking: A Survey of Methods, Datasets, and Evaluation Metrics." ArXiv (2022).
@@ -220,14 +230,19 @@
   [[paper](https://arxiv.org/abs/2204.14093)] 
   [[code](https://xxxxxxx/)]
   
-- **FEAR:** Vasyl Borsuk, Roman Vei, Orest Kupyn, Tetiana Martyniuk, Igor Krashenyi, Jiři Matas.<br />
-  "FEAR: Fast, Efficient, Accurate and Robust Visual Tracker." ArXiv (2021).
-  [[paper](https://arxiv.org/pdf/2112.07957.pdf)] 
+- **CoCoLoT:** Matteo Dunnhofer, Christian Micheloni.<br />
+  "CoCoLoT: Combining Complementary Trackers in Long-Term Visual Tracking." ICPR (2022).
+  [[paper](https://arxiv.org/abs/2205.04261)] 
   [[code](https://xxxxxxx)]
   
 - **EUSA:** Siao Liu, Zhaoyu Chen, Wei Li, Jiwei Zhu, Jiafeng Wang, Wenqiang Zhang, Zhongxue Gan.<br />
-  " Efficient universal shuffle attack for visual object tracking." ICASSP (2022).
+  "Efficient universal shuffle attack for visual object tracking." ICASSP (2022).
   [[paper](https://arxiv.org/abs/2203.06898)] 
+  [[code](https://xxxxxxx)]
+  
+- **FEAR:** Vasyl Borsuk, Roman Vei, Orest Kupyn, Tetiana Martyniuk, Igor Krashenyi, Jiři Matas.<br />
+  "FEAR: Fast, Efficient, Accurate and Robust Visual Tracker." ArXiv (2021).
+  [[paper](https://arxiv.org/pdf/2112.07957.pdf)] 
   [[code](https://xxxxxxx)]
   
 - **ITB:** Xin Li, Qiao Liu, Wenjie Pei, Qiuhong Shen, Yaowei Wang, Huchuan Lu, Ming-Hsuan Yang.<br />
