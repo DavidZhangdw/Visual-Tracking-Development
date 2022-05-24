@@ -115,6 +115,11 @@
   [[paper](https://arxiv.org/abs/2205.03776)] 
   [[code](https://github.com/fzh0917/SparseTT)]
   
+- **HybTransT:** Ilchae Jung, Minji Kim, Eunhyeok Park, Bohyung Han.<br />
+  "Online Hybrid Lightweight Representations Learning: Its Application to Visual Tracking." IJCAI (2022).
+  [[paper](https://arxiv.org/abs/2205.11179)] 
+  [[code](https://github.com/fzh0917/SparseTT)]
+  
 ### ArXiv
   
 - **TOT/MKDNet:** Yabin Zhu, Chenglong Li, Yao Liu, Xiao Wang, Jin Tang, Bin Luo, Zhixiang Huang.<br />
@@ -229,6 +234,11 @@
   "Learning Localization-aware Target Confidence for Siamese Visual Tracking." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2204.14093)] 
   [[code](https://xxxxxxx/)]
+  
+- **DUT-Anti-UAV:** Jie Zhao, Jingshu Zhang, Dongdong Li, Dong Wang.<br />
+  "Vision-based Anti-UAV Detection and Tracking." TITS (2022).
+  [[paper](https://arxiv.org/abs/2205.10851)] 
+  [[code](https://github.com/wangdongdut/DUT-Anti-UAV)]
   
 - **CoCoLoT:** Matteo Dunnhofer, Christian Micheloni.<br />
   "CoCoLoT: Combining Complementary Trackers in Long-Term Visual Tracking." ICPR (2022).
