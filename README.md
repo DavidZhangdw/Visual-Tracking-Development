@@ -84,7 +84,7 @@
   
 - **RBO:** Feng Tang, Qiang Ling.<br />
   "Ranking-based Siamese Visual Tracking." CVPR (2022).
-  [[paper](https://arxiv.org/abs/xxxxxx)] 
+  [[paper](https://arxiv.org/pdf/2205.11761.pdf)] 
   [[code](https://github.com/sansanfree/RBO)]
   
 - **ULAST:** Qiuhong Shen, Lei Qiao, Jinyang Guo, Peixia Li, Xin Li, Bo Li, Weitao Feng, Weihao Gan, Wei Wu, Wanli Ouyang.<br />
