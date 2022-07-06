@@ -30,6 +30,15 @@
   [[code](https://github.com/visionml/pytracking)]
   
 
+### ECCV 2022
+
+- **FEAR:** Vasyl Borsuk, Roman Vei, Orest Kupyn, Tetiana Martyniuk, Igor Krashenyi, Jiři Matas.<br />
+  "FEAR: Fast, Efficient, Accurate and Robust Visual Tracker." ECCV (2022).
+  [[paper](https://arxiv.org/pdf/2112.07957.pdf)] 
+  [[code](https://xxxxxxx)]
+  
+  
+  
 ### CVPR 2022
 
 - **MixFormer:** Yutao Cui, Jiang Cheng, Limin Wang, Gangshan Wu.<br />
@@ -175,6 +184,11 @@
   [[paper](https://arxiv.org/abs/2203.11191)] 
   [[code](https://github.com/visionml/pytracking)]
   
+- **P-SiamFC++:** Xucheng Wang, Dan Zeng, Qijun Zhao, Shuiwang Li.<br />
+  "Rank-Based Filter Pruning for Real-Time UAV Tracking" ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2207.01768)] 
+  [[code](https://github.com/visionml/pytracking)]
+  
 - **RGBDT:** Jinyu Yang, Zhe Li, Song Yan, Feng Zheng, Aleš Leonardis, Joni-Kristian Kämäräinen, Ling Shao.<br />
   "RGBD Object Tracking: An In-depth Review." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2203.14134)] 
@@ -248,11 +262,6 @@
 - **EUSA:** Siao Liu, Zhaoyu Chen, Wei Li, Jiwei Zhu, Jiafeng Wang, Wenqiang Zhang, Zhongxue Gan.<br />
   "Efficient universal shuffle attack for visual object tracking." ICASSP (2022).
   [[paper](https://arxiv.org/abs/2203.06898)] 
-  [[code](https://xxxxxxx)]
-  
-- **FEAR:** Vasyl Borsuk, Roman Vei, Orest Kupyn, Tetiana Martyniuk, Igor Krashenyi, Jiři Matas.<br />
-  "FEAR: Fast, Efficient, Accurate and Robust Visual Tracker." ArXiv (2021).
-  [[paper](https://arxiv.org/pdf/2112.07957.pdf)] 
   [[code](https://xxxxxxx)]
   
 - **ITB:** Xin Li, Qiao Liu, Wenjie Pei, Qiuhong Shen, Yaowei Wang, Huchuan Lu, Ming-Hsuan Yang.<br />
