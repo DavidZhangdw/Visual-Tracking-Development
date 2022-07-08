@@ -32,6 +32,11 @@
 
 ### ECCV 2022
 
+- **OSTrack:** Botao Ye, Hong Chang, Bingpeng Ma, Shiguang Shan.<br />
+  "Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework." ECCV (2022).
+  [[paper](https://arxiv.org/abs/2203.11991)] 
+  [[code](https://github.com/botaoye/OSTrack)]
+  
 - **FEAR:** Vasyl Borsuk, Roman Vei, Orest Kupyn, Tetiana Martyniuk, Igor Krashenyi, Jiři Matas.<br />
   "FEAR: Fast, Efficient, Accurate and Robust Visual Tracker." ECCV (2022).
   [[paper](https://arxiv.org/pdf/2112.07957.pdf)] 
@@ -163,11 +168,6 @@
   "Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2203.05328)] 
   [[code](https://xxxxxxxxxxxxxxxxxxxxxxxxx/)]
-    
-- **OSTrack:** Botao Ye, Hong Chang, Bingpeng Ma, Shiguang Shan.<br />
-  "Joint Feature Learning and Relation Modeling for Tracking: A One-Stream Framework." ArXiv (2022).
-  [[paper](https://arxiv.org/abs/2203.11991)] 
-  [[code](https://github.com/botaoye/OSTrack)]
     
 - **HCAT:** Xin Chen, Dong Wang, Dongdong Li, Huchuan Lu.<br />
   "Efficient Visual Tracking via Hierarchical Cross-Attention Transformer." ArXiv (2022).
