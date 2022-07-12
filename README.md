@@ -47,6 +47,15 @@
   [[paper](https://arxiv.org/pdf/2112.07957.pdf)] 
   [[code](https://xxxxxxx)]
   
+- **ByteTrack:** Yifu Zhang, Xinggang Wang.<br />
+  "ByteTrack: Multi-Object Tracking by Associating Every Detection Box." ECCV (2022).
+  [[paper](https://arxiv.org/pdf/xxx.xxx.pdf)] 
+  [[code](https://xxxxxxx)]
+
+- **TBMI:** Yifu Zhang, Xinggang Wang.<br />
+  "Robust Multi-Object Tracking by Marginal Inference." ECCV (2022).
+  [[paper](https://arxiv.org/pdf/xxx.xxx.pdf)] 
+  [[code](https://xxxxxxx)]
   
   
 ### CVPR 2022
@@ -188,6 +197,11 @@
   "Robust Visual Tracking by Segmentation." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2203.11191)] 
   [[code](https://github.com/visionml/pytracking)]
+  
+- **SRRT:** Jiawen Zhu, Xin Chen, Dong Wang, Wenda Zhao, Huchuan Lu.<br />
+  "SRRT: Search Region Regulation Tracking" ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2207.04438)] 
+  [[code](https://github.com/xxxxxx)]
   
 - **P-SiamFC++:** Xucheng Wang, Dan Zeng, Qijun Zhao, Shuiwang Li.<br />
   "Rank-Based Filter Pruning for Real-Time UAV Tracking" ArXiv (2022).
