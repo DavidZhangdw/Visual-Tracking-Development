@@ -47,6 +47,11 @@
   [[paper](https://arxiv.org/pdf/2112.07957.pdf)] 
   [[code](https://xxxxxxx)]
   
+- **BP3AFormer:** Zelin Zhao, Ze Wu, Yueqing Zhuang, Boxun Li, Jiaya Jia.<br />
+  "Tracking Objects as Pixel-wise Distributions." ECCV (2022).
+  [[paper](https://arxiv.org/abs/2207.05518)] 
+  [[code](https://sjtuytc.github.io/zelin_pages/p3aformer.html)]
+  
 - **ByteTrack:** Yifu Zhang, Xinggang Wang.<br />
   "ByteTrack: Multi-Object Tracking by Associating Every Detection Box." ECCV (2022).
   [[paper](https://arxiv.org/pdf/xxx.xxx.pdf)] 
