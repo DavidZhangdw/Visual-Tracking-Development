@@ -37,6 +37,11 @@
   [[paper](https://arxiv.org/abs/2203.11991)] 
   [[code](https://github.com/botaoye/OSTrack)]
   
+- **Unicorn:** Bin Yan, Yi Jiang, Peize Sun, Dong Wang, Zehuan Yuan, Ping Luo, Huchuan Lu.<br />
+  "Unicorn: Towards Grand Unification of Object Tracking." ECCV (2022) Oral.
+  [[paper](https://arxiv.org/abs/2207.07078)] 
+  [[code](https://github.com/MasterBin-IIAU/Unicorn)]
+  
 - **AiATrack:** Shenyuan Gao, Chunluan Zhou, Chao Ma, Xinggang Wang, Junsong Yuan.<br />
   "AiATrack: Attention in Attention for Transformer Visual Tracking." ECCV (2022).
   [[paper](https://arxiv.org/pdf/xxxxxxx.pdf)] 
@@ -52,15 +57,22 @@
   [[paper](https://arxiv.org/abs/2207.05518)] 
   [[code](https://sjtuytc.github.io/zelin_pages/p3aformer.html)]
   
-- **ByteTrack:** Yifu Zhang, Xinggang Wang.<br />
+- **ByteTrack:** Yifu Zhang, Peize Sun, Yi Jiang, Dongdong Yu, Zehuan Yuan, Ping Luo, Wenyu Liu, Xinggang Wang.<br />
   "ByteTrack: Multi-Object Tracking by Associating Every Detection Box." ECCV (2022).
-  [[paper](https://arxiv.org/pdf/xxx.xxx.pdf)] 
-  [[code](https://xxxxxxx)]
+  [[paper](https://arxiv.org/pdf/2110.06864v2.pdf)] 
+  [[code](https://github.com/ifzhang/ByteTrack)]
 
+- **MOTR:** Fangao Zeng, Bin Dong, Yuang Zhang, Tiancai Wang, Xiangyu Zhang, Yichen Wei.<br />
+  "MOTR: End-to-End Multiple-Object Tracking with Transformer." ECCV (2022).
+  [[paper](https://arxiv.org/abs/2105.03247)] 
+  [[code](https://github.com/megvii-research/MOTR)]
+  
 - **TBMI:** Yifu Zhang, Xinggang Wang.<br />
   "Robust Multi-Object Tracking by Marginal Inference." ECCV (2022).
   [[paper](https://arxiv.org/pdf/xxx.xxx.pdf)] 
   [[code](https://xxxxxxx)]
+  
+
   
   
 ### CVPR 2022
