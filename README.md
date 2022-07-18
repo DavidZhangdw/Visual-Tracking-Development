@@ -215,6 +215,11 @@
   [[paper](https://arxiv.org/abs/2203.11191)] 
   [[code](https://github.com/visionml/pytracking)]
   
+- **GUSOT:** Zhiruo Zhou, Hongyu Fu, Suya You, C. -C. Jay Kuo.<br />
+  "GUSOT: Green and Unsupervised Single Object Tracking for Long Video Sequences" ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2207.07629)] 
+  [[code](https://github.com/xxxxxx)]
+  
 - **SRRT:** Jiawen Zhu, Xin Chen, Dong Wang, Wenda Zhao, Huchuan Lu.<br />
   "SRRT: Search Region Regulation Tracking" ArXiv (2022).
   [[paper](https://arxiv.org/abs/2207.04438)] 
