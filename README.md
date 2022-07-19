@@ -225,6 +225,11 @@
   [[paper](https://arxiv.org/abs/2207.04438)] 
   [[code](https://github.com/xxxxxx)]
   
+- **DIMBA:** Xiangyu Yin, Wenjie Ruan, Jonathan Fieldsend.<br />
+  "DIMBA: Discretely Masked Black-Box Attack in Single Object Tracking" ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2207.08044)] 
+  [[code](https://github.com/xxxxxxxx)]
+  
 - **P-SiamFC++:** Xucheng Wang, Dan Zeng, Qijun Zhao, Shuiwang Li.<br />
   "Rank-Based Filter Pruning for Real-Time UAV Tracking" ArXiv (2022).
   [[paper](https://arxiv.org/abs/2207.01768)] 
