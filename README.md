@@ -44,8 +44,8 @@
   
 - **AiATrack:** Shenyuan Gao, Chunluan Zhou, Chao Ma, Xinggang Wang, Junsong Yuan.<br />
   "AiATrack: Attention in Attention for Transformer Visual Tracking." ECCV (2022).
-  [[paper](https://arxiv.org/pdf/xxxxxxx.pdf)] 
-  [[code](https://xxxxxxx)]
+  [[paper](https://arxiv.org/abs/2207.09603)] 
+  [[code](https://github.com/Little-Podi/AiATrack)]
   
 - **FEAR:** Vasyl Borsuk, Roman Vei, Orest Kupyn, Tetiana Martyniuk, Igor Krashenyi, Jiři Matas.<br />
   "FEAR: Fast, Efficient, Accurate and Robust Visual Tracker." ECCV (2022).
