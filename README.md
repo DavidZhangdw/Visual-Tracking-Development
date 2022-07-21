@@ -107,6 +107,11 @@
   [[paper](https://arxiv.org/abs/2203.01666)] 
   [[code](https://github.com/phiphiphi31/SuperSBT)]
   
+- **STNet:** Fei Xie, Chunyu Wang, Guangting Wang, Yue Cao, Wankou Yang, Wenjun Zeng.<br />
+  "Spiking Transformers for Event-based Single Object Tracking." CVPR (2022).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.html)] 
+  [[code](https://github.com/xxxx)]
+  
 - **VTUAV:** Pengyu Zhang, Jie Zhao, Dong Wang, Huchuan Lu, Xiang Ruan.<br />
   "Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline." CVPR (2022).
   [[paper](https://arxiv.org/abs/2204.04120)] 
