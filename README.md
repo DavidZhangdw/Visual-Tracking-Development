@@ -52,6 +52,11 @@
   [[paper](https://arxiv.org/pdf/2112.07957.pdf)] 
   [[code](https://xxxxxxx)]
   
+- **STNet:** Le Hui, Lingpeng Wang, Linghua Tang, Kaihao Lan, Jin Xie, Jian Yang.<br />
+  "3D Siamese Transformer Network for Single Object Tracking on Point Clouds." ECCV (2022).
+  [[paper](https://arxiv.org/abs/2207.11995)] 
+  [[code](https://github.com/fpthink/STNet)]
+  
 - **P3AFormer:** Zelin Zhao, Ze Wu, Yueqing Zhuang, Boxun Li, Jiaya Jia.<br />
   "Tracking Objects as Pixel-wise Distributions." ECCV (2022).
   [[paper](https://arxiv.org/abs/2207.05518)] 
