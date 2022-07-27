@@ -62,10 +62,10 @@
   [[paper](https://arxiv.org/abs/2207.05518)] 
   [[code](https://sjtuytc.github.io/zelin_pages/p3aformer.html)]
   
-- **TETA:** Siyuan Li, Martin Danelljan, Henghui Ding, Thomas E. Huang, Fisher Yu.<br />
+- **TETer:** Siyuan Li, Martin Danelljan, Henghui Ding, Thomas E. Huang, Fisher Yu.<br />
   "Tracking Every Thing in the Wild." ECCV (2022).
   [[paper](https://arxiv.org/abs/2207.12978)] 
-  [[code](https://github.com/xxxx)]
+  [[code](http://vis.xyz/pub/tet)]
   
 - **ByteTrack:** Yifu Zhang, Peize Sun, Yi Jiang, Dongdong Yu, Zehuan Yuan, Ping Luo, Wenyu Liu, Xinggang Wang.<br />
   "ByteTrack: Multi-Object Tracking by Associating Every Detection Box." ECCV (2022).
