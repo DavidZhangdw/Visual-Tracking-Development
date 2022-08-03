@@ -272,7 +272,7 @@
   
 - **LPAT:** Changhong Fu, Weiyu Peng, Sihang Li, Junjie Ye, and Ziang Cao.<br />
   "Local Perception-Aware Transformer for Aerial Tracking." ArXiv (2022).
-  [[paper](https://arxiv.org/abs/xxxxxxxx)] 
+  [[paper](https://arxiv.org/abs/2208.00662)] 
   [[code](https://github.com/vision4robotics/LPAT)]
   
 - **FDT:** Changhong Fu, Haobo Zuo, Guangze Zheng, Junjie Ye, and Bowen Li.<br />
