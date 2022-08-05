@@ -23,12 +23,7 @@
   "Global Instance Tracking: Locating Target More Like Humans." IEEE TPAMI (2022).
   [[paper](https://arxiv.org/pdf/2202.13073.pdf)] 
   [[code](http://videocube.aitestunion.com/)]
-    
-- **KeepTrack:** Christoph Mayer, Martin Danelljan, Danda Pani Paudel, Luc Van Gool.<br />
-  "Learning Target Candidate Association to Keep Track of What Not to Track." ICCV (2021).
-  [[paper](https://arxiv.org/abs/2103.16556)] 
-  [[code](https://github.com/visionml/pytracking)]
-  
+      
 
 ### ECCV 2022
 
@@ -181,6 +176,11 @@
   [[code](https://github.com/fzh0917/SparseTT)]
   
 ### ArXiv
+  
+- **VLTrack:** Mingzhe Guo, Zhipeng Zhang, Heng Fan, Liping Jing.<br />
+  "Divert More Attention to Vision-Language Tracking." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2207.01076)] 
+  [[code](https://github.com/JudasDie/SOTS)]
   
 - **TOT/MKDNet:** Yabin Zhu, Chenglong Li, Yao Liu, Xiao Wang, Jin Tang, Bin Luo, Zhixiang Huang.<br />
   "Tiny Object Tracking: A Large-scale Dataset and A Baseline." ArXiv (2022).
