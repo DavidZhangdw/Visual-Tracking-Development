@@ -41,6 +41,11 @@
   "AiATrack: Attention in Attention for Transformer Visual Tracking." ECCV (2022).
   [[paper](https://arxiv.org/abs/2207.09603)] 
   [[code](https://github.com/Little-Podi/AiATrack)]
+
+- **SLTtrack:** Minji Kim, Seungkwan Lee, Jungseul Ok, Bohyung Han, Minsu Cho.<br />
+  "Towards Sequence-Level Training for Visual Tracking." ECCV (2022).
+  [[paper](https://arxiv.org/abs/2208.05810)] 
+  [[code](https://github.com/byminji/SLTtrack)]
   
 - **FEAR:** Vasyl Borsuk, Roman Vei, Orest Kupyn, Tetiana Martyniuk, Igor Krashenyi, Jiři Matas.<br />
   "FEAR: Fast, Efficient, Accurate and Robust Visual Tracker." ECCV (2022).
