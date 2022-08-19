@@ -187,6 +187,11 @@
   [[paper](https://arxiv.org/abs/2207.01076)] 
   [[code](https://github.com/JudasDie/SOTS)]
   
+- **SFTransT:** Chuanming Tang, Xiao Wang, Yuanchao Bai, Zhe Wu, Jianlin Zhang, Yongmei Huang.<br />
+  "Learning Spatial-Frequency Transformer for Visual Object Tracking." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2208.08829)] 
+  [[code](https://github.com/Tchuanm/SFTransT.git)]
+  
 - **TOT/MKDNet:** Yabin Zhu, Chenglong Li, Yao Liu, Xiao Wang, Jin Tang, Bin Luo, Zhixiang Huang.<br />
   "Tiny Object Tracking: A Large-scale Dataset and A Baseline." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2202.05659)] 
