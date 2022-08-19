@@ -192,6 +192,11 @@
   [[paper](https://arxiv.org/abs/2208.08829)] 
   [[code](https://github.com/Tchuanm/SFTransT.git)]
   
+- **AVisT:** Mubashir Noman, Wafa Al Ghallabi, Daniya Najiha, Christoph Mayer, Akshay Dudhane, Martin Danelljan, Hisham Cholakkal, Salman Khan, Luc Van Gool, Fahad Shahbaz Khan.<br />
+  "AVisT: A Benchmark for Visual Object Tracking in Adverse Visibility." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2208.06888)] 
+  [[code](https://github.com/visionml/pytracking)]
+  
 - **TOT/MKDNet:** Yabin Zhu, Chenglong Li, Yao Liu, Xiao Wang, Jin Tang, Bin Luo, Zhixiang Huang.<br />
   "Tiny Object Tracking: A Large-scale Dataset and A Baseline." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2202.05659)] 
