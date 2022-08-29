@@ -235,6 +235,10 @@
   "Single Object Tracking Research: A Survey." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2204.11410)] 
   
+- **VOTSurvey:** Fei Chen, Xiaodong Wang, Yunxiang Zhao, Shaohe Lv, Xin Niu.<br />
+  "Visual object tracking: A survey." CVIU (2022).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1077314222001011?dgcid=author)] 
+  
 - **SimTrack:** Boyu Chen, Peixia Li, Lei Bai, Lei Qiao, Qiuhong Shen, Bo Li, Weihao Gan, Wei Wu, Wanli Ouyang.<br />
   "Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2203.05328)] 
