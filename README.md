@@ -192,6 +192,11 @@
   [[paper](https://arxiv.org/abs/2207.01076)] 
   [[code](https://github.com/JudasDie/SOTS)]
   
+- **TSFMO:** Zhewen Zhang, Fuliang Wu, Yuming Qiu, Jingdong Liang, Shuiwang Li.<br />
+  "Tracking Small and Fast Moving Objects: A Benchmark." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2209.04284)] 
+  [[code](https://github.com/CodeOfGithub/S-KeepTrack)]
+  
 - **SFTransT:** Chuanming Tang, Xiao Wang, Yuanchao Bai, Zhe Wu, Jianlin Zhang, Yongmei Huang.<br />
   "Learning Spatial-Frequency Transformer for Visual Object Tracking." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2208.08829)] 
