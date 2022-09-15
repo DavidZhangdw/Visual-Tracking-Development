@@ -25,6 +25,14 @@
   [[code](http://videocube.aitestunion.com/)]
       
 
+### NeurIPS 2022
+
+- **VLTrack:** Mingzhe Guo, Zhipeng Zhang, Heng Fan, Liping Jing.<br />
+  "Divert More Attention to Vision-Language Tracking." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2207.01076)] 
+  [[code](https://github.com/JudasDie/SOTS)]
+  
+  
 ### ECCV 2022
 
 - **OSTrack:** Botao Ye, Hong Chang, Bingpeng Ma, Shiguang Shan.<br />
@@ -186,11 +194,6 @@
   [[code](https://github.com/fzh0917/SparseTT)]
   
 ### ArXiv
-  
-- **VLTrack:** Mingzhe Guo, Zhipeng Zhang, Heng Fan, Liping Jing.<br />
-  "Divert More Attention to Vision-Language Tracking." ArXiv (2022).
-  [[paper](https://arxiv.org/abs/2207.01076)] 
-  [[code](https://github.com/JudasDie/SOTS)]
   
 - **TSFMO:** Zhewen Zhang, Fuliang Wu, Yuming Qiu, Jingdong Liang, Shuiwang Li.<br />
   "Tracking Small and Fast Moving Objects: A Benchmark." ArXiv (2022).
