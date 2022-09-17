@@ -13,12 +13,7 @@
   "Deep Learning for Visual Tracking: A Comprehensive Survey." ArXiv (2021).
   [[paper](https://arxiv.org/pdf/1912.00535.pdf)] 
   [[code](https://github.com/MMarvasti/Deep-Learning-for-Visual-Tracking-Survey)]
-  
-- **SwinTrack:** Liting Lin, Heng Fan, Yong Xu, Haibin Ling.<br />
-  "SwinTrack: A Simple and Strong Baseline for Transformer Tracking." ArXiv (2021).
-  [[paper](https://arxiv.org/abs/2112.00995)] 
-  [[code](https://github.com/LitingLin/SwinTrack)]
-  
+   
 - **GIT:** Shiyu Hu, Xin Zhao, Lianghua Huang, Kaiqi Huang.<br />
   "Global Instance Tracking: Locating Target More Like Humans." IEEE TPAMI (2022).
   [[paper](https://arxiv.org/pdf/2202.13073.pdf)] 
@@ -27,10 +22,20 @@
 
 ### NeurIPS 2022
 
+- **SwinTrack:** Liting Lin, Heng Fan, Yong Xu, Haibin Ling.<br />
+  "SwinTrack: A Simple and Strong Baseline for Transformer Tracking." NeurIPS (2022).
+  [[paper](https://arxiv.org/abs/2112.00995)] 
+  [[code](https://github.com/LitingLin/SwinTrack)]
+  
 - **VLTrack:** Mingzhe Guo, Zhipeng Zhang, Heng Fan, Liping Jing.<br />
-  "Divert More Attention to Vision-Language Tracking." ArXiv (2022).
+  "Divert More Attention to Vision-Language Tracking." NeurIPS (2022).
   [[paper](https://arxiv.org/abs/2207.01076)] 
   [[code](https://github.com/JudasDie/SOTS)]
+  
+- **GKB:** Zhiyu Zhu, Junhui Hou, Xianqiang Lyu.<br />
+  "Leaning Graph-embedded Key-event Back-tracing for Object Tracking in Event Clouds." NeurIPS (2022).
+  [[paper](https://nips.cc/Conferences/2022/Schedule?showEvent=54651)] 
+  [[code](https://github.com/xxxx)]
   
   
 ### ECCV 2022
