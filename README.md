@@ -225,6 +225,11 @@
   [[paper](https://arxiv.org/abs/2208.09787)] 
   [[code](https://github.com/xxxx)]
   
+- **RGBDReview:** Jinyu Yang, Zhe Li, Song Yan, Feng Zheng, Aleš Leonardis, Joni-Kristian Kämäräinen, Ling Shao.<br />
+  "RGBD Object Tracking: An In-depth Review." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2203.14134)] 
+  [[code](https://github.com/memoryunreal/RGBD-tracking-review)]
+  
 - **TOT/MKDNet:** Yabin Zhu, Chenglong Li, Yao Liu, Xiao Wang, Jin Tang, Bin Luo, Zhixiang Huang.<br />
   "Tiny Object Tracking: A Large-scale Dataset and A Baseline." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2202.05659)] 
