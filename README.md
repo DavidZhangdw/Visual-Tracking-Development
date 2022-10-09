@@ -115,6 +115,11 @@
   [[paper](https://arxiv.org/abs/2203.11082)] 
   [[code](https://github.com/MCG-NJU/MixFormer)]
   
+- **OWTB:** Yang Liu, Idil Esen Zulfikar, Jonathon Luiten, Achal Dave, Deva Ramanan, Bastian Leibe, Aljoša Ošep, Laura Leal-Taixé.<br />
+  "Opening up Open-World Tracking." CVPR (2022).
+  [[paper](https://arxiv.org/abs/2104.11221)] 
+  [[code](https://openworldtracking.github.io/)]
+  
 - **UTT:** Fan Ma, Mike Zheng Shou, Linchao Zhu, Haoqi Fan, Yilei Xu, Yi Yang, Zhicheng Yan.<br />
   "Unified Transformer Tracker for Object Tracking." CVPR (2022).
   [[paper](https://arxiv.org/abs/2203.15175)] 
