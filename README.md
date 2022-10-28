@@ -210,6 +210,11 @@
   
 ### ArXiv
   
+- **ProContEXT:** Jin-Peng Lan, Zhi-Qi Cheng, Jun-Yan He, Chenyang Li, Bin Luo, Xu Bao, Wangmeng Xiang, Yifeng Geng, Xuansong Xie.<br />
+  "ProContEXT: Exploring Progressive Context Transformer for Tracking." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2210.15511)] 
+  [[code](https://drive.google.com/drive/folders/18kHdBNEwvbk8S4-mwHaI-mw5w6cK-pyY?usp=sharing)]
+  
 - **TSFMO:** Zhewen Zhang, Fuliang Wu, Yuming Qiu, Jingdong Liang, Shuiwang Li.<br />
   "Tracking Small and Fast Moving Objects: A Benchmark." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2209.04284)] 
