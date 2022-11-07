@@ -75,6 +75,11 @@
   [[paper](https://arxiv.org/pdf/2112.07957.pdf)] 
   [[code](https://xxxxxxx)]
   
+- **PersonPath22:** Bing Shuai, Alessandro Bergamo, Uta Buechler, Andrew Berneshawi, Alyssa Boden, Joseph Tighe.<br />
+  "Large Scale Real-World Multi-Person Tracking." ECCV (2022).
+  [[paper](https://arxiv.org/abs/2211.02175)] 
+  [[code](https://amazon-science.github.io/tracking-dataset/personpath22.html)]
+  
 - **STNet:** Le Hui, Lingpeng Wang, Linghua Tang, Kaihao Lan, Jin Xie, Jian Yang.<br />
   "3D Siamese Transformer Network for Single Object Tracking on Point Clouds." ECCV (2022).
   [[paper](https://arxiv.org/abs/2207.11995)] 
