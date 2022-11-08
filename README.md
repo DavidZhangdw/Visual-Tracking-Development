@@ -37,6 +37,11 @@
   [[paper](https://nips.cc/Conferences/2022/Schedule?showEvent=54651)] 
   [[code](https://github.com/xxxx)]
   
+- **TAP-Vid:** Carl Doersch, Ankush Gupta, Larisa Markeeva, Lucas Smaira, Yusuf Aytar, Andrew Zisserman, Yi Yang.<br />
+  "TAP-Vid: A Benchmark for Tracking Any Point in a Video." NeurIPS (2022).
+  [[paper](https://arxiv.org/abs/2211.03726)] 
+  [[code](https://github.com/deepmind/tapnet)]
+
   
 ### ECCV 2022
 
@@ -229,6 +234,11 @@
   "Learning Spatial-Frequency Transformer for Visual Object Tracking." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2208.08829)] 
   [[code](https://github.com/Tchuanm/SFTransT.git)]
+  
+- **DMTracker:** Shang Gao, Jinyu Yang, Zhe Li, Feng Zheng, Aleš Leonardis, Jingkuan Song.<br />
+  "Learning Dual-Fused Modality-Aware Representations for RGBD Tracking." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2211.03055)] 
+  [[code](https://github.com/ShangGaoG/DMTracker)]
   
 - **AVisT:** Mubashir Noman, Wafa Al Ghallabi, Daniya Najiha, Christoph Mayer, Akshay Dudhane, Martin Danelljan, Hisham Cholakkal, Salman Khan, Luc Van Gool, Fahad Shahbaz Khan.<br />
   "AVisT: A Benchmark for Visual Object Tracking in Adverse Visibility." ArXiv (2022).
