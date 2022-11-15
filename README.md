@@ -220,6 +220,11 @@
   
 ### ArXiv
   
+- **NeighborTrack:** Yu-Hsi Chen, Chien-Yao Wang, Cheng-Yun Yang, Hung-Shuo Chang, Youn-Long Lin, Yung-Yu Chuang, Hong-Yuan Mark Liao.<br />
+  "NeighborTrack: Improving Single Object Tracking by Bipartite Matching with Neighbor Tracklets." ArXiv (2022).
+  [[paper](https://arxiv.org/pdf/2211.06663.pdf)] 
+  [[code](https   )]
+  
 - **ProContEXT:** Jin-Peng Lan, Zhi-Qi Cheng, Jun-Yan He, Chenyang Li, Bin Luo, Xu Bao, Wangmeng Xiang, Yifeng Geng, Xuansong Xie.<br />
   "ProContEXT: Exploring Progressive Context Transformer for Tracking." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2210.15511)] 
