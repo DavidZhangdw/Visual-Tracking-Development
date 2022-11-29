@@ -225,6 +225,16 @@
   [[paper](https://arxiv.org/pdf/2211.06663.pdf)] 
   [[code](https   )]
   
+- **MTTSiam:** Ali Sekhavati, Won-Sook Lee.<br />
+  "Multi-Template Temporal Siamese Network for Long-Term Object Tracking." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2211.13812)] 
+  [[code](https://github.com/AliGreen0/MTTSiam)]
+  
+- **PruningInTracking:** Saksham Aggarwal, Taneesh Gupta, Pawan Kumar Sahu, Arnav Chavan, Rishabh Tiwari, Dilip K. Prasad, Deepak K. Gupta.<br />
+  "On designing light-weight object trackers through network pruning: Use CNNs or transformers?." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2211.13769)] 
+  [[code](https   )]
+  
 - **ProContEXT:** Jin-Peng Lan, Zhi-Qi Cheng, Jun-Yan He, Chenyang Li, Bin Luo, Xu Bao, Wangmeng Xiang, Yifeng Geng, Xuansong Xie.<br />
   "ProContEXT: Exploring Progressive Context Transformer for Tracking." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2210.15511)] 
