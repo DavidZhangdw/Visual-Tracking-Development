@@ -225,6 +225,11 @@
   [[paper](https://arxiv.org/pdf/2211.06663.pdf)] 
   [[code](https   )]
   
+- **SUSHI:** Orcun Cetintas, Guillem Brasó, Laura Leal-Taixé.<br />
+  "Unifying Short and Long-Term Tracking with Graph Hierarchies." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2212.03038)] 
+  [[code](https   )]
+  
 - **MTTSiam:** Ali Sekhavati, Won-Sook Lee.<br />
   "Multi-Template Temporal Siamese Network for Long-Term Object Tracking." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2211.13812)] 
