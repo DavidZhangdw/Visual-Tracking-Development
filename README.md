@@ -220,6 +220,11 @@
   
 ### ArXiv
   
+- **LaGOT:** Christoph Mayer, Martin Danelljan, Ming-Hsuan Yang, Vittorio Ferrari, Luc Van Gool, Alina Kuznetsova.<br />
+  "Beyond SOT: It's Time to Track Multiple Generic Objects at Once." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2212.11920)] 
+  [[code](https   )]
+  
 - **NeighborTrack:** Yu-Hsi Chen, Chien-Yao Wang, Cheng-Yun Yang, Hung-Shuo Chang, Youn-Long Lin, Yung-Yu Chuang, Hong-Yuan Mark Liao.<br />
   "NeighborTrack: Improving Single Object Tracking by Bipartite Matching with Neighbor Tracklets." ArXiv (2022).
   [[paper](https://arxiv.org/pdf/2211.06663.pdf)] 
