@@ -235,6 +235,11 @@
   [[paper](https://www.sciencedirect.com/science/article/pii/S095070512201293X)] 
   [[code](https://github.com/hapless19/UAV2UAV-dataset)]
   
+- **UOT100:** K. Panetta, L. Kezebou, V. Oludare, and S. S. Agaian.<br />
+  "Comprehensive Underwater Object Tracking Benchmark Dataset and Underwater Image Enhancement With GAN." IEEE JOE (2022).
+  [[paper](https://ieeexplore.ieee.org/document/9499961)] 
+  [[code](https://www.kaggle.com/datasets/landrykezebou/uot100-underwater-object-tracking-dataset)]
+  
 - **NeighborTrack:** Yu-Hsi Chen, Chien-Yao Wang, Cheng-Yun Yang, Hung-Shuo Chang, Youn-Long Lin, Yung-Yu Chuang, Hong-Yuan Mark Liao.<br />
   "NeighborTrack: Improving Single Object Tracking by Bipartite Matching with Neighbor Tracklets." ArXiv (2022).
   [[paper](https://arxiv.org/pdf/2211.06663.pdf)] 
