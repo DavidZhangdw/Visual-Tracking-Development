@@ -223,7 +223,17 @@
 - **LaGOT:** Christoph Mayer, Martin Danelljan, Ming-Hsuan Yang, Vittorio Ferrari, Luc Van Gool, Alina Kuznetsova.<br />
   "Beyond SOT: It's Time to Track Multiple Generic Objects at Once." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2212.11920)] 
-  [[code](https   )]
+  [[code]()]
+  
+- **WATB:** Fasheng Wang, Ping Cao, Fu Li, Xing Wang, Bing He, Fuming Sun.<br />
+  "WATB: Wild Animal Tracking Benchmark." IJCV (2022).
+  [[paper](https://link.springer.com/content/pdf/10.1007/s11263-022-01732-3.pdf?pdf=button)] 
+  [[code](https://w-1995.github.io/)]
+  
+- **UAV2UAV:** Yong Wang, Zirong Huang, Robert Laganière, Huanlong Zhang, Lu Ding.<br />
+  "A UAV to UAV tracking benchmark." KBS (2023).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S095070512201293X)] 
+  [[code](https://github.com/hapless19/UAV2UAV-dataset)]
   
 - **NeighborTrack:** Yu-Hsi Chen, Chien-Yao Wang, Cheng-Yun Yang, Hung-Shuo Chang, Youn-Long Lin, Yung-Yu Chuang, Hong-Yuan Mark Liao.<br />
   "NeighborTrack: Improving Single Object Tracking by Bipartite Matching with Neighbor Tracklets." ArXiv (2022).
