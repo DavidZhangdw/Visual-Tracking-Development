@@ -225,6 +225,11 @@
   [[paper](https://arxiv.org/abs/2212.11920)] 
   [[code]()]
   
+- **EgoTracks:** Hao Tang, Kevin Liang, Kristen Grauman, Matt Feiszli, Weiyao Wang.<br />
+  "EgoTracks: A Long-term Egocentric Visual Object Tracking Dataset." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2301.03213)] 
+  [[code]()]
+  
 - **WATB:** Fasheng Wang, Ping Cao, Fu Li, Xing Wang, Bing He, Fuming Sun.<br />
   "WATB: Wild Animal Tracking Benchmark." IJCV (2022).
   [[paper](https://link.springer.com/content/pdf/10.1007/s11263-022-01732-3.pdf?pdf=button)] 
