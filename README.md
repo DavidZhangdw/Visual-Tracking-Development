@@ -20,6 +20,15 @@
   [[code](http://videocube.aitestunion.com/)]
       
 
+### AAAI 2023
+
+- **CTTrack:** Zikai Song, Run Luo, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang.<br />
+  "Compact Transformer Tracker with Correlative Masked Modeling." AAAI (2023).
+  [[paper](https://arxiv.org/abs/2301.10938)] 
+  [[code](https://github.com/HUSTDML/CTTrack)]
+  
+  
+  
 ### NeurIPS 2022
 
 - **SwinTrack:** Liting Lin, Heng Fan, Yong Xu, Haibin Ling.<br />
