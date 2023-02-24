@@ -229,6 +229,11 @@
   
 ### ArXiv
   
+- **TransSOT:** Janani Thangavel, Thanikasalam Kokul, Amirthalingam Ramanan, Subha Fernando.<br />
+  "Transformers in Single Object Tracking: An Experimental Survey." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2302.11867)] 
+  [[code]()]
+  
 - **LaGOT:** Christoph Mayer, Martin Danelljan, Ming-Hsuan Yang, Vittorio Ferrari, Luc Van Gool, Alina Kuznetsova.<br />
   "Beyond SOT: It's Time to Track Multiple Generic Objects at Once." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2212.11920)] 
