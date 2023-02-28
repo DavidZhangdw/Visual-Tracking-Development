@@ -20,6 +20,19 @@
   [[code](http://videocube.aitestunion.com/)]
       
 
+### CVPR 2023
+
+- **GRM:** Shenyuan Gao.<br />
+  "Generalized Relation Modeling for Transformer Tracking." CVPR (2023).
+  [[paper](https://arxiv.org/abs/2 )] 
+  [[code](https://github.com/ )]
+  
+- **PromptT:** Simiao Lai.<br />
+  "Visual Prompt Multi-Modal Tracking." CVPR (2023).
+  [[paper](https://arxiv.org/abs/2 )] 
+  [[code](https://github.com/ )]
+  
+
 ### AAAI 2023
 
 - **CTTrack:** Zikai Song, Run Luo, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang.<br />
