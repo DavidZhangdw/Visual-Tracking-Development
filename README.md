@@ -40,6 +40,10 @@
   [[paper](https://arxiv.org/abs/2301.10938)] 
   [[code](https://github.com/HUSTDML/CTTrack)]
   
+- **TATrack:** Kaijie He, Canlong Zhang, Sheng Xie, Zhixin Li, Zhiwen Wang.<br />
+  "Target-Aware Tracking with Long-term Context Attention." AAAI (2023).
+  [[paper](https://arxiv.org/abs/2302.13840)] 
+  [[code](https://github.com/hekaijie123/TATrack)]
   
   
 ### NeurIPS 2022
