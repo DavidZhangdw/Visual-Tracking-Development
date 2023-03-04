@@ -27,7 +27,7 @@
   [[paper](https://arxiv.org/abs/2 )] 
   [[code](https://github.com/ )]
   
-- **PromptT:** Simiao Lai.<br />
+- **ViPT:** Jiawen Zhu, Simiao Lai, Xin Chen, Dong Wang, Huchuan Lu.<br />
   "Visual Prompt Multi-Modal Tracking." CVPR (2023).
   [[paper](https://arxiv.org/abs/2 )] 
   [[code](https://github.com/ )]
