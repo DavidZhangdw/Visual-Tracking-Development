@@ -45,6 +45,11 @@
   [[paper](https://arxiv.org/abs/2302.13840)] 
   [[code](https://github.com/hekaijie123/TATrack)]
   
+- **DATF:** Yun Liang; Qiaoqiao Li; Fumian Long.<br />
+  "Global Dilated Attention and Target Focusing Network for Robust Tracking." AAAI (2023).
+  [[paper](https://arxiv.org/abs/)] 
+  [[code](https://github.com/)]
+  
   
 ### NeurIPS 2022
 
