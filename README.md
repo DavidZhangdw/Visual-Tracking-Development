@@ -261,6 +261,16 @@
   [[paper](https://arxiv.org/abs/2302.11867)] 
   [[code]()]
   
+- **SGDViT:** Liangliang Yao, Changhong Fu, Sihang Li, Guangze Zheng, Junjie Ye.<br />
+  "SGDViT: Saliency-Guided Dynamic Vision Transformer for UAV Tracking." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2303.04378v1)] 
+  [[code](https://github.com/vision4robotics/SGDViT)]
+  
+- **ClimRT:** Changhong Fu, Mutian Cai, Sihang Li, Kunhan Lu, Haobo Zuo, Chongjun Liu.<br />
+  "Continuity-Aware Latent Interframe Information Mining for Reliable UAV Tracking." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2303.04525v1)] 
+  [[code](https://github.com/vision4robotics/ClimRT)]
+  
 - **LaGOT:** Christoph Mayer, Martin Danelljan, Ming-Hsuan Yang, Vittorio Ferrari, Luc Van Gool, Alina Kuznetsova.<br />
   "Beyond SOT: It's Time to Track Multiple Generic Objects at Once." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2212.11920)] 
