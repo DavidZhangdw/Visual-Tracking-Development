@@ -24,8 +24,8 @@
 
 - **UNINEXT:** Bin Yan, Yi Jiang, Jiannan Wu, Dong Wang, Ping Luo, Zuhuan Yuan, Huchuan Lu.<br />
   "Universial Instance Perception as Object Discovery and Retrieval." CVPR (2023).
-  [[paper](https://arxiv.org/abs/2 )] 
-  [[code](https://github.com/ )]
+  [[paper](https://arxiv.org/abs/2303.06674)] 
+  [[code](https://github.com/MasterBin-IIAU/UNINEXT)]
   
  - **GRM:** Shenyuan Gao.<br />
   "Generalized Relation Modeling for Transformer Tracking." CVPR (2023).
