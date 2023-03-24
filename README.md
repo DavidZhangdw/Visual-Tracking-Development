@@ -32,15 +32,20 @@
   [[paper](https://arxiv.org/abs/2303.12079)] 
   [[code](https://github.com/)]
   
- - **GRM:** Shenyuan Gao.<br />
-  "Generalized Relation Modeling for Transformer Tracking." CVPR (2023).
-  [[paper](https://arxiv.org/abs/2 )] 
-  [[code](https://github.com/ )]
-  
 - **ViPT:** Jiawen Zhu, Simiao Lai, Xin Chen, Dong Wang, Huchuan Lu.<br />
   "Visual Prompt Multi-Modal Tracking." CVPR (2023).
   [[paper](https://arxiv.org/abs/2303.10826)] 
   [[code](https://github.com/jiawen-zhu/ViPT)]
+  
+ - **JointNLT:** Li Zhou, Zikun Zhou, Kaige Mao, Zhenyu He.<br />
+  "Joint Visual Grounding and Tracking with Natural Language Specification." CVPR (2023).
+  [[paper](https://arxiv.org/abs/2303.12027)] 
+  [[code](https://github.com/lizhou-cs/JointNLT)]
+  
+ - **GRM:** Shenyuan Gao.<br />
+  "Generalized Relation Modeling for Transformer Tracking." CVPR (2023).
+  [[paper](https://arxiv.org/abs/2 )] 
+  [[code](https://github.com/ )]
   
 
 ### ICRA 2023
@@ -293,8 +298,13 @@
   [[paper](https://ieeexplore.ieee.org/document/10004981)] 
   [[code]()]
   
+- **SiamTHN:** Jiahao Bao, Kaiqiang Chen, Xian Sun, Liangjin Zhao, Wenhui Diao, Menglong Yan.<br />
+  "SiamTHN: Siamese Target Highlight Network for Visual Tracking." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2303.12304)] 
+  [[code]()]
+  
 - **SRNet:** Nana Fan, Qiao Liu, Xin Li, Zikun Zhou, Zhenyu He.<br />
-  "Siamese residual network for efficient visual tracking." Information Sciences (2023).
+  "Siamese Residual Network for Efficient Visual Tracking." Information Sciences (2023).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522015778?via%3Dihub)] 
   [[code]()]
   
