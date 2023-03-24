@@ -268,6 +268,11 @@
   
 ### ArXiv
   
+- **PlanarTrack:** Xinran Liu, Xiaoqiong Liu, Ziruo Yi, Xin Zhou, Thanh Le, Libo Zhang, Yan Huang, Qing Yang, Heng Fan.<br />
+  "PlanarTrack: A Large-scale Challenging Benchmark for Planar Object Tracking." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2303.07625)] 
+  [[code]()]
+  
 - **TransSOT:** Janani Thangavel, Thanikasalam Kokul, Amirthalingam Ramanan, Subha Fernando.<br />
   "Transformers in Single Object Tracking: An Experimental Survey." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2302.11867)] 
@@ -276,6 +281,21 @@
 - **LaGOT:** Christoph Mayer, Martin Danelljan, Ming-Hsuan Yang, Vittorio Ferrari, Luc Van Gool, Alina Kuznetsova.<br />
   "Beyond SOT: It's Time to Track Multiple Generic Objects at Once." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2212.11920)] 
+  [[code]()]
+  
+- **TADS:** Xin Li, Wenjie Pei, Yaowei Wang, Zhenyu He, Huchuan Lu, Ming-Hsuan Yang.<br />
+  "Self-Supervised Tracking via Target-Aware Data Synthesis." TNNLS (2023).
+  [[paper](https://ieeexplore.ieee.org/document/10004981)] 
+  [[code]()]
+  
+- **SRNet:** Nana Fan, Qiao Liu, Xin Li, Zikun Zhou, Zhenyu He.<br />
+  "Siamese residual network for efficient visual tracking." Information Sciences (2023).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025522015778?via%3Dihub)] 
+  [[code]()]
+  
+  - **SiamTDN:** Yanjie Liang, Penghui Zhao, Yifei Hao, Hanzi Wang.<br />
+  "Siamese Template Diffusion Networks for Robust Visual Tracking." ICME (2022).
+  [[paper](https://ieeexplore.ieee.org/document/9859929)] 
   [[code]()]
   
 - **EgoTracks:** Hao Tang, Kevin Liang, Kristen Grauman, Matt Feiszli, Weiyao Wang.<br />
