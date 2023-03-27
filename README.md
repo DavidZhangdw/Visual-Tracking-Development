@@ -42,6 +42,11 @@
   [[paper](https://arxiv.org/abs/2303.12027)] 
   [[code](https://github.com/lizhou-cs/JointNLT)]
   
+ - **ARKitTrack:** Haojie Zhao, Junsong Chen, Lijun Wang, Huchuan Lu.<br />
+  "ARKitTrack: A New Diverse Dataset for Tracking Using Mobile RGB-D Data." CVPR (2023).
+  [[paper](https://arxiv.org/abs/2303.13885)] 
+  [[code](https://arkittrack.github.io/)]
+  
  - **GRM:** Shenyuan Gao.<br />
   "Generalized Relation Modeling for Transformer Tracking." CVPR (2023).
   [[paper](https://arxiv.org/abs/2 )] 
