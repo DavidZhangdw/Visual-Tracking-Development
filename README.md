@@ -294,8 +294,13 @@
   [[code]()]
   
 - **LaGOT:** Christoph Mayer, Martin Danelljan, Ming-Hsuan Yang, Vittorio Ferrari, Luc Van Gool, Alina Kuznetsova.<br />
-  "Beyond SOT: It's Time to Track Multiple Generic Objects at Once." ArXiv (2022).
+  "Beyond SOT: It's Time to Track Multiple Generic Objects at Once." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2212.11920)] 
+  [[code]()]
+  
+- **ProFormer:** Yabin Zhu, Chenglong Li, Xiao Wang, Jin Tang, Zhixiang Huang.<br />
+  "RGBT Tracking via Progressive Fusion Transformer with Dynamically Guided Learning." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2303.14778)] 
   [[code]()]
   
 - **TADS:** Xin Li, Wenjie Pei, Yaowei Wang, Zhenyu He, Huchuan Lu, Ming-Hsuan Yang.<br />
