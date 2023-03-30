@@ -382,10 +382,20 @@
   [[paper](https://ieeexplore.ieee.org/document/9859929)] 
   [[code]()]
   
+- **TAT:** Kaihao Lan, Haobo Jiang, Jin Xie.<br />
+  "Temporal-aware Siamese Tracker: Integrate Temporal Context for 3D Object Tracking." ACCV (2022).
+  [[paper](https://openaccess.thecvf.com/content/ACCV2022/html/Lan_Temporal-aware_Siamese_Tracker_Integrate_Temporal_Context_for_3D_Object_Tracking_ACCV_2022_paper.html)] 
+  [[code](https://github.com/tqsdyy/TAT)]
+  
 - **EgoTracks:** Hao Tang, Kevin Liang, Kristen Grauman, Matt Feiszli, Weiyao Wang.<br />
   "EgoTracks: A Long-term Egocentric Visual Object Tracking Dataset." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2301.03213)] 
   [[code]()]
+  
+ - **COESOT:** Chuanming Tang, Xiao Wang, Ju Huang, Bo Jiang, Lin Zhu, Jianlin Zhang, Yaowei Wang, Yonghong Tian.<br />
+  "Revisiting Color-Event based Tracking: A Unified Network, Dataset, and Metric." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/2211.11010)] 
+  [[code](COESOT)]
   
 - **WATB:** Fasheng Wang, Ping Cao, Fu Li, Xing Wang, Bing He, Fuming Sun.<br />
   "WATB: Wild Animal Tracking Benchmark." IJCV (2022).
@@ -543,6 +553,11 @@
   "Local Perception-Aware Transformer for Aerial Tracking." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2208.00662)] 
   [[code](https://github.com/vision4robotics/LPAT)]
+  
+- **AFRT:** Haobo Zuo, Changhong Fu, Sihang Li, Junjie Ye, and Guangze Zheng.<br />
+  "End-to-End Feature Decontaminated Network for UAV Tracking." ArXiv (2022).
+  [[paper](https://arxiv.org/abs/xxxxxxxx)] 
+  [[code](https://github.com/vision4robotics/FDNT)]
   
 - **FDT:** Changhong Fu, Haobo Zuo, Guangze Zheng, Junjie Ye, and Bowen Li.<br />
   "Feature-Distilled Transformer for UAV Tracking." ArXiv (2022).
@@ -1200,6 +1215,11 @@
 
 ### Others 2020
 
+* **VTT:** Tianling Bian, Yang Hua, Tao Song, Zhengui Xue, Ruhui Ma, Neil Robertson, Haibing Guan.<br />
+  "VTT: Long-term Visual Tracking with Transformers." ICPR 2020. 
+  [[paper](https://pure.qub.ac.uk/en/publications/vtt-long-term-visual-tracking-with-transformers)]
+  [[code](https://github.com/VisualTrackingVLL)]
+  
 * **COMET:** Seyed Mojtaba Marvasti-Zadeh, Javad Khaghani, Hossein Ghanei-Yakhdan, Shohreh Kasaei, and Li Cheng.<br />
   "COMET: Context-aware iOu-guided network for sMall objEct Tracking." ACCV 2020. 
   [[paper](https://arxiv.org/pdf/2006.02597.pdf)]
@@ -1216,7 +1236,7 @@
   [[paper_new](https://arxiv.org/abs/1912.05515v2)]
   [[code](https://isrc.iscas.ac.cn/gitlab/research/siamcan)]
   
-### ICCV2019
+### ICCV 2019
 
 * **DiMP:** Goutam Bhat, Martin Danelljan, Luc Van Gool, Radu Timofte.<br />
   "Learning Discriminative Model Prediction for Tracking." ICCV (2019 **oral**). 
