@@ -67,6 +67,11 @@
   [[paper](https://arxiv.org/pdf/2303.16580v1.pdf)] 
   [[code](https://github.com/Little-Podi/GRM)]
   
+ - **VisTracker:** Xianghui Xie, Bharat Lal Bhatnagar, Gerard Pons-Moll.<br />
+  "Visibility Aware Human-Object Interaction Tracking from Single RGB Camera." CVPR (2023).
+  [[paper](https://arxiv.org/abs/2303.16479v1)] 
+  [[code](https://virtualhumans.mpi-inf.mpg.de/VisTracker/)]
+  
  - **SeqTrack:** None.<br />
   "SeqTrack." CVPR (2023).
   [[paper](https://arxiv.org/)] 
