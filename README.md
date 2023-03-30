@@ -32,6 +32,21 @@
   [[paper](https://arxiv.org/abs/2303.12079)] 
   [[code](https://github.com/)]
   
+- **DropMAE:** None.<br />
+  "DropMAE: Masked Autoencoders with Spatial-Attention Dropout for Tracking Task." CVPR (2023).
+  [[paper](https://arxiv.org/abs/x)] 
+  [[code](https://github.com/xx)]
+  
+- **VideoTrack:** Fei Xie, Lei Chu, Jiahao Li, Yan Lu, Chao Ma.<br />
+  "VideoTrack: Learning to Track Objects via Video Transformer." CVPR (2023).
+  [[paper](https://arxiv.org/abs/x)] 
+  [[code](https://github.com/phiphiphi31/VideoTrack)]
+  
+- **SwinV2:** Zhenda Xie, Zigang Geng, Jingcheng Hu, Zheng Zhang, Han Hu, Yue Cao.<br />
+  "Revealing the Dark Secrets of Masked Image Modeling." CVPR (2023).
+  [[paper](https://arxiv.org/abs/2205.13543)] 
+  [[code](https://github.com/SwinTransformer/MIM-Depth-Estimation)]
+  
 - **ViPT:** Jiawen Zhu, Simiao Lai, Xin Chen, Dong Wang, Huchuan Lu.<br />
   "Visual Prompt Multi-Modal Tracking." CVPR (2023).
   [[paper](https://arxiv.org/abs/2303.10826)] 
@@ -47,10 +62,15 @@
   [[paper](https://arxiv.org/abs/2303.13885)] 
   [[code](https://arkittrack.github.io/)]
   
- - **GRM:** Shenyuan Gao.<br />
+ - **GRM:** Shenyuan Gao, Chunluan Zhou, Jun Zhang.<br />
   "Generalized Relation Modeling for Transformer Tracking." CVPR (2023).
-  [[paper](https://arxiv.org/abs/2 )] 
-  [[code](https://github.com/ )]
+  [[paper](https://arxiv.org/pdf/2303.16580v1.pdf)] 
+  [[code](https://github.com/Little-Podi/GRM)]
+  
+ - **SeqTrack:** None.<br />
+  "SeqTrack." CVPR (2023).
+  [[paper](https://arxiv.org/)] 
+  [[code](https://github.cx)]
   
 
 ### ICRA 2023
@@ -64,6 +84,26 @@
   "Continuity-Aware Latent Interframe Information Mining for Reliable UAV Tracking." ICRA (2023).
   [[paper](https://arxiv.org/abs/2303.04525v1)] 
   [[code](https://github.com/vision4robotics/ClimRT)]
+  
+### IROS 2023
+
+- **CDT:** Kunhan Lu, Changhong Fu, Yucheng Wang, Haobo Zuo, Guangze Zheng, and Jia Pan.<br />
+  "Cascaded Denoising Transformer for UAV Nighttime Tracking." RAL (2023).
+  [[paper](https://arxiv.org/xxxx)] 
+  [[code](https://github.com/vision4robotics/CDT)]
+  
+- **TRTrack:** Sihang Li, Changhong Fu.<br />
+  "TRTrack: Boosting UAV Object Tracking with Voxel-based Trajectory-aware Reconstruction Training." IROS (2023).
+  [[paper](https://arxiv.org/abs/xxxx)] 
+  [[code](https://github.com/vision4robotics/TRTrack)]
+  
+### WACV 2023
+
+- **E.T.Track:** Philippe Blatter, Menelaos Kanakis, Martin Danelljan, Luc Van Gool.<br />
+  "Efficient Visual Tracking with Exemplar Transformers." WACV (2023).
+  [[paper](https://arxiv.org/abs/2112.09686)] 
+  [[code](https://github.com/pblatter/ettrack)]
+  
 
 ### AAAI 2023
 
@@ -77,9 +117,9 @@
   [[paper](https://arxiv.org/abs/2302.13840)] 
   [[code](https://github.com/hekaijie123/TATrack)]
   
-- **DATF:** Yun Liang; Qiaoqiao Li; Fumian Long.<br />
+- **GdaTFT:** Yun Liang; Qiaoqiao Li; Fumian Long.<br />
   "Global Dilated Attention and Target Focusing Network for Robust Tracking." AAAI (2023).
-  [[paper](https://arxiv.org/abs/)] 
+  [[paper](https://underline.io/lecture/69278-global-dilated-attention-and-target-focusing-network-for-robust-tracking)] 
   [[code](https://github.com/)]
   
   
@@ -122,6 +162,11 @@
   "Backbone is All Your Need: A Simplified Architecture for Visual Object Tracking." ECCV (2022).
   [[paper](https://arxiv.org/abs/2203.05328)] 
   [[code](https://github.com/LPXTT/SimTrack)]
+  
+- **CIA:** Zhixiong Pi, Weitao Wan, Chong Sun, Changxin Gao, Nong Sang, Chen Li.<br />
+  "Hierarchical Feature Embedding for Visual Tracking." ECCV (2022).
+  [[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/4400_ECCV_2022_paper.php)] 
+  [[code](https://github.com/zxgravity/CIA)]
   
 - **RTS:** Matthieu Paul,Martin Danelljan,Christoph Mayer,Luc Van Gool.<br />
   "Robust Visual Tracking by Segmentation." ECCV (2022).
@@ -280,6 +325,15 @@
   "Online Hybrid Lightweight Representations Learning: Its Application to Visual Tracking." IJCAI (2022).
   [[paper](https://arxiv.org/abs/2205.11179)] 
   [[code](https://github.com/fzh0917/SparseTT)]
+  
+  
+### MICCAI 2022
+
+- **TLT:** Wen Tang, Han Kang, Haoyue Zhang, Pengxin Yu, Corey W. Arnold, Rongguo Zhang.<br />
+  "Transformer Lesion Tracker." MICCAI (2022).
+  [[paper](https://arxiv.org/abs/2206.06252)] 
+  [[code](https://github.com/TangWen920812/TLT)]
+  
   
 ### ArXiv
   
