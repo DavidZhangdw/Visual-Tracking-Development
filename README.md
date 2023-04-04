@@ -35,7 +35,7 @@
 - **DropMAE:** Qiangqiang Wu, Tianyu Yang, Ziquan Liu, Baoyuan Wu, Ying Shan, Antoni B. Chan.<br />
   "DropMAE: Masked Autoencoders with Spatial-Attention Dropout for Tracking Tasks." CVPR (2023).
   [[paper](https://arxiv.org/abs/2304.00571)] 
-  [[code](https://github.com/jimmy-dq/DropMAE.git)]
+  [[code](https://github.com/jimmy-dq/DropMAE)]
   
 - **VideoTrack:** Fei Xie, Lei Chu, Jiahao Li, Yan Lu, Chao Ma.<br />
   "VideoTrack: Learning to Track Objects via Video Transformer." CVPR (2023).
