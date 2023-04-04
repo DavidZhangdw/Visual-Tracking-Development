@@ -32,10 +32,10 @@
   [[paper](https://arxiv.org/abs/2303.12079)] 
   [[code](https://github.com/)]
   
-- **DropMAE:** None.<br />
-  "DropMAE: Masked Autoencoders with Spatial-Attention Dropout for Tracking Task." CVPR (2023).
-  [[paper](https://arxiv.org/abs/x)] 
-  [[code](https://github.com/xx)]
+- **DropMAE:** Qiangqiang Wu, Tianyu Yang, Ziquan Liu, Baoyuan Wu, Ying Shan, Antoni B. Chan.<br />
+  "DropMAE: Masked Autoencoders with Spatial-Attention Dropout for Tracking Tasks." CVPR (2023).
+  [[paper](https://arxiv.org/abs/2304.00571)] 
+  [[code](https://github.com/jimmy-dq/DropMAE.git)]
   
 - **VideoTrack:** Fei Xie, Lei Chu, Jiahao Li, Yan Lu, Chao Ma.<br />
   "VideoTrack: Learning to Track Objects via Video Transformer." CVPR (2023).
@@ -127,6 +127,11 @@
   [[paper](https://underline.io/lecture/69278-global-dilated-attention-and-target-focusing-network-for-robust-tracking)] 
   [[code](https://github.com/)]
   
+- **GLT-T:** Jiahao Nie, Zhiwei He, Yuxiang Yang, Mingyu Gao, Jing Zhang.<br />
+  "GLT-T: Global-Local Transformer Voting for 3D Single Object Tracking in Point Clouds." AAAI (2023).
+  [[paper](https://arxiv.org/abs/2211.10927)] 
+  [[extended](https://arxiv.org/abs/2304.00242)] 
+  [[code](https://github.com/haooozi/GLT-T)]
   
 ### NeurIPS 2022
 
