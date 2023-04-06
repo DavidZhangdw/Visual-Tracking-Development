@@ -19,7 +19,13 @@
   [[paper](https://arxiv.org/pdf/2202.13073.pdf)] 
   [[code](http://videocube.aitestunion.com/)]
       
-
+- **SAM:** Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick.<br />
+  "Segment Anything." ArXiv (2023).
+  [[paper](https://arxiv.org/pdf/2304.02643v1.pdf)] 
+  [[homepage](https://segment-anything.com/)] 
+  [[code](https://github.com/facebookresearch/segment-anything)]
+      
+      
 ### CVPR 2023
 
 - **UNINEXT:** Bin Yan, Yi Jiang, Jiannan Wu, Dong Wang, Ping Luo, Zuhuan Yuan, Huchuan Lu.<br />
