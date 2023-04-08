@@ -24,6 +24,11 @@
   [[paper](https://arxiv.org/pdf/2304.02643v1.pdf)] 
   [[homepage](https://segment-anything.com/)] 
   [[code](https://github.com/facebookresearch/segment-anything)]
+  
+- **SegGPT:** Xinlong Wang, Xiaosong Zhang, Yue Cao, Wen Wang, Chunhua Shen, Tiejun Huang.<br />
+  "SegGPT: Segmenting Everything In Context." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2304.03284)] 
+  [[code](https://github.com/baaivision/Painter)]
       
       
 ### CVPR 2023
