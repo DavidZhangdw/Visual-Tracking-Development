@@ -144,6 +144,11 @@
   [[extended](https://arxiv.org/abs/2304.00242)] 
   [[code](https://github.com/haooozi/GLT-T)]
   
+- **RSPT:** Fangwei Zhong, Xiao Bi, Yudi Zhang, Wei Zhang, Yizhou Wang.<br />
+  "RSPT: Reconstruct Surroundings and Predict Trajectories for Generalizable Active Object Tracking." AAAI (2023).
+  [[paper](https://arxiv.org/abs/2304.03623)] 
+  [[code](https://sites.google.com/view/aot-rspt)]
+  
 ### NeurIPS 2022
 
 - **SwinTrack:** Liting Lin, Heng Fan, Yong Xu, Haibin Ling.<br />
