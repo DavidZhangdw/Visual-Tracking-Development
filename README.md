@@ -93,6 +93,11 @@
   [[paper](https://arxiv.org/abs/2303.16479v1)] 
   [[code](https://virtualhumans.mpi-inf.mpg.de/VisTracker/)]
   
+ - **OVTrack:** Siyuan Li, Tobias Fischer, Lei Ke, Henghui Ding, Martin Danelljan, Fisher Yu.<br />
+  "OVTrack: Open-Vocabulary Multiple Object Tracking." CVPR (2023).
+  [[paper](https://arxiv.org/abs/2304.08408)] 
+  [[code](https://www.vis.xyz/pub/ovtrack/)]
+  
  - **SeqTrack:** None.<br />
   "SeqTrack." CVPR (2023).
   [[paper](https://arxiv.org/)] 
