@@ -103,10 +103,10 @@
   [[paper](https://arxiv.org/abs/2304.08408)] 
   [[code](https://www.vis.xyz/pub/ovtrack/)]
   
- - **SeqTrack:** None.<br />
-  "SeqTrack." CVPR (2023).
-  [[paper](https://arxiv.org/)] 
-  [[code](https://github.cx)]
+ - **SeqTrack:** Xin Chen, Houwen Peng, Dong Wang, Huchuan Lu, Han Hu.<br />
+  "SeqTrack: Sequence to Sequence Learning for Visual Object Tracking." CVPR (2023).
+  [[paper](https://arxiv.org/abs/2304.14394)] 
+  [[code](https://github.com/microsoft/VideoX)]
   
   
 ### IJCAI 2023
