@@ -40,6 +40,11 @@
   [[paper](https://arxiv.org/pdf/2304.06718v1.pdf)] 
   [[code](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)]
   
+- **ChatVideo:** Junke Wang, Dongdong Chen, Chong Luo, Xiyang Dai, Lu Yuan, Zuxuan Wu, Yu-Gang Jiang.<br />
+  "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2304.14407)] 
+  [[code](https://www.wangjunke.info/ChatVideo/)]
+  
 - **SegGPT:** Xinlong Wang, Xiaosong Zhang, Yue Cao, Wen Wang, Chunhua Shen, Tiejun Huang.<br />
   "SegGPT: Segmenting Everything In Context." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2304.03284)] 
