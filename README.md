@@ -113,6 +113,11 @@
   [[paper](https://arxiv.org/abs/2304.14394)] 
   [[code](https://github.com/microsoft/VideoX)]
   
+ - **TCOW:** Basile Van Hoorick, Pavel Tokmakov, Simon Stent, Jie Li, Carl Vondrick.<br />
+  "Tracking through Containers and Occluders in the Wild." CVPR (2023).
+  [[paper](https://arxiv.org/abs/2305.03052)] 
+  [[code](https://tcow.cs.columbia.edu/)]
+  
   
 ### IJCAI 2023
 
