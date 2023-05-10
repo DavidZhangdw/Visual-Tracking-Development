@@ -113,6 +113,11 @@
   [[paper](https://arxiv.org/abs/2304.14394)] 
   [[code](https://github.com/microsoft/VideoX)]
   
+ - **ImageBind:** Rohit Girdhar, Alaaeldin El-Nouby, Zhuang Liu, Mannat Singh, Kalyan Vasudev Alwala, Armand Joulin, Ishan Misra.<br />
+  "IMAGEBIND: One Embedding Space To Bind Them All." CVPR (2023).
+  [[paper](https://arxiv.org/abs/2305.05665)] 
+  [[code](https://github.com/facebookresearch/ImageBind)]
+  
  - **TCOW:** Basile Van Hoorick, Pavel Tokmakov, Simon Stent, Jie Li, Carl Vondrick.<br />
   "Tracking through Containers and Occluders in the Wild." CVPR (2023).
   [[paper](https://arxiv.org/abs/2305.03052)] 
