@@ -30,9 +30,9 @@
   [[paper](https://arxiv.org/abs/2304.11968)] 
   [[code](https://github.com/gaomingqi/Track-Anything)]
   
-- **SAM-track:** Yuanyou Xu, Yangming Cheng, Liulei Li, Zongxin Yang, Wenguan Wang, and Yi Yang.<br />
+- **SAM-Track:** Yangming Cheng, Liulei Li, Yuanyou Xu, Xiaodi Li, Zongxin Yang, Wenguan Wang, Yi Yang.<br />
   "Segment-and-Track Anything." ArXiv (2023).
-  [[paper]( )] 
+  [[paper](https://arxiv.org/abs/2305.06558)] 
   [[code](https://github.com/z-x-yang/Segment-and-Track-Anything)]
   
 - **SEEM:** Xueyan Zou, Jianwei Yang, Hao Zhang, Feng Li, Linjie Li, Jianfeng Gao, Yong Jae Lee.<br />
