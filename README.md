@@ -98,6 +98,26 @@
   [[paper](https://arxiv.org/pdf/2303.16580v1.pdf)] 
   [[code](https://github.com/Little-Podi/GRM)]
   
+ - **ARTrack:** Xing Wei, Yifan Bai, Yongchao Zheng, Dahu Shi, Yihong Gong.<br />
+  "Autoregressive Visual Tracking." CVPR (2023).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wei_Autoregressive_Visual_Tracking_CVPR_2023_paper.html)] 
+  [[code](https://github.com/MIV-XJTU/ARTrack)]
+  
+ - **MAT:** Haojie Zhao, Dong Wang, Huchuan Lu.<br />
+  "Representation Learning for Visual Object Tracking by Masked Appearance Transfer." CVPR (2023).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhao_Representation_Learning_for_Visual_Object_Tracking_by_Masked_Appearance_Transfer_CVPR_2023_paper.html)] 
+  [[code](https://github.com/difhnp/MAT)]
+  
+ - **EMT:** Jinyu Yang, Shang Gao, Zhe Li, Feng Zheng, Aleš Leonardis.<br />
+  "Resource-Efficient RGBD Aerial Tracking." CVPR (2023).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Resource-Efficient_RGBD_Aerial_Tracking_CVPR_2023_paper.html)] 
+  [[code](https://github.com/yjybuaa/RGBDAerialTracking)]
+  
+ - **TBSI:** Tianrui Hui, Zizheng Xun, Fengguang Peng, Junshi Huang, Xiaoming Wei, Xiaolin Wei, Jiao Dai, Jizhong Han, Si Liu.<br />
+  "Bridging Search Region Interaction With Template for RGB-T Tracking." CVPR (2023).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Hui_Bridging_Search_Region_Interaction_With_Template_for_RGB-T_Tracking_CVPR_2023_paper.html)] 
+  [[code](https://github.com/RyanHTR/TBSI)]
+  
  - **VisTracker:** Xianghui Xie, Bharat Lal Bhatnagar, Gerard Pons-Moll.<br />
   "Visibility Aware Human-Object Interaction Tracking from Single RGB Camera." CVPR (2023).
   [[paper](https://arxiv.org/abs/2303.16479v1)] 
