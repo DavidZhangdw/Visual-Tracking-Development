@@ -6,7 +6,7 @@
 ### :star2: Recommendations :star2:
 
 - **VOTSurvey:** Sajid Javed, Martin Danelljan, Fahad Shahbaz Khan, Muhammad Haris Khan, Michael Felsberg, Jiri Matas.<br />
-  "Visual Object Tracking with Discriminative Filters and Siamese Networks: A Survey and Outlook." ArXiv (2021).
+  "Visual Object Tracking with Discriminative Filters and Siamese Networks: A Survey and Outlook." TAPMI (2023).
   [[paper](https://arxiv.org/abs/2112.02838)] 
   
 - **DL4VT:** Seyed Mojtaba Marvasti-Zadeh, Li Cheng, Senior Member, Hossein Ghanei-Yakhdan, Shohreh Kasaei, Senior Member.<br />
@@ -352,6 +352,11 @@
   [[paper](https://arxiv.org/abs/2203.01666)] 
   [[code](https://github.com/phiphiphi31/SuperSBT)]
   
+- **AdaRS:** Yihao Li, Jun Yu, Zhongpeng Cai, Yuwen Pan.<br />
+  "Cross-Modal Target Retrieval for Tracking by Natural Language." CVPR (2022).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2022W/ODRUM/html/Li_Cross-Modal_Target_Retrieval_for_Tracking_by_Natural_Language_CVPRW_2022_paper.html)] 
+  [[code](xxxx)]
+  
 - **STNet:** Jiqing Zhang, Bo Dong, Haiwei Zhang, Jianchuan Ding, Felix Heide, Baocai Yin, Xin Yang.<br />
   "Spiking Transformers for Event-based Single Object Tracking." CVPR (2022).
   [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Spiking_Transformers_for_Event-Based_Single_Object_Tracking_CVPR_2022_paper.html)] 
@@ -425,6 +430,11 @@
   
   
 ### ArXiv
+  
+- **MACFT:** Yang Luo, Xiqing Guo, Mingtao Dong, Jin Yu.<br />
+  "RGB-T Tracking Based on Mixed Attention." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2304.04264)] 
+  [[code](https:/xx)]
   
 - **PlanarTrack:** Xinran Liu, Xiaoqiong Liu, Ziruo Yi, Xin Zhou, Thanh Le, Libo Zhang, Yan Huang, Qing Yang, Heng Fan.<br />
   "PlanarTrack: A Large-scale Challenging Benchmark for Planar Object Tracking." ArXiv (2023).
