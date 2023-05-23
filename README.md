@@ -53,6 +53,11 @@
       
 ### CVPR 2023
 
+- **X-Decoder:** Xueyan Zou, Zi-Yi Dou, Jianwei Yang, Zhe Gan, Linjie Li, Chunyuan Li, Xiyang Dai, Harkirat Behl, Jianfeng Wang, Lu Yuan, Nanyun Peng, Lijuan Wang, Yong Jae Lee, Jianfeng Gao.<br />
+  "Generalized Decoding for Pixel, Image, and Language." CVPR (2023).
+  [[paper](https://arxiv.org/abs/2212.11270)] 
+  [[code](https://x-decoder-vl.github.io/)]
+  
 - **UNINEXT:** Bin Yan, Yi Jiang, Jiannan Wu, Dong Wang, Ping Luo, Zuhuan Yuan, Huchuan Lu.<br />
   "Universial Instance Perception as Object Discovery and Retrieval." CVPR (2023).
   [[paper](https://arxiv.org/abs/2303.06674)] 
