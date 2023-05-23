@@ -441,6 +441,11 @@
   [[paper](https://arxiv.org/abs/2304.04264)] 
   [[code](https:/xx)]
   
+- **MFT:** Michal Neoral, Jonáš Šerých, Jiří Matas.<br />
+  "MFT: Long-Term Tracking of Every Pixel." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.12998)] 
+  [[code](https:/xx)]
+  
 - **S3Track:** Fatemeh Azimi, Fahim Mannan, Felix Heide.<br />
   "S3Track: Self-supervised Tracking with Soft Assignment Flow." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2305.09981)] 
