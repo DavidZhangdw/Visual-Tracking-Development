@@ -436,6 +436,11 @@
   [[paper](https://arxiv.org/abs/2304.04264)] 
   [[code](https:/xx)]
   
+- **S3Track:** Fatemeh Azimi, Fahim Mannan, Felix Heide.<br />
+  "S3Track: Self-supervised Tracking with Soft Assignment Flow." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.09981)] 
+  [[code](https:/xx)]
+  
 - **PlanarTrack:** Xinran Liu, Xiaoqiong Liu, Ziruo Yi, Xin Zhou, Thanh Le, Libo Zhang, Yan Huang, Qing Yang, Heng Fan.<br />
   "PlanarTrack: A Large-scale Challenging Benchmark for Planar Object Tracking." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2303.07625)] 
