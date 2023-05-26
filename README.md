@@ -49,6 +49,11 @@
   "SegGPT: Segmenting Everything In Context." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2304.03284)] 
   [[code](https://github.com/baaivision/Painter)]
+  
+- **MixFormerV2:** Yutao Cui, Tianhui Song, Gangshan Wu, Limin Wang.<br />
+  "MixFormerV2: Efficient Fully Transformer Tracking." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.15896)] 
+  [[code](https://github.com/MCG-NJU/MixFormerV2)]
       
       
 ### CVPR 2023
@@ -439,6 +444,11 @@
 - **MACFT:** Yang Luo, Xiqing Guo, Mingtao Dong, Jin Yu.<br />
   "RGB-T Tracking Based on Mixed Attention." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2304.04264)] 
+  [[code](https:/xx)]
+  
+- **AFNet:** Jiqing Zhang, Yuanchen Wang, Wenxi Liu, Meng Li, Jinpeng Bai, Baocai Yin, Xin Yang.<br />
+  "Frame-Event Alignment and Fusion Network for High Frame Rate Tracking." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.15688)] 
   [[code](https:/xx)]
   
 - **MFT:** Michal Neoral, Jonáš Šerých, Jiří Matas.<br />
