@@ -40,10 +40,20 @@
   [[paper](https://arxiv.org/pdf/2304.06718v1.pdf)] 
   [[code](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)]
   
+- **Omnimotion:** Qianqian Wang, Yen-Yu Chang, Ruojin Cai, Zhengqi Li, Bharath Hariharan, Aleksander Holynski, Noah Snavely.<br />
+  "Tracking Everything Everywhere All at Once." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.05422)] 
+  [[code](https://omnimotion.github.io/)]
+  
 - **ChatVideo:** Junke Wang, Dongdong Chen, Chong Luo, Xiyang Dai, Lu Yuan, Zuxuan Wu, Yu-Gang Jiang.<br />
   "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2304.14407)] 
   [[code](https://www.wangjunke.info/ChatVideo/)]
+  
+- **Video-ChatGPT:** Muhammad Maaz, Hanoona Rasheed, Salman Khan, Fahad Shahbaz Khan.<br />
+  "Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.05424)] 
+  [[code](https://github.com/mbzuai-oryx/Video-ChatGPT)]
   
 - **SegGPT:** Xinlong Wang, Xiaosong Zhang, Yue Cao, Wen Wang, Chunhua Shen, Tiejun Huang.<br />
   "SegGPT: Segmenting Everything In Context." ArXiv (2023).
@@ -440,6 +450,16 @@
   
   
 ### ArXiv
+  
+- **P3DTrack:** Jiawei He, Lue Fan, Yuqi Wang, Yuntao Chen, Zehao Huang, Naiyan Wang, Zhaoxiang Zhang.<br />
+  "Tracking Objects with 3D Representation from Videos." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.05416)] 
+  [[code](https:/xx)]
+  
+- **SparseTrack:** Zelin Liu, Xinggang Wang, Cheng Wang, Wenyu Liu, Xiang Bai.<br />
+  "SparseTrack: Multi-Object Tracking by Performing Scene Decomposition based on Pseudo-Depth." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.05238)] 
+  [[code](https://github.com/hustvl/SparseTrack)]
   
 - **MACFT:** Yang Luo, Xiqing Guo, Mingtao Dong, Jin Yu.<br />
   "RGB-T Tracking Based on Mixed Attention." ArXiv (2023).
