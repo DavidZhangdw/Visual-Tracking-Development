@@ -39,7 +39,17 @@
   "Segment Everything Everywhere All at Once." ArXiv (2023).
   [[paper](https://arxiv.org/pdf/2304.06718v1.pdf)] 
   [[code](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)]
+
+- **SAM-PT:** Frano Rajič, Lei Ke, Yu-Wing Tai, Chi-Keung Tang, Martin Danelljan, Fisher Yu.<br />
+  "Segment Anything Meets Point Tracking." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2307.01197)] 
+  [[code](https:/github.com/syscv/sam-pt)]
   
+- **ReviewLLM:** Jiaqi Wang, Zhengliang Liu, Lin Zhao, Zihao Wu, Chong Ma, Sigang Yu, Haixing Dai.<br />
+  "Review of Large Vision Models and Visual Prompt Engineering." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2307.00855)]
+  [[code](https://github.com/xxx)]
+
 - **Omnimotion:** Qianqian Wang, Yen-Yu Chang, Ruojin Cai, Zhengqi Li, Bharath Hariharan, Aleksander Holynski, Noah Snavely.<br />
   "Tracking Everything Everywhere All at Once." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.05422)] 
@@ -455,6 +465,11 @@
   "Tracking Objects with 3D Representation from Videos." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.05416)] 
   [[code](https:/xx)]
+  
+- **SAM-DA:** Liangliang Yao, Haobo Zuo, Guangze Zheng, Changhong Fu, Jia Pan.<br />
+  "SAM-DA: UAV Tracks Angthing at Night with SAM-Powered Domain Adaptation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2307.01024)] 
+  [[code](https:/github.com/vision4robotics/sam-da)]
   
 - **SparseTrack:** Zelin Liu, Xinggang Wang, Cheng Wang, Wenyu Liu, Xiang Bai.<br />
   "SparseTrack: Multi-Object Tracking by Performing Scene Decomposition based on Pseudo-Depth." ArXiv (2023).
