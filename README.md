@@ -461,6 +461,11 @@
   
 ### ArXiv
   
+- **All-in-One:** Chunhui Zhang, Xin Sun, Li Liu, Yiqian Yang, Qiong Liu, Xi Zhou, Yanfeng Wang.<br />
+  "All in One: Exploring Unified Vision-Language Tracking with Multi-Modal Alignment." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2307.03373)] 
+  [[code](https:/xx)]
+
 - **P3DTrack:** Jiawei He, Lue Fan, Yuqi Wang, Yuntao Chen, Zehao Huang, Naiyan Wang, Zhaoxiang Zhang.<br />
   "Tracking Objects with 3D Representation from Videos." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.05416)] 
