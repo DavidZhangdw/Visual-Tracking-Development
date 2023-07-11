@@ -466,6 +466,11 @@
   [[paper](https://arxiv.org/abs/2307.03373)] 
   [[code](https:/xx)]
 
+- **COHA:** Zhiyu Zhu, Junhui Hou, Dapeng Oliver Wu.<br />
+  "Cross-modal Orthogonal High-rank Augmentation for RGB-Event Transformer-trackers." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2307.04129)] 
+  [[code](https:/xx)]
+  
 - **P3DTrack:** Jiawei He, Lue Fan, Yuqi Wang, Yuntao Chen, Zehao Huang, Naiyan Wang, Zhaoxiang Zhang.<br />
   "Tracking Objects with 3D Representation from Videos." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.05416)] 
