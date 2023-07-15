@@ -74,7 +74,11 @@
   "MixFormerV2: Efficient Fully Transformer Tracking." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2305.15896)] 
   [[code](https://github.com/MCG-NJU/MixFormerV2)]
-      
+  
+- **CO-MOT:** Feng Yan, Weixin Luo, Yujie Zhong, Yiyang Gan, Lin Ma.<br />
+  "CO-MOT: Bridging the Gap Between End-to-end and Non-End-to-end Multi-Object Tracking." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.12724)] 
+  [[code](https://github.com/BingfengYan/CO-MOT)]
       
 ### CVPR 2023
 
