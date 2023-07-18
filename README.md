@@ -461,6 +461,11 @@
   
 ### ArXiv
   
+- **CoTracker:** Nikita Karaev, Ignacio Rocco, Benjamin Graham, Natalia Neverova, Andrea Vedaldi, Christian Rupprecht.<br />
+  "CoTracker: It is Better to Track Together." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2307.07635)] 
+  [[code](https://co-tracker.github.io/)]
+
 - **All-in-One:** Chunhui Zhang, Xin Sun, Li Liu, Yiqian Yang, Qiong Liu, Xi Zhou, Yanfeng Wang.<br />
   "All in One: Exploring Unified Vision-Language Tracking with Multi-Modal Alignment." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.03373)] 
