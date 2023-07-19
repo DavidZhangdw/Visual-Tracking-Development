@@ -74,8 +74,16 @@
   "MixFormerV2: Efficient Fully Transformer Tracking." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2305.15896)] 
   [[code](https://github.com/MCG-NJU/MixFormerV2)]
+
       
-      
+### ICCV 2023
+
+- **PVT++:** Bowen Li, Ziyuan Huang, Junjie Ye, Yiming Li, Sebastian Scherer, Hang Zhao, Changhong Fu.<br />
+  "PVT++: A Simple End-to-End Latency-Aware Visual Tracking Framework." ICCV (2023).
+  [[paper](https://arxiv.org/abs/2211.11629)] 
+  [[code](https://github.com/Jaraxxus-Me/PVT_pp)]
+
+       
 ### CVPR 2023
 
 - **X-Decoder:** Xueyan Zou, Zi-Yi Dou, Jianwei Yang, Zhe Gan, Linjie Li, Chunyuan Li, Xiyang Dai, Harkirat Behl, Jianfeng Wang, Lu Yuan, Nanyun Peng, Lijuan Wang, Yong Jae Lee, Jianfeng Gao.<br />
