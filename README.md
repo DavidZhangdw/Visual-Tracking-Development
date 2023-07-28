@@ -82,6 +82,11 @@
   "PVT++: A Simple End-to-End Latency-Aware Visual Tracking Framework." ICCV (2023).
   [[paper](https://arxiv.org/abs/2211.11629)] 
   [[code](https://github.com/Jaraxxus-Me/PVT_pp)]
+  
+- **360VOT:** Huajian Huang, Yinzhe Xu, Yingshu Chen, Sai-Kit Yeung.<br />
+  "360VOT: A New Benchmark Dataset for Omnidirectional Visual Object Tracking." ICCV (2023).
+  [[paper](https://arxiv.org/abs/2307.14630)] 
+  [[code](https://360vot.hkustvgd.com/)]
 
        
 ### CVPR 2023
