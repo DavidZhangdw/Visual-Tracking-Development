@@ -904,6 +904,11 @@
   "Tracker Meets Night: A Transformer Enhancer for UAV Tracking." ICRA/RAL (2022).
   [[paper](https://ieeexplore.ieee.org/document/9696362)] 
   [[code](https://github.com/vision4robotics/SCT)]
+
+- **SiamX:** Huajian Huang, Sai-Kit Yeung.<br />
+  "SiamX: An Efficient Long-term Tracker Using Cross-level Feature Correlation and Adaptive Tracking Scheme." ICRA (2022).
+  [[paper](https://huajianup.github.io/research/SiamX/SiamX_ICRA2022_final.pdf)] 
+  [[code](https://huajianup.github.io/research/SiamX/)]
  
  
 ### WACV 2022
