@@ -78,6 +78,11 @@
       
 ### ICCV 2023
 
+- **CiteTracker:** Xin Li, Yuqing Huang, Zhenyu He, Yaowei Wang, Huchuan Lu, Ming-Hsuan Yang.<br />
+  "CiteTracker: Correlating Image and Text for Visual Tracking." ICCV (2023).
+  [[paper](https://arxiv.org/abs/2x)] 
+  [[code](https://github.com/xinli/citetracker)]
+
 - **PVT++:** Bowen Li, Ziyuan Huang, Junjie Ye, Yiming Li, Sebastian Scherer, Hang Zhao, Changhong Fu.<br />
   "PVT++: A Simple End-to-End Latency-Aware Visual Tracking Framework." ICCV (2023).
   [[paper](https://arxiv.org/abs/2211.11629)] 
