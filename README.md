@@ -93,6 +93,10 @@
   [[paper](https://arxiv.org/abs/2307.14630)] 
   [[code](https://360vot.hkustvgd.com/)]
 
+- **PlanarTrack:** Xinran Liu, Xiaoqiong Liu, Ziruo Yi, Xin Zhou, Thanh Le, Libo Zhang, Yan Huang, Qing Yang, Heng Fan.<br />
+  "PlanarTrack: A Large-scale Challenging Benchmark for Planar Object Tracking." ICCV (2023).
+  [[paper](https://arxiv.org/abs/2303.07625)] 
+  [[code](https://hengfan2010.github.io/projects/PlanarTrack/)]
        
 ### CVPR 2023
 
@@ -528,12 +532,7 @@
   "S3Track: Self-supervised Tracking with Soft Assignment Flow." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2305.09981)] 
   [[code](https:/xx)]
-  
-- **PlanarTrack:** Xinran Liu, Xiaoqiong Liu, Ziruo Yi, Xin Zhou, Thanh Le, Libo Zhang, Yan Huang, Qing Yang, Heng Fan.<br />
-  "PlanarTrack: A Large-scale Challenging Benchmark for Planar Object Tracking." ArXiv (2023).
-  [[paper](https://arxiv.org/abs/2303.07625)] 
-  [[code](https://hengfan2010.github.io/projects/PlanarTrack/)]
-  
+    
 - **TransSOT:** Janani Thangavel, Thanikasalam Kokul, Amirthalingam Ramanan, Subha Fernando.<br />
   "Transformers in Single Object Tracking: An Experimental Survey." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2302.11867)] 
