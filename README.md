@@ -78,6 +78,11 @@
       
 ### ICCV 2023
 
+- **ROMTrack:** Yidong Cai, Jie Liu, Jie Tang, Gangshan Wu.<br />
+  "Robust Object Modeling for Visual Tracking." ICCV (2023).
+  [[paper](https://arxiv.org/abs/2308.05140)] 
+  [[code](https://github.com/dawnyc/ROMTrack)]
+
 - **CiteTracker:** Xin Li, Yuqing Huang, Zhenyu He, Yaowei Wang, Huchuan Lu, Ming-Hsuan Yang.<br />
   "CiteTracker: Correlating Image and Text for Visual Tracking." ICCV (2023).
   [[paper](https://arxiv.org/abs/2x)] 
