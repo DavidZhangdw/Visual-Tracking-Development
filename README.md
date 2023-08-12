@@ -492,12 +492,7 @@
   "CoTracker: It is Better to Track Together." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.07635)] 
   [[code](https://co-tracker.github.io/)]
-  
-- **CoTracker:** Nikita Karaev, Ignacio Rocco, Benjamin Graham, Natalia Neverova, Andrea Vedaldi, Christian Rupprecht.<br />
-  "CoTracker: It is Better to Track Together." ArXiv (2023).
-  [[paper](https://arxiv.org/abs/2307.07635)] 
-  [[code](https://co-tracker.github.io/)]
-  
+    
 - **TSMTrack:** Chuanming Tang, Qintao Hu, Gaofan Zhou, Jinzhen Yao, Jianlin Zhang, Yongmei Huang, Qixiang Ye.<br />
   "Transformer Sub-Patch Matching for High-Performance Visual Object Tracking." TITS (2023).
   [[paper](https://ieeexplore.ieee.org/document/10101686)] 
