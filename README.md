@@ -78,6 +78,11 @@
       
 ### ICCV 2023
 
+- **HiT:** Ben Kang, Xin Chen, Dong Wang, Houwen Peng, Huchuan Lu.<br />
+  "Exploring Lightweight Hierarchical Vision Transformers for Efficient Visual Tracking." ICCV (2023).
+  [[paper](https://arxiv.org/abs/2308.06904)] 
+  [[code](https://github.com/kangben258/HiT)]
+
 - **ROMTrack:** Yidong Cai, Jie Liu, Jie Tang, Gangshan Wu.<br />
   "Robust Object Modeling for Visual Tracking." ICCV (2023).
   [[paper](https://arxiv.org/abs/2308.05140)] 
@@ -656,7 +661,7 @@
 - **RGBD1K:** Xue-Feng Zhu, Tianyang Xu, Zhangyong Tang, Zucheng Wu, Haodong Liu, Xiao Yang, Xiao-Jun Wu, Josef Kittler.<br />
   "RGBD1K: A Large-scale Dataset and Benchmark for RGB-D Object Tracking." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2208.09787)] 
-  [[code](https://github.com/xxxx)]
+  [[code](https://github.com/xuefeng-zhu5/RGBD1K)]
   
 - **RGBDReview:** Jinyu Yang, Zhe Li, Song Yan, Feng Zheng, Aleš Leonardis, Joni-Kristian Kämäräinen, Ling Shao.<br />
   "RGBD Object Tracking: An In-depth Review." ArXiv (2022).
