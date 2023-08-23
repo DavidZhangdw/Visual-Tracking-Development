@@ -90,7 +90,7 @@
 
 - **CiteTracker:** Xin Li, Yuqing Huang, Zhenyu He, Yaowei Wang, Huchuan Lu, Ming-Hsuan Yang.<br />
   "CiteTracker: Correlating Image and Text for Visual Tracking." ICCV (2023).
-  [[paper](https://arxiv.org/abs/2x)] 
+  [[paper](https://arxiv.org/abs/2308.11322)] 
   [[code](https://github.com/xinli/citetracker)]
 
 - **PVT++:** Bowen Li, Ziyuan Huang, Junjie Ye, Yiming Li, Sebastian Scherer, Hang Zhao, Changhong Fu.<br />
