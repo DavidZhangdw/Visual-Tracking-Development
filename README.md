@@ -97,6 +97,11 @@
   "PVT++: A Simple End-to-End Latency-Aware Visual Tracking Framework." ICCV (2023).
   [[paper](https://arxiv.org/abs/2211.11629)] 
   [[code](https://github.com/Jaraxxus-Me/PVT_pp)]
+
+- **SyncTrack:** Teli Ma, Mengmeng Wang, Jimin Xiao, Huifeng Wu, Yong Liu.<br />
+  "Synchronize Feature Extracting and Matching: A Single Branch Framework for 3D Object Tracking." ICCV (2023).
+  [[paper](https://arxiv.org/abs/2308.12549)] 
+  [[code](https://xxxxx)]
   
 - **360VOT:** Huajian Huang, Yinzhe Xu, Yingshu Chen, Sai-Kit Yeung.<br />
   "360VOT: A New Benchmark Dataset for Omnidirectional Visual Object Tracking." ICCV (2023).
