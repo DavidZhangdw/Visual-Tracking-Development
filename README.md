@@ -502,7 +502,17 @@
   "CoTracker: It is Better to Track Together." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.07635)] 
   [[code](https://co-tracker.github.io/)]
-    
+
+- **DETRrack:** Qingmao Wei, Bi Zeng, Guotian Zeng.<br />
+  "Efficient Training for Visual Tracking with Deformable Transformer." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2309.02676)] 
+  [[code](https:xxx)]
+
+- **JN:** Qingmao Wei, Bi Zeng, Guotian Zeng.<br />
+  "Towards Efficient Training with Negative Samples in Visual Tracking." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2309.02903)] 
+  [[code](hxx)]
+  
 - **TSMTrack:** Chuanming Tang, Qintao Hu, Gaofan Zhou, Jinzhen Yao, Jianlin Zhang, Yongmei Huang, Qixiang Ye.<br />
   "Transformer Sub-Patch Matching for High-Performance Visual Object Tracking." TITS (2023).
   [[paper](https://ieeexplore.ieee.org/document/10101686)] 
