@@ -88,6 +88,11 @@
   [[paper](https://arxiv.org/abs/2308.05140)] 
   [[code](https://github.com/dawnyc/ROMTrack)]
 
+- **DEVA:** Ho Kei Cheng, Seoung Wug Oh, Brian Price, Alexander Schwing, Joon-Young Lee.<br />
+  "Tracking Anything with Decoupled Video Segmentation." ICCV (2023).
+  [[paper](https://arxiv.org/abs/2309.03903)] 
+  [[code](https://hkchengrex.github.io/Tracking-Anything-with-DEVA)]
+
 - **CiteTracker:** Xin Li, Yuqing Huang, Zhenyu He, Yaowei Wang, Huchuan Lu, Ming-Hsuan Yang.<br />
   "CiteTracker: Correlating Image and Text for Visual Tracking." ICCV (2023).
   [[paper](https://arxiv.org/abs/2308.11322)] 
