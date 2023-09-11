@@ -78,6 +78,11 @@
       
 ### ICCV 2023
 
+- **VTDNet:** Thomas E. Huang, Yifan Liu, Luc Van Gool, Fisher Yu.<br />
+  "Video Task Decathlon: Unifying Image and Video Tasks in Autonomous Driving." ICCV (2023).
+  [[paper](https://arxiv.org/abs/2309.04422)] 
+  [[code](https://www.vis.xyz/pub/vtd)]
+  
 - **HiT:** Ben Kang, Xin Chen, Dong Wang, Houwen Peng, Huchuan Lu.<br />
   "Exploring Lightweight Hierarchical Vision Transformers for Efficient Visual Tracking." ICCV (2023).
   [[paper](https://arxiv.org/abs/2308.06904)] 
@@ -250,6 +255,16 @@
   
 ### WACV 2023
 
+- **SMAT:** Goutam Yelluru Gopal, Maria A. Amer.<br />
+  "Separable Self and Mixed Attention Transformers for Efficient Object Tracking." WACV (2024).
+  [[paper](https://arxiv.org/abs/2309.03979)] 
+  [[code](https://github.com/goutamyg/SMAT)]
+
+- **MVT:** Goutam Yelluru Gopal, Maria A. Amer.<br />
+  "Mobile Vision Transformer-based Visual Object Tracking." BMVC (2023).
+  [[paper](https://arxiv.org/abs/xxx)] 
+  [[code](https://github.com/goutamyg/MVT)]
+  
 - **E.T.Track:** Philippe Blatter, Menelaos Kanakis, Martin Danelljan, Luc Van Gool.<br />
   "Efficient Visual Tracking with Exemplar Transformers." WACV (2023).
   [[paper](https://arxiv.org/abs/2112.09686)] 
