@@ -262,7 +262,7 @@
 
 - **MVT:** Goutam Yelluru Gopal, Maria A. Amer.<br />
   "Mobile Vision Transformer-based Visual Object Tracking." BMVC (2023).
-  [[paper](https://arxiv.org/abs/xxx)] 
+  [[paper](https://arxiv.org/abs/2309.05829)] 
   [[code](https://github.com/goutamyg/MVT)]
   
 - **E.T.Track:** Philippe Blatter, Menelaos Kanakis, Martin Danelljan, Luc Van Gool.<br />
