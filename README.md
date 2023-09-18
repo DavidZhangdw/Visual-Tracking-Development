@@ -523,11 +523,16 @@
   
 ### ArXiv
   
+- **DATr:** Jie Zhao, Johan Edstedt, Michael Felsberg, Dong Wang, Huchuan Lu.<br />
+  "Leveraging the Power of Data Augmentation for Transformer-based Tracking." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2309.08264)] 
+  [[code](https://xxx)]
+
 - **CoTracker:** Nikita Karaev, Ignacio Rocco, Benjamin Graham, Natalia Neverova, Andrea Vedaldi, Christian Rupprecht.<br />
   "CoTracker: It is Better to Track Together." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.07635)] 
   [[code](https://co-tracker.github.io/)]
-
+  
 - **DETRrack:** Qingmao Wei, Bi Zeng, Guotian Zeng.<br />
   "Efficient Training for Visual Tracking with Deformable Transformer." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2309.02676)] 
