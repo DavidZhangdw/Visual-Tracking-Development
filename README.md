@@ -523,6 +523,11 @@
   
 ### ArXiv
   
+- **DCPT:** Jiawen Zhu, Huayi Tang, Zhi-Qi Cheng, Jun-Yan He, Bin Luo, Shihao Qiu, Shengming Li, Huchuan Lu.<br />
+  "DCPT: Darkness Clue-Prompted Tracking in Nighttime UAVs." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2309.10491)] 
+  [[code](https://xxx)]
+
 - **DATr:** Jie Zhao, Johan Edstedt, Michael Felsberg, Dong Wang, Huchuan Lu.<br />
   "Leveraging the Power of Data Augmentation for Transformer-based Tracking." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2309.08264)] 
