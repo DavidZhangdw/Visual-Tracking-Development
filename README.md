@@ -49,11 +49,6 @@
   "Review of Large Vision Models and Visual Prompt Engineering." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.00855)]
   [[code](https://github.com/xxx)]
-
-- **Omnimotion:** Qianqian Wang, Yen-Yu Chang, Ruojin Cai, Zhengqi Li, Bharath Hariharan, Aleksander Holynski, Noah Snavely.<br />
-  "Tracking Everything Everywhere All at Once." ArXiv (2023).
-  [[paper](https://arxiv.org/abs/2306.05422)] 
-  [[code](https://omnimotion.github.io/)]
   
 - **ChatVideo:** Junke Wang, Dongdong Chen, Chong Luo, Xiyang Dai, Lu Yuan, Zuxuan Wu, Yu-Gang Jiang.<br />
   "ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System." ArXiv (2023).
@@ -93,6 +88,26 @@
   [[paper](https://arxiv.org/abs/2308.05140)] 
   [[code](https://github.com/dawnyc/ROMTrack)]
 
+- **F-BDMTrack:** Dawei Yang, Jianfeng He, Yinchao Ma, Qianjin Yu, Tianzhu Zhang.<br />
+  "Foreground-Background Distribution Modeling Transformer for Visual Object Tracking." ICCV (2023).
+  [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_Foreground-Background_Distribution_Modeling_Transformer_for_Visual_Object_Tracking_ICCV_2023_paper.pdf)] 
+  [[code]()]
+
+- **MITS:** Yuanyou Xu, Zongxin Yang, Yi Yang.<br />
+  "Integrating Boxes and Masks: A Multi-Object Framework for Unified Visual Tracking and Segmentation." ICCV (2023).
+  [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_Integrating_Boxes_and_Masks_A_Multi-Object_Framework_for_Unified_Visual_ICCV_2023_paper.pdf)] 
+  [[code](https://github.com/yoxu515/MITS)]
+
+- **Aba-ViTrack:** Shuiwang Li, Yangxiang Yang, Dan Zeng, Xucheng Wang.<br />
+  "Adaptive and Background-Aware Vision Transformer for Real-Time UAV Tracking." ICCV (2023).
+  [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Adaptive_and_Background-Aware_Vision_Transformer_for_Real-Time_UAV_Tracking_ICCV_2023_paper.pdf)] 
+  [[code](https://github.com/xyyang317/Aba-ViTrack)]
+  
+- **Omnimotion:** Qianqian Wang, Yen-Yu Chang, Ruojin Cai, Zhengqi Li, Bharath Hariharan, Aleksander Holynski, Noah Snavely.<br />
+  "Tracking Everything Everywhere All at Once." ICCV (2023).
+  [[paper](https://arxiv.org/abs/2306.05422)] 
+  [[code](https://omnimotion.github.io/)]
+  
 - **DEVA:** Ho Kei Cheng, Seoung Wug Oh, Brian Price, Alexander Schwing, Joon-Young Lee.<br />
   "Tracking Anything with Decoupled Video Segmentation." ICCV (2023).
   [[paper](https://arxiv.org/abs/2309.03903)] 
@@ -103,6 +118,11 @@
   [[paper](https://arxiv.org/abs/2308.11322)] 
   [[code](https://github.com/xinli/citetracker)]
 
+- **DecoupleTNL:** Ding Ma, Xiangqian Wu.<br />
+  "Tracking by Natural Language Specification with Long Short-term Context Decoupling." ICCV (2023).
+  [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Tracking_by_Natural_Language_Specification_with_Long_Short-term_Context_Decoupling_ICCV_2023_paper.pdf)] 
+  [[code]()]
+  
 - **PVT++:** Bowen Li, Ziyuan Huang, Junjie Ye, Yiming Li, Sebastian Scherer, Hang Zhao, Changhong Fu.<br />
   "PVT++: A Simple End-to-End Latency-Aware Visual Tracking Framework." ICCV (2023).
   [[paper](https://arxiv.org/abs/2211.11629)] 
