@@ -562,6 +562,11 @@
   "LiteTrack: Layer Pruning with Asynchronous Feature Extraction for Lightweight and Efficient Visual Tracking." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2309.09249)] 
   [[code](https://github.com/TsingWei/LiteTrack)]
+  
+- **LightFC:** Li Yunfeng, Wang Bo, Li Ye, Liu Zhuoyan, Wu Xueyi.<br />
+  "Lightweight Full-Convolutional Siamese Tracker." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.05392)] 
+  [[code](https://github.com/LiYunfengLYF/LightFC)]
 
 - **DETRrack:** Qingmao Wei, Bi Zeng, Guotian Zeng.<br />
   "Efficient Training for Visual Tracking with Deformable Transformer." ArXiv (2023).
