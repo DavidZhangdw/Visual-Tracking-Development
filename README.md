@@ -65,11 +65,20 @@
   [[paper](https://arxiv.org/abs/2304.03284)] 
   [[code](https://github.com/baaivision/Painter)]
   
+
+
+### NeurIPS 2023
+
 - **MixFormerV2:** Yutao Cui, Tianhui Song, Gangshan Wu, Limin Wang.<br />
-  "MixFormerV2: Efficient Fully Transformer Tracking." ArXiv (2023).
+  "MixFormerV2: Efficient Fully Transformer Tracking." NeurIPS (2023).
   [[paper](https://arxiv.org/abs/2305.15896)] 
   [[code](https://github.com/MCG-NJU/MixFormerV2)]
-
+  
+- **ZoomTrack:** Yutong Kou, Jin Gao, Bing Li, Gang Wang, Weiming Hu, Yizheng Wang, Liang Li.<br />
+  "ZoomTrack: Target-aware Non-uniform Resizing for Efficient Visual Tracking." NeurIPS (2023).
+  [[paper](https://arxiv.org/abs/2310.10071)] 
+  [[code](https://github.com/Kou-99/ZoomTrack)]
+  
       
 ### ICCV 2023
 
