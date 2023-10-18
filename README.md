@@ -78,8 +78,13 @@
   "ZoomTrack: Target-aware Non-uniform Resizing for Efficient Visual Tracking." NeurIPS (2023).
   [[paper](https://arxiv.org/abs/2310.10071)] 
   [[code](https://github.com/Kou-99/ZoomTrack)]
-  
-      
+
+- **MGIT:** Shiyu Hu, Dailin Zhang, Meiqi Wu, Xiaokun Feng, Xin Zhao, Kaiqi Huang.<br />
+  "A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship." NeurIPS (2023).
+  [[paper](https://arxiv.org/abs/xxxxx.xx)] 
+  [[code](http://videocube.aitestunion.com/)]
+
+
 ### ICCV 2023
 
 - **VTDNet:** Thomas E. Huang, Yifan Liu, Luc Van Gool, Fisher Yu.<br />
