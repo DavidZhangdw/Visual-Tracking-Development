@@ -79,6 +79,11 @@
   [[paper](https://arxiv.org/abs/2310.10071)] 
   [[code](https://github.com/Kou-99/ZoomTrack)]
 
+- **HDETrack:** Xiao Wang, Shiao Wang, Chuanming Tang, Lin Zhu, Bo Jiang, Yonghong Tian, Jin Tang.<br />
+  "Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline." NeurIPS (2023).
+  [[paper](https://arxiv.org/abs/2309.14611)] 
+  [[code](https://github.com/Event-AHU/EventVOT_Benchmark)]
+
 - **MGIT:** Shiyu Hu, Dailin Zhang, Meiqi Wu, Xiaokun Feng, Xin Zhao, Kaiqi Huang.<br />
   "A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship." NeurIPS (2023).
   [[paper](https://arxiv.org/abs/xxxxx.xx)] 
