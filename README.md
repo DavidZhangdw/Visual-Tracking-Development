@@ -84,7 +84,7 @@
   [[paper](https://arxiv.org/abs/2309.14611)] 
   [[code](https://github.com/Event-AHU/EventVOT_Benchmark)]
 
-- **MGIT:** Shiyu Hu, Dailin Zhang, Meiqi Wu, Xiaokun Feng, Xin Zhao, Kaiqi Huang.<br />
+- **MGIT:** Shiyu Hu, Dailin Zhang, Meiqi Wu, Xiaokun Feng, Xuchen Li, Xin Zhao, Kaiqi Huang.<br />
   "A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship." NeurIPS (2023).
   [[paper](https://arxiv.org/abs/xxxxx.xx)] 
   [[code](http://videocube.aitestunion.com/)]
