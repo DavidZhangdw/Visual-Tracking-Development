@@ -561,6 +561,11 @@
   
   
 ### ArXiv
+
+- **CycleTrack:** Chuanming Tang, Kai Wang, Joost van de Weijer, Jianlin Zhang, Yongmei Huang.<br />
+  "Exploiting Image-Related Inductive Biases in Single-Branch Visual Tracking." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.19542)] 
+  [[code](https://xxx)]
   
 - **DCPT:** Jiawen Zhu, Huayi Tang, Zhi-Qi Cheng, Jun-Yan He, Bin Luo, Shihao Qiu, Shengming Li, Huchuan Lu.<br />
   "DCPT: Darkness Clue-Prompted Tracking in Nighttime UAVs." ArXiv (2023).
