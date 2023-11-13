@@ -694,6 +694,11 @@
   [[paper](https://arxiv.org/abs/2207.14571)] 
   [[code](https://)]
   
+- **GATransT:** Libo Wang, Si Chen, Zhen Wang, Da-Han Wang, Shunzhi Zhu.<br />
+  "Graph Attention Transformer Network for Robust Visual Tracking." ICONIP (2022).
+  [[paper](https://link.springer.com/chapter/10.1007/978-981-99-1639-9_14)] 
+  [[code]()]
+
 - **SiamTDN:** Yanjie Liang, Penghui Zhao, Yifei Hao, Hanzi Wang.<br />
   "Siamese Template Diffusion Networks for Robust Visual Tracking." ICME (2022).
   [[paper](https://ieeexplore.ieee.org/document/9859929)] 
