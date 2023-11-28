@@ -262,6 +262,16 @@
 
 ### ArXiV 2023
 
+- **Un-Track:** Zongwei Wu, Jilai Zheng, Xiangxuan Ren, Florin-Alexandru Vasluianu, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte.<br />
+  "Single-Model and Any-Modality for Video Object Tracking." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.15851)] 
+  [[code](https://github.com/Zongwei97/UnTrack)]
+
+- **HQTrack:** Jiawen Zhu, Zhenyu Chen, Zeqi Hao, Shijie Chang, Lu Zhang, Dong Wang, Huchuan Lu, Bin Luo, Jun-Yan He, Jin-Peng Lan, Hanyuan Chen, Chenyang Li.<br />
+  "Tracking Anything in High Quality." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2307.13974)] 
+  [[code](https://github.com/jiawen-zhu/HQTrack)]
+
 - **HIPTrack:** Wenrui Cai, Qingjie Liu, Yunhong Wang.<br />
   "Learning Historical Status Prompt for Accurate and Robust Visual Tracking." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.02072)] 
