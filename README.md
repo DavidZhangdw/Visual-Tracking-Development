@@ -79,6 +79,11 @@
   [[paper](https://arxiv.org/abs/2310.10071)] 
   [[code](https://github.com/Kou-99/ZoomTrack)]
 
+- **Type-to-Track:** Pha Nguyen, Kha Gia Quach, Kris Kitani, Khoa Luu.<br />
+  "Type-to-Track: Retrieve Any Object via Prompt-based Tracking." NeurIPS (2023).
+  [[paper](https://arxiv.org/abs/2305.13495)] 
+  [[code](https://uark-cviu.github.io/Type-to-Track)]
+  
 - **HDETrack:** Xiao Wang, Shiao Wang, Chuanming Tang, Lin Zhu, Bo Jiang, Yonghong Tian, Jin Tang.<br />
   "Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline." NeurIPS (2023).
   [[paper](https://arxiv.org/abs/2309.14611)] 
@@ -271,6 +276,11 @@
   "Tracking Anything in High Quality." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.13974)] 
   [[code](https://github.com/jiawen-zhu/HQTrack)]
+
+- **MPLT:** Yang Luo, Xiqing Guo, Hui Feng, Lei Ao.<br />
+  "RGB-T Tracking via Multi-Modal Mutual Prompt Learning." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.16386)] 
+  [[code](https://github.com/HusterYoung/MPLT)]
 
 - **HIPTrack:** Wenrui Cai, Qingjie Liu, Yunhong Wang.<br />
   "Learning Historical Status Prompt for Accurate and Robust Visual Tracking." ArXiv (2023).
