@@ -67,6 +67,24 @@
   
 
 
+### AAAI 2024
+
+- **ODTrack:**  .<br />
+  "ODTrack: Online Dense Temporal Token Learning for Visual Tracking." AAAI (2023).
+  [[paper](https://arxiv.org )] 
+  [[code](https://github.com/ )]
+  
+- **BiAdapter:**  .<br />
+  "Bi-directional Adapter for Multimodal Tracking." AAAI (2023).
+  [[paper](https://arxiv.org )] 
+  [[code](https://github.com/ )]
+
+- **Hybrid-SORT:**  .<br />
+  "Hybrid-SORT: Weak Cues Matter for Online Multi-Object Tracking." AAAI (2023).
+  [[paper](https://arxiv.org )] 
+  [[code](https://github.com/ )]
+
+
 ### NeurIPS 2023
 
 - **MixFormerV2:** Yutao Cui, Tianhui Song, Gangshan Wu, Limin Wang.<br />
