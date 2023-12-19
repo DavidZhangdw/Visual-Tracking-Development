@@ -69,6 +69,11 @@
 
 ### AAAI 2024
 
+- **GMMT:** Zhangyong Tang, Tianyang Xu, Xuefeng Zhu, Xiao-Jun Wu, Josef Kittler.<br />
+  "Generative-based Fusion Mechanism for Multi-Modal Tracking." AAAI (2023).
+  [[paper](https://arxiv.org/abs/2309.01728)] 
+  [[code](https://github.com/Zhangyong-Tang/GMMT)]
+
 - **ODTrack:**  .<br />
   "ODTrack: Online Dense Temporal Token Learning for Visual Tracking." AAAI (2023).
   [[paper](https://arxiv.org )] 
