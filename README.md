@@ -295,6 +295,11 @@
   [[paper](https://arxiv.org/abs/2307.13974)] 
   [[code](https://github.com/jiawen-zhu/HQTrack)]
 
+- **SATracker:** Jiawei Ge, Xiangmei Chen, Jiuxin Cao, Xuelin Zhu, Weijia Liu, Bo Liu.<br />
+  "Beyond Visual Cues: Synchronously Exploring Target-Centric Semantics for Vision-Language Tracking." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.17085)] 
+  [[code](https://github.com/xxxx/xxxx)]
+
 - **MPLT:** Yang Luo, Xiqing Guo, Hui Feng, Lei Ao.<br />
   "RGB-T Tracking via Multi-Modal Mutual Prompt Learning." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2308.16386)] 
