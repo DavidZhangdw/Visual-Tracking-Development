@@ -300,6 +300,21 @@
   [[paper](https://arxiv.org/abs/2311.17085)] 
   [[code](https://github.com/xxxx/xxxx)]
 
+- **MMTrack:** Yaozong Zheng, Bineng Zhong, Qihua Liang, Guorong Li, Rongrong Ji, Xianxian Li.<br />
+  "Towards Unified Token Learning for Vision-Language Tracking." TCSVT (2023).
+  [[paper](https://arxiv.org/abs/2308.14103)] 
+  [[code](https://github.com/Azong-HQU/MMTrack)]
+
+- **OVLM:** Huanlong Zhang, Jingchao Wang, Jianwei Zhang, Tianzhu Zhang, Bineng Zhong.<br />
+  "One-stream Vision-Language Memory Network for Object Tracking." TMM (2023).
+  [[paper](https://ieeexplore.ieee.org/document/10149530)] 
+  [[code]( )]
+
+- **All-in-One:** Chunhui Zhang, Xin Sun, Li Liu, Yiqian Yang, Qiong Liu, Xi Zhou, Yanfeng Wang.<br />
+  "All in One: Exploring Unified Vision-Language Tracking with Multi-Modal Alignment." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2307.03373)] 
+  [[code]( )]
+  
 - **MPLT:** Yang Luo, Xiqing Guo, Hui Feng, Lei Ao.<br />
   "RGB-T Tracking via Multi-Modal Mutual Prompt Learning." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2308.16386)] 
