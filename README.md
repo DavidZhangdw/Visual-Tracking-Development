@@ -315,6 +315,21 @@
   [[paper](https://arxiv.org/abs/2309.10491)] 
   [[code](https://xxx)]
 
+- **SRT:** Tianpeng Liu, Jing Li, Jia Wu, Lefei Zhang, Jun Chang, Jun Wan, Lezhi Lian.<br />
+  "Tracking with Saliency Region Transformer." TIP (2023).
+  [[paper](https://ieeexplore.ieee.org/document/10359476)] 
+  [[code](https://github.xxxxx)]
+
+- **TATrans:** Pujian Lai, Meili Zhang, Gong Cheng, Shengyang Li, Xiankai Huang, Junwei Han.<br />
+  "Target-aware Transformer for Satellite Video Object Tracking." TGRS (2023).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10342836)] 
+  [[code](https://github.com/laybebe/TATrans_SVOT)]
+
+- **STRtrack:** Shaochuan Zhao, Tianyang Xu, Xiaojun Wu, Josef Kittler.<br />
+  "A Spatio-Temporal Robust Tracker with Spatial-Channel Transformer and Jitter Suppression." IJCV (2023).
+  [[paper](https://link.springer.com/article/10.1007/s11263-023-01902-x)] 
+  [[code](https://xxx)]
+
 - **DATr:** Jie Zhao, Johan Edstedt, Michael Felsberg, Dong Wang, Huchuan Lu.<br />
   "Leveraging the Power of Data Augmentation for Transformer-based Tracking." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2309.08264)] 
