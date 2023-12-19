@@ -74,10 +74,10 @@
   [[paper](https://arxiv.org )] 
   [[code](https://github.com/ )]
   
-- **BiAdapter:**  .<br />
+- **BiAdapter:** Bing Cao, Junliang Guo, Pengfei Zhu, Qinghua Hu.<br />
   "Bi-directional Adapter for Multimodal Tracking." AAAI (2023).
-  [[paper](https://arxiv.org )] 
-  [[code](https://github.com/ )]
+  [[paper](https://arxiv.org/abs/2312.10611)] 
+  [[code](https://github.com/SparkTempest/BAT)]
 
 - **Hybrid-SORT:**  .<br />
   "Hybrid-SORT: Weak Cues Matter for Online Multi-Object Tracking." AAAI (2023).
