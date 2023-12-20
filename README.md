@@ -290,6 +290,11 @@
 
 ### ArXiV 2023
 
+- **TAO-Amodal:** Cheng-Yen Hsieh, Tarasha Khurana, Achal Dave, Deva Ramanan.<br />
+  "Tracking Any Object Amodally." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.12433)] 
+  [[code](https://tao-amodal.github.io/)]
+
 - **Un-Track:** Zongwei Wu, Jilai Zheng, Xiangxuan Ren, Florin-Alexandru Vasluianu, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte.<br />
   "Single-Model and Any-Modality for Video Object Tracking." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.15851)] 
