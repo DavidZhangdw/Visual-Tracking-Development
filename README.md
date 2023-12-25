@@ -64,9 +64,30 @@
   "SegGPT: Segmenting Everything In Context." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2304.03284)] 
   [[code](https://github.com/baaivision/Painter)]
+
+
+### WACV 2024
+
+- **ContrasTR:** Pierre-François De Plaen, Nicola Marinello, Marc Proesmans, Tinne Tuytelaars, Luc Van Gool.<br />
+  "Contrastive Learning for Multi-Object Tracking With Transformers." WACV (2024).
+  [[paper](https://openaccess.thecvf.com/content/WACV2024/papers/De_Plaen_Contrastive_Learning_for_Multi-Object_Tracking_With_Transformers_WACV_2024_paper.pdf)] 
+  [[code]()]
+
+- **LaGOT:** Christoph Mayer, Martin Danelljan, Ming-Hsuan Yang, Vittorio Ferrari, Luc Van Gool, Alina Kuznetsova.<br />
+  "Beyond SOT: It's Time to Track Multiple Generic Objects at Once." WACV (2024).
+  [[paper](https://arxiv.org/abs/2212.11920)] 
+  [[code](https://github.com/visionml/pytracking)]
+
+- **SMAT:** Goutam Yelluru Gopal, Maria A. Amer.<br />
+  "Separable Self and Mixed Attention Transformers for Efficient Object Tracking." WACV (2024).
+  [[paper](https://arxiv.org/abs/2309.03979)] 
+  [[code](https://github.com/goutamyg/SMAT)]
   
-
-
+- **DATr:** Jie Zhao, Johan Edstedt, Michael Felsberg, Dong Wang, Huchuan Lu.<br />
+  "Leveraging the Power of Data Augmentation for Transformer-based Tracking." WACV (2024).
+  [[paper](https://arxiv.org/abs/2309.08264)] 
+  [[code](https://github.com/zj5559/DATr)]
+  
 ### AAAI 2024
 
 - **GMMT:** Zhangyong Tang, Tianyang Xu, Xuefeng Zhu, Xiao-Jun Wu, Josef Kittler.<br />
@@ -360,11 +381,6 @@
   [[paper](https://link.springer.com/article/10.1007/s11263-023-01902-x)] 
   [[code](https://xxx)]
 
-- **DATr:** Jie Zhao, Johan Edstedt, Michael Felsberg, Dong Wang, Huchuan Lu.<br />
-  "Leveraging the Power of Data Augmentation for Transformer-based Tracking." ArXiv (2023).
-  [[paper](https://arxiv.org/abs/2309.08264)] 
-  [[code](https://xxx)]
-
 - **CoTracker:** Nikita Karaev, Ignacio Rocco, Benjamin Graham, Natalia Neverova, Andrea Vedaldi, Christian Rupprecht.<br />
   "CoTracker: It is Better to Track Together." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.07635)] 
@@ -435,11 +451,6 @@
   [[paper](https://arxiv.org/abs/2302.11867)] 
   [[code]()]
   
-- **LaGOT:** Christoph Mayer, Martin Danelljan, Ming-Hsuan Yang, Vittorio Ferrari, Luc Van Gool, Alina Kuznetsova.<br />
-  "Beyond SOT: It's Time to Track Multiple Generic Objects at Once." ArXiv (2023).
-  [[paper](https://arxiv.org/abs/2212.11920)] 
-  [[code]()]
-  
 - **ProFormer:** Yabin Zhu, Chenglong Li, Xiao Wang, Jin Tang, Zhixiang Huang.<br />
   "RGBT Tracking via Progressive Fusion Transformer with Dynamically Guided Learning." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2303.14778)] 
@@ -508,11 +519,6 @@
   [[code](https://github.com/vision4robotics/TRTrack)]
   
 ### WACV 2023
-
-- **SMAT:** Goutam Yelluru Gopal, Maria A. Amer.<br />
-  "Separable Self and Mixed Attention Transformers for Efficient Object Tracking." WACV (2024).
-  [[paper](https://arxiv.org/abs/2309.03979)] 
-  [[code](https://github.com/goutamyg/SMAT)]
 
 - **MVT:** Goutam Yelluru Gopal, Maria A. Amer.<br />
   "Mobile Vision Transformer-based Visual Object Tracking." BMVC (2023).
