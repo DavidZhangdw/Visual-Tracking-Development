@@ -342,7 +342,7 @@
   [[code]( )]
 
 - **All-in-One:** Chunhui Zhang, Xin Sun, Li Liu, Yiqian Yang, Qiong Liu, Xi Zhou, Yanfeng Wang.<br />
-  "All in One: Exploring Unified Vision-Language Tracking with Multi-Modal Alignment." ArXiv (2023).
+  "All in One: Exploring Unified Vision-Language Tracking with Multi-Modal Alignment." ACM MM (2023).
   [[paper](https://arxiv.org/abs/2307.03373)] 
   [[code]( )]
   
