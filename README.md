@@ -311,6 +311,11 @@
 
 ### ArXiV 2023
 
+- **ARTrackV2:** Yifan Bai, Zeyang Zhao, Yihong Gong, Xing Wei.<br />
+  "ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.17133)] 
+  [[code]()]
+
 - **TAO-Amodal:** Cheng-Yen Hsieh, Tarasha Khurana, Achal Dave, Deva Ramanan.<br />
   "Tracking Any Object Amodally." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.12433)] 
