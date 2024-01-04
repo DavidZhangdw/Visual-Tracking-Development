@@ -91,22 +91,22 @@
 ### AAAI 2024
 
 - **GMMT:** Zhangyong Tang, Tianyang Xu, Xuefeng Zhu, Xiao-Jun Wu, Josef Kittler.<br />
-  "Generative-based Fusion Mechanism for Multi-Modal Tracking." AAAI (2023).
+  "Generative-based Fusion Mechanism for Multi-Modal Tracking." AAAI (2024).
   [[paper](https://arxiv.org/abs/2309.01728)] 
   [[code](https://github.com/Zhangyong-Tang/GMMT)]
 
-- **ODTrack:**  .<br />
-  "ODTrack: Online Dense Temporal Token Learning for Visual Tracking." AAAI (2023).
-  [[paper](https://arxiv.org )] 
-  [[code](https://github.com/ )]
+- **ODTrack:** Yaozong Zheng, Bineng Zhong, Qihua Liang, Zhiyi Mo, Shengping Zhang, Xianxian Li.<br />
+  "ODTrack: Online Dense Temporal Token Learning for Visual Tracking." AAAI (2024).
+  [[paper](https://arxiv.org/abs/2401.01686)] 
+  [[code](https://github.com/GXNU-ZhongLab/ODTrack)]
   
 - **BiAdapter:** Bing Cao, Junliang Guo, Pengfei Zhu, Qinghua Hu.<br />
-  "Bi-directional Adapter for Multimodal Tracking." AAAI (2023).
+  "Bi-directional Adapter for Multimodal Tracking." AAAI (2024).
   [[paper](https://arxiv.org/abs/2312.10611)] 
   [[code](https://github.com/SparkTempest/BAT)]
 
 - **Hybrid-SORT:**  .<br />
-  "Hybrid-SORT: Weak Cues Matter for Online Multi-Object Tracking." AAAI (2023).
+  "Hybrid-SORT: Weak Cues Matter for Online Multi-Object Tracking." AAAI (2024).
   [[paper](https://arxiv.org )] 
   [[code](https://github.com/ )]
 
