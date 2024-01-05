@@ -114,7 +114,7 @@
 ### ArXiV 2024
 
 - **UPVPT:** Guangtong Zhang, Qihua Liang, Ning Li, Zhiyi Mo, Bineng Zhong.<br />
-  "Robust Tracking via Unifying Pretrain-Finetuning and Visual Prompt Tuning." ACM MM Asian (2024).
+  "Robust Tracking via Unifying Pretrain-Finetuning and Visual Prompt Tuning." ACM MMAsia (2024).
   [[paper](https://dl.acm.org/doi/10.1145/3595916.3626410)] 
   [[code]()]
   
