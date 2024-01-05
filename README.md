@@ -99,6 +99,11 @@
   "ODTrack: Online Dense Temporal Token Learning for Visual Tracking." AAAI (2024).
   [[paper](https://arxiv.org/abs/2401.01686)] 
   [[code](https://github.com/GXNU-ZhongLab/ODTrack)]
+
+ - **EVP:** Liangtao Shi, Bineng Zhong, Qihua Liang, Ning Li, Shengping Zhang, Xianxian Li.<br />
+  "Explicit Visual Prompts for Visual Object Tracking." AAAI (2024).
+  [[paper](https://arxiv.org/xxx)] 
+  [[code](https://github.com/GXNU-ZhongLab)] 
   
 - **BiAdapter:** Bing Cao, Junliang Guo, Pengfei Zhu, Qinghua Hu.<br />
   "Bi-directional Adapter for Multimodal Tracking." AAAI (2024).
@@ -113,10 +118,10 @@
 
 ### ArXiV 2024
 
-- **UPVPT:** Guangtong Zhang, Qihua Liang, Ning Li, Zhiyi Mo, Bineng Zhong.<br />
-  "Robust Tracking via Unifying Pretrain-Finetuning and Visual Prompt Tuning." ACM MMAsia (2024).
-  [[paper](https://dl.acm.org/doi/10.1145/3595916.3626410)] 
-  [[code]()]
+- **VAT:** Guangtong Zhang, Qihua Liang, Zhiyi Mo, Ning Li, Bineng Zhong.<br />
+  "Visual Adapt For RGBD Tracking." ICASSP (2024).
+  [[paper](https://arxiv.org )] 
+  [[code](https://github.com/ )]
   
 
 ### NeurIPS 2023
@@ -322,6 +327,16 @@
 - **ARTrackV2:** Yifan Bai, Zeyang Zhao, Yihong Gong, Xing Wei.<br />
   "ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.17133)] 
+  [[code]()]
+
+- **UTrack:** Jie Gao, Bineng Zhong, Yan Chen.<br />
+  "Unambiguous Object Tracking by Exploiting Target Cues." ACM MMA (2023).
+  [[paper](https://dl.acm.org/doi/10.1145/3581783.3612240)] 
+  [[code]()]
+
+- **UPVPT:** Guangtong Zhang, Qihua Liang, Ning Li, Zhiyi Mo, Bineng Zhong.<br />
+  "Robust Tracking via Unifying Pretrain-Finetuning and Visual Prompt Tuning." ACM MMAsia (2023).
+  [[paper](https://dl.acm.org/doi/10.1145/3595916.3626410)] 
   [[code]()]
 
 - **TAO-Amodal:** Cheng-Yen Hsieh, Tarasha Khurana, Achal Dave, Deva Ramanan.<br />
