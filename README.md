@@ -100,10 +100,10 @@
   [[paper](https://arxiv.org/abs/2401.01686)] 
   [[code](https://github.com/GXNU-ZhongLab/ODTrack)]
 
- - **EVP:** Liangtao Shi, Bineng Zhong, Qihua Liang, Ning Li, Shengping Zhang, Xianxian Li.<br />
+ - **EVPTrack:** Liangtao Shi, Bineng Zhong, Qihua Liang, Ning Li, Shengping Zhang, Xianxian Li.<br />
   "Explicit Visual Prompts for Visual Object Tracking." AAAI (2024).
-  [[paper](https://arxiv.org/xxx)] 
-  [[code](https://github.com/GXNU-ZhongLab)] 
+  [[paper](https://arxiv.org/abs/2401.03142)] 
+  [[code](https://github.com/GXNU-ZhongLab/EVPTrack)] 
   
 - **BiAdapter:** Bing Cao, Junliang Guo, Pengfei Zhu, Qinghua Hu.<br />
   "Bi-directional Adapter for Multimodal Tracking." AAAI (2024).
