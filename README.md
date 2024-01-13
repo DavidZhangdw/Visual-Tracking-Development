@@ -110,10 +110,10 @@
   [[paper](https://arxiv.org/abs/2312.10611)] 
   [[code](https://github.com/SparkTempest/BAT)]
 
-- **Hybrid-SORT:**  .<br />
+- **Hybrid-SORT:** Mingzhan Yang, Guangxin Han, Bin Yan, Wenhua Zhang, Jinqing Qi, Huchuan Lu, Dong Wang.<br />
   "Hybrid-SORT: Weak Cues Matter for Online Multi-Object Tracking." AAAI (2024).
-  [[paper](https://arxiv.org )] 
-  [[code](https://github.com/ )]
+  [[paper](https://arxiv.org/abs/2308.00783)] 
+  [[code](https://github.com/ymzis69/HybirdSORT)]
 
 
 ### ArXiV 2024
