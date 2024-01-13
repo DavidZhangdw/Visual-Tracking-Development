@@ -330,7 +330,7 @@
   [[code]()]
 
 - **UTrack:** Jie Gao, Bineng Zhong, Yan Chen.<br />
-  "Unambiguous Object Tracking by Exploiting Target Cues." ACM MMA (2023).
+  "Unambiguous Object Tracking by Exploiting Target Cues." ACM MM (2023).
   [[paper](https://dl.acm.org/doi/10.1145/3581783.3612240)] 
   [[code]()]
 
