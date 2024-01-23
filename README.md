@@ -118,10 +118,20 @@
 
 ### ArXiV 2024
 
+- **CUTrack:** Jiahao Nie, Zhiwei He, Xudong Lv, Xueyi Zhou, Dong-Kyu Chae, Fei Xie.<br />
+  "Towards Category Unification of 3D Single Object Tracking on Point Clouds." ICLR (2024).
+  [[paper](https://arxiv.org/abs/2401.11204)] 
+  [[code](https://github.com/Haooozi/CUTrack)]
+
 - **VAT:** Guangtong Zhang, Qihua Liang, Zhiyi Mo, Ning Li, Bineng Zhong.<br />
   "Visual Adapt For RGBD Tracking." ICASSP (2024).
   [[paper](https://arxiv.org )] 
   [[code](https://github.com/ )]
+
+- **UVLTrack:** Yinchao Ma, Yuyang Tang, Wenfei Yang, Tianzhu Zhang, Jinpeng Zhang, Mengxue Kang.<br />
+  "Unifying Visual and Vision-Language Tracking via Contrastive Learning." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.11228)] 
+  [[code](https://github.com/OpenSpaceAI/UVLTrack)]
   
 
 ### NeurIPS 2023
