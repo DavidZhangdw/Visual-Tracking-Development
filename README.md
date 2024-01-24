@@ -116,7 +116,7 @@
   [[code](https://github.com/ymzis69/HybirdSORT)]
 
 
-### ArXiV 2024
+### ArXiv 2024
 
 - **CUTrack:** Jiahao Nie, Zhiwei He, Xudong Lv, Xueyi Zhou, Dong-Kyu Chae, Fei Xie.<br />
   "Towards Category Unification of 3D Single Object Tracking on Point Clouds." ICLR (2024).
@@ -132,6 +132,11 @@
   "Unifying Visual and Vision-Language Tracking via Contrastive Learning." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.11228)] 
   [[code](https://github.com/OpenSpaceAI/UVLTrack)]
+
+- **SuperSBT:** Fei Xie, Wankou Yang, Chunyu Wang, Lei Chu, Yue Cao, Chao Ma, Wenjun Zeng.<br />
+  "Correlation-Embedded Transformer Tracking: A Single-Branch Framework." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.12743)] 
+  [[code](https://github.com/phiphiphi31/SBT)]
   
 
 ### NeurIPS 2023
