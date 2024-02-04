@@ -105,7 +105,7 @@
   [[paper](https://arxiv.org/abs/2401.03142)] 
   [[code](https://github.com/GXNU-ZhongLab/EVPTrack)] 
   
-- **BiAdapter:** Bing Cao, Junliang Guo, Pengfei Zhu, Qinghua Hu.<br />
+- **BAT:** Bing Cao, Junliang Guo, Pengfei Zhu, Qinghua Hu.<br />
   "Bi-directional Adapter for Multimodal Tracking." AAAI (2024).
   [[paper](https://arxiv.org/abs/2312.10611)] 
   [[code](https://github.com/SparkTempest/BAT)]
