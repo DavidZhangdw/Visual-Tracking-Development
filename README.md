@@ -123,6 +123,11 @@
   [[paper](https://arxiv.org/abs/2401.11204)] 
   [[code](https://github.com/Haooozi/CUTrack)]
 
+- **OIFTrack:** Janani Kugarajeevan, Thanikasalam Kokul, Amirthalingam Ramanan, Subha Fernando.<br />
+  "Optimized Information Flow for Transformer Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.08195)] 
+  [[code](https://github.com/JananiKugaa/OIFTrack)]
+  
 - **VAT:** Guangtong Zhang, Qihua Liang, Zhiyi Mo, Ning Li, Bineng Zhong.<br />
   "Visual Adapt For RGBD Tracking." ICASSP (2024).
   [[paper](https://arxiv.org )] 
