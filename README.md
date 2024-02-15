@@ -110,6 +110,11 @@
   [[paper](https://arxiv.org/abs/2312.10611)] 
   [[code](https://github.com/SparkTempest/BAT)]
 
+- **TATrack:** Hongyu Wang, Xiaotao Liu, Yifan Li, Meng Sun, Dian Yuan, Jing Liu.<br />
+  "Temporal Adaptive RGBT Tracking with Modality Prompt." AAAI (2024).
+  [[paper](https://arxiv.org/abs/2401.01244)] 
+  [[code]()]
+
 - **Hybrid-SORT:** Mingzhan Yang, Guangxin Han, Bin Yan, Wenhua Zhang, Jinqing Qi, Huchuan Lu, Dong Wang.<br />
   "Hybrid-SORT: Weak Cues Matter for Online Multi-Object Tracking." AAAI (2024).
   [[paper](https://arxiv.org/abs/2308.00783)] 
