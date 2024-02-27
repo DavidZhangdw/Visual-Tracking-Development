@@ -128,6 +128,16 @@
   [[paper](https://arxiv.org/abs/2401.11204)] 
   [[code](https://github.com/Haooozi/CUTrack)]
 
+- **SeqTrack3D:** Yu Lin, Zhiheng Li, Yubo Cui, Zheng Fang.<br />
+  "SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking." ICRA (2024).
+  [[paper](https://arxiv.org/abs/2402.16249)] 
+  [[code](https://github.com/aron-lin/seqtrack3d)]
+
+- **CUTrack:** Jiahao Nie, Zhiwei He, Xudong Lv, Xueyi Zhou, Dong-Kyu Chae, Fei Xie.<br />
+  "Towards Category Unification of 3D Single Object Tracking on Point Clouds." ICLR (2024).
+  [[paper](https://arxiv.org/abs/2401.11204)] 
+  [[code](https://github.com/Haooozi/CUTrack)]
+
 - **OIFTrack:** Janani Kugarajeevan, Thanikasalam Kokul, Amirthalingam Ramanan, Subha Fernando.<br />
   "Optimized Information Flow for Transformer Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.08195)] 
