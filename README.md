@@ -123,6 +123,11 @@
 
 ### ArXiv 2024
 
+- **DuaLossDef :** Zhewei Wu, Ruilong Yu, Qihe Liu, Shuying Cheng, Shilin Qiu, Shijie Zhou.<br />
+  "Enhancing Tracking Robustness with Auxiliary Adversarial Defense Networks." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.17976)] 
+  [[code](https://github.com/)]
+
 - **CUTrack:** Jiahao Nie, Zhiwei He, Xudong Lv, Xueyi Zhou, Dong-Kyu Chae, Fei Xie.<br />
   "Towards Category Unification of 3D Single Object Tracking on Point Clouds." ICLR (2024).
   [[paper](https://arxiv.org/abs/2401.11204)] 
