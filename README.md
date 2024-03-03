@@ -66,6 +66,14 @@
   [[code](https://github.com/baaivision/Painter)]
 
 
+### CVPR 2024
+
+- **ARTrackV2:** Yifan Bai, Zeyang Zhao, Yihong Gong, Xing Wei.<br />
+  "ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.17133)] 
+  [[code](https://artrackv2.github.io/)]
+
+
 ### WACV 2024
 
 - **ContrasTR:** Pierre-François De Plaen, Nicola Marinello, Marc Proesmans, Tinne Tuytelaars, Luc Van Gool.<br />
@@ -358,11 +366,6 @@
   
 
 ### ArXiV 2023
-
-- **ARTrackV2:** Yifan Bai, Zeyang Zhao, Yihong Gong, Xing Wei.<br />
-  "ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe." ArXiv (2023).
-  [[paper](https://arxiv.org/abs/2312.17133)] 
-  [[code]()]
 
 - **UTrack:** Jie Gao, Bineng Zhong, Yan Chen.<br />
   "Unambiguous Object Tracking by Exploiting Target Cues." ACM MM (2023).
