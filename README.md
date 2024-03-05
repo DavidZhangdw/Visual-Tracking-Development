@@ -69,10 +69,14 @@
 ### CVPR 2024
 
 - **ARTrackV2:** Yifan Bai, Zeyang Zhao, Yihong Gong, Xing Wei.<br />
-  "ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe." ArXiv (2023).
+  "ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe." CVPR (2024).
   [[paper](https://arxiv.org/abs/2312.17133)] 
   [[code](https://artrackv2.github.io/)]
 
+- **AQAT:** Jinxia Xie, Bineng Zhong, Zhiyi Mo, Shengping Zhang, Liangtao Shi, Shuxiang Song, Rongrong Ji.<br />
+  "Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers." CVPR (2024).
+  [[paper](https://arxiv.org/)] 
+  [[code](https://)]
 
 ### WACV 2024
 
