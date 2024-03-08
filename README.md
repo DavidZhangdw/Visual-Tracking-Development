@@ -68,15 +68,41 @@
 
 ### CVPR 2024
 
+- **OneTracker:** Lingyi Hong, Shilin Yan, Renrui Zhang, Wanyun Li, Xinyu Zhou, Pinxue Guo, Kaixun Jiang, Yiting Cheng, Jinglun Li, Zhaoyu Chen, Wenqiang Zhang.<br />
+  "OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning." CVPR (2024).
+  [[paper](https://arxiv.org/abs/)] 
+  [[code](https://)]
+
 - **ARTrackV2:** Yifan Bai, Zeyang Zhao, Yihong Gong, Xing Wei.<br />
   "ARTrackV2: Prompting Autoregressive Tracker Where to Look and How to Describe." CVPR (2024).
   [[paper](https://arxiv.org/abs/2312.17133)] 
   [[code](https://artrackv2.github.io/)]
 
+- **DiffusionTrack:** Fei Xie, Zhongdao Wang, Chao Ma.<br />
+  "DiffusionTrack: Point Set Diffusion Model for Visual Object Tracking." CVPR (2024).
+  [[paper](https://arxiv.org/)] 
+  [[code](https://)]
+
+- **Un-Track:** Zongwei Wu, Jilai Zheng, Xiangxuan Ren, Florin-Alexandru Vasluianu, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte.<br />
+  "Single-Model and Any-Modality for Video Object Tracking." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2311.15851)] 
+  [[code](https://github.com/Zongwei97/UnTrack)]
+
+- **HIPTrack:** Wenrui Cai, Qingjie Liu, Yunhong Wang.<br />
+  "HIPTrack: Visual Tracking with Historical Prompts." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2311.02072)] 
+  [[code](https://xxx)]
+
 - **AQAT:** Jinxia Xie, Bineng Zhong, Zhiyi Mo, Shengping Zhang, Liangtao Shi, Shuxiang Song, Rongrong Ji.<br />
   "Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers." CVPR (2024).
   [[paper](https://arxiv.org/)] 
   [[code](https://)]
+
+- **SDSTrack:** Xiaojun Hou, Jiazheng Xing, Yijie Qian, Yaowei Guo, Shuo Xin, Junhao Chen, Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu, Yong Liu.<br />
+  "SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking." CVPR (2024).
+  [[paper](https://arxiv.org/)] 
+  [[code](https://)]
+
 
 ### WACV 2024
 
@@ -135,9 +161,14 @@
 
 ### ArXiv 2024
 
-- **DuaLossDef :** Zhewei Wu, Ruilong Yu, Qihe Liu, Shuying Cheng, Shilin Qiu, Shijie Zhou.<br />
+- **DuaLossDef:** Zhewei Wu, Ruilong Yu, Qihe Liu, Shuying Cheng, Shilin Qiu, Shijie Zhou.<br />
   "Enhancing Tracking Robustness with Auxiliary Adversarial Defense Networks." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.17976)] 
+  [[code](https://github.com/)]
+
+- **MT-Track :** Xiaoying Yuan, Tingfa Xu, Xincong Liu, Ying Wang, Haolin Qin, Yuqiang Fang, Jianan Li.<br />
+  "Multi-step Temporal Modeling for UAV Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.04363)] 
   [[code](https://github.com/)]
 
 - **CUTrack:** Jiahao Nie, Zhiwei He, Xudong Lv, Xueyi Zhou, Dong-Kyu Chae, Fei Xie.<br />
@@ -386,11 +417,6 @@
   [[paper](https://arxiv.org/abs/2312.12433)] 
   [[code](https://tao-amodal.github.io/)]
 
-- **Un-Track:** Zongwei Wu, Jilai Zheng, Xiangxuan Ren, Florin-Alexandru Vasluianu, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte.<br />
-  "Single-Model and Any-Modality for Video Object Tracking." ArXiv (2023).
-  [[paper](https://arxiv.org/abs/2311.15851)] 
-  [[code](https://github.com/Zongwei97/UnTrack)]
-
 - **HQTrack:** Jiawen Zhu, Zhenyu Chen, Zeqi Hao, Shijie Chang, Lu Zhang, Dong Wang, Huchuan Lu, Bin Luo, Jun-Yan He, Jin-Peng Lan, Hanyuan Chen, Chenyang Li.<br />
   "Tracking Anything in High Quality." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.13974)] 
@@ -420,11 +446,6 @@
   "RGB-T Tracking via Multi-Modal Mutual Prompt Learning." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2308.16386)] 
   [[code](https://github.com/HusterYoung/MPLT)]
-
-- **HIPTrack:** Wenrui Cai, Qingjie Liu, Yunhong Wang.<br />
-  "Learning Historical Status Prompt for Accurate and Robust Visual Tracking." ArXiv (2023).
-  [[paper](https://arxiv.org/abs/2311.02072)] 
-  [[code](https://xxx)]
 
 - **CycleTrack:** Chuanming Tang, Kai Wang, Joost van de Weijer, Jianlin Zhang, Yongmei Huang.<br />
   "Exploiting Image-Related Inductive Biases in Single-Branch Visual Tracking." ArXiv (2023).
