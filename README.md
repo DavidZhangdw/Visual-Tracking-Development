@@ -83,6 +83,21 @@
   [[paper](https://arxiv.org/)] 
   [[code](https://)]
 
+- **AQAT:** Jinxia Xie, Bineng Zhong, Zhiyi Mo, Shengping Zhang, Liangtao Shi, Shuxiang Song, Rongrong Ji.<br />
+  "Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers." CVPR (2024).
+  [[paper](https://arxiv.org/)] 
+  [[code](https://)]
+
+- **RTracker:** Yuqing Huang, Xin Li, Zikun Zhou, Yaowei Wang, Zhenyu He, Ming-Hsuan Yang.<br />
+  "RTracker: Recoverable Tracking via PN Tree Structured Memory." CVPR (2024).
+  [[paper](https://arxiv.org/)] 
+  [[code](https://)]
+
+- **NetTrack:** Guangze Zheng, Shijie Lin, Haobo Zuo, Changhong Fu, Jia Pan.<br />
+  "NetTrack: Tracking Highly Dynamic Objects with a Net." CVPR (2024).
+  [[paper](https://arxiv.org/)] 
+  [[code](https://)]
+
 - **Un-Track:** Zongwei Wu, Jilai Zheng, Xiangxuan Ren, Florin-Alexandru Vasluianu, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte.<br />
   "Single-Model and Any-Modality for Video Object Tracking." CVPR (2024).
   [[paper](https://arxiv.org/abs/2311.15851)] 
@@ -100,6 +115,16 @@
 
 - **SDSTrack:** Xiaojun Hou, Jiazheng Xing, Yijie Qian, Yaowei Guo, Shuo Xin, Junhao Chen, Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu, Yong Liu.<br />
   "SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking." CVPR (2024).
+  [[paper](https://arxiv.org/)] 
+  [[code](https://)]
+
+- **HDETrack:** Xiao Wang, Shiao Wang, Chuanming Tang, Lin Zhu, Bo Jiang, Yonghong Tian, Jin Tang.<br />
+  "Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2309.14611)] 
+  [[code](https://github.com/Event-AHU/EventVOT_Benchmark)]
+
+- **CAI:** Yanyan Shao, Shuting He, Qi Ye, Yuchao Feng, Wenhan Luo, Jiming Chen.<br />
+  "Context-Aware Integration of Language and Visual References for Natural Language Tracking." CVPR (2024).
   [[paper](https://arxiv.org/)] 
   [[code](https://)]
 
@@ -218,11 +243,6 @@
   "Type-to-Track: Retrieve Any Object via Prompt-based Tracking." NeurIPS (2023).
   [[paper](https://arxiv.org/abs/2305.13495)] 
   [[code](https://uark-cviu.github.io/Type-to-Track)]
-  
-- **HDETrack:** Xiao Wang, Shiao Wang, Chuanming Tang, Lin Zhu, Bo Jiang, Yonghong Tian, Jin Tang.<br />
-  "Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline." NeurIPS (2023).
-  [[paper](https://arxiv.org/abs/2309.14611)] 
-  [[code](https://github.com/Event-AHU/EventVOT_Benchmark)]
 
 - **MGIT:** Shiyu Hu, Dailin Zhang, Meiqi Wu, Xiaokun Feng, Xuchen Li, Xin Zhao, Kaiqi Huang.<br />
   "A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship." NeurIPS (2023).
