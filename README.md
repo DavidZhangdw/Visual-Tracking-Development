@@ -191,6 +191,11 @@
   [[paper](https://arxiv.org/abs/2402.17976)] 
   [[code](https://github.com/)]
 
+- **ACTrack:** Yushan Han, Kaer Huang.<br />
+  "ACTrack: Adding Spatio-Temporal Condition for Visual Object Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.07914)] 
+  [[code](https://github.com/)]
+  
 - **MT-Track :** Xiaoying Yuan, Tingfa Xu, Xincong Liu, Ying Wang, Haolin Qin, Yuqiang Fang, Jianan Li.<br />
   "Multi-step Temporal Modeling for UAV Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.04363)] 
