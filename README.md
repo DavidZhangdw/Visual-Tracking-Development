@@ -95,8 +95,8 @@
 
 - **NetTrack:** Guangze Zheng, Shijie Lin, Haobo Zuo, Changhong Fu, Jia Pan.<br />
   "NetTrack: Tracking Highly Dynamic Objects with a Net." CVPR (2024).
-  [[paper](https://arxiv.org/)] 
-  [[code](https://)]
+  [[paper](https://arxiv.org/abs/2403.11186)] 
+  [[code](https://george-zhuang.github.io/nettrack/)]
 
 - **Un-Track:** Zongwei Wu, Jilai Zheng, Xiangxuan Ren, Florin-Alexandru Vasluianu, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte.<br />
   "Single-Model and Any-Modality for Video Object Tracking." CVPR (2024).
