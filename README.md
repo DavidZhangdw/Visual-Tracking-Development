@@ -1,6 +1,6 @@
 # Visual-Tracking-Development
 
-## Collaborators Seeking
+### Collaborators Seeking
 
 I'm looking for collaborators to do research and help advance visual tracking.
 
