@@ -1,5 +1,9 @@
 # Visual-Tracking-Development
-![recent_develop](https://github.com/DavidZhangdw/Visual-Tracking-Development/blob/master/img/Trackers%20.png?raw=true)
+
+## Collaborators Seeking
+
+I'm looking for collaborators to do research and help advance visual tracking.
+If you are interested in this project, please feel free to contact me (davidzhang@zjnu.edu.cn).
 
 ## Papers
 
@@ -66,8 +70,100 @@
   [[code](https://github.com/baaivision/Painter)]
 
 
+### NeurIPS 2024
+
+- **ChatTracker:** Yiming Sun, Fan Yu, Shaoxiang Chen, Yu Zhang, Junwei Huang, Chenhui Li, Yang Li, Changbo Wang.<br />
+  "ChatTracker: Enhancing Visual Tracking Performance via Chatting with Multimodal Large Language Model." NeurIPS (2024).
+  [[paper](https://arxiv.org/abs/2411.01756)] 
+  [[code]( )]
+
+- **WebUOT-1M:** Chunhui Zhang, Li Liu, Guanjie Huang, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
+  "WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark." NeurIPS (2024).
+  [[paper](https://arxiv.org/abs/2405.19818)] 
+  [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
+
+- **DeTrack:** Xinyu Zhou, Jinglun Li, Lingyi Hong, Kaixun Jiang, Pinxue Guo, Weifeng Ge, Wenqiang Zhang.<br />
+  "DeTrack: In-model Latent Denoising Learning for Visual Object Tracking." NeurIPS (2024).
+  [[paper](https://openreview.net/forum?id=ZJjuNF0olj)] 
+  [[code]( )]
+
+- **CSAM:** Tianlu Zhang, Kurt Debattista, Qiang Zhang, Guiguang Ding, Jungong Han.<br />
+  "Revisiting Motion Information for RGB-Event Tracking with MOT Philosophy." NeurIPS (2024).
+  [[paper](https://openreview.net/forum?id=bzGAELYOyL)] 
+  [[code]( )]
+
+- **DINTR:** Pha Nguyen, Ngan Le, Jackson Cothren, Alper Yilmaz, Khoa Luu.<br />
+  "DINTR: Tracking via Diffusion-based Interpolation." NeurIPS (2024).
+  [[paper](https://arxiv.org/abs/2410.10053)] 
+  [[code]( )]
+
+- **UAV3D:** Hui Ye, Rajshekhar Sunderraman, Shihao Ji.<br />
+  "UAV3D: A Large-scale 3D Perception Benchmark for Unmanned Aerial  Vehicles." NeurIPS (2024).
+  [[paper](https://arxiv.org/abs/2410.11125)] 
+  [[code](https://huiyegit.github.io/UAV3D_Benchmark/)]
+  
+- **MemVLT:** Xiaokun Feng, Xuchen Li, Shiyu Hu, Dailing Zhang, Meiqi Wu, Xiaotang Chen, Kaiqi Huang.<br />
+  "MemVLT: Vision-Language Tracking with Adaptive Memory-based Prompts." NeurIPS (2024).
+  [[paper](https://openreview.net/forum?id=ZK1CZXKgG5)] 
+  [[code](https://github.com/XiaokunFeng/MemVLT)]
+
+- **CPDTrack:** Dailing Zhang, Shiyu Hu, Xiaokun Feng, Xuchen Li, Meiqi Wu, Kaiqi Huang.<br />
+  "Beyond Accuracy: Tracking more like Human via Visual Search." NeurIPS (2024).
+  [[paper](https://openreview.net/forum?id=LezAEImfoc)] 
+  [[code](https://github.com/ZhangDailing8/CPDTrack)]
+
+
+
+### ECCV 2024
+
+- **Diff-Tracker:** Zhengbo Zhang, Li Xu, Duo Peng, Hossein Rahmani, Jun Liu.<br />
+  "Diff-Tracker: Text-to-Image Diffusion Models are Unsupervised Trackers." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2407.08394)] 
+  [[code]( )]
+
+- **LoRAT:** Liting Lin, Heng Fan, Zhipeng Zhang, Yaowei Wang, Yong Xu, Haibin Ling.<br />
+  "Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2403.05231)] 
+  [[code](https://github.com/LitingLin/LoRAT)]
+
+- **VideoMamba:** Kunchang Li, Xinhao Li, Yi Wang, Yinan He, Yali Wang, Limin Wang, Yu Qiao.<br />
+  "VideoMamba: State Space Model for Efficient Video Understanding." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2403.06977)] 
+  [[code](https://huggingface.co/OpenGVLab/VideoMamba)]
+
+- **DINO-Tracker:** Narek Tumanyan, Assaf Singer, Shai Bagon, Tali Dekel.<br />
+  "DINO-Tracker: Taming DINO for Self-Supervised Point Tracking in a Single Video." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2403.14548v1)] 
+  [[code](https://dino-tracker.github.io/)]
+
+- **DecoMotion:** Rui Li, Dong Liu.<br />
+  "Decomposition Betters Tracking Everything Everywhere." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2407.06531)] 
+  [[code](https://github.com/qianduoduolr/DecoMotion)]
+
+- **Elysium:** Han Wang, Yanjie Wang, Yongjie Ye, Yuxiang Nie, Can Huang.<br />
+  "Elysium: Exploring Object-level Perception in Videos via MLLM." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2408.02049)] 
+  [[code](https://github.com/Hon-Wong/Elysium)]
+  
+- **HVTrack:** Qiao Wu, Kun Sun, Pei An, Mathieu Salzmann, Yanning Zhang, Jiaqi Yang.<br />
+  "3D Single-object Tracking in Point Clouds with High Temporal Variation." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2408.02049)] 
+  [[code]( )]
+
+- **AADN:** Zhewei Wu, Ruilong Yu, Qihe Liu, Shuying Cheng, Shilin Qiu, Shijie Zhou.<br />
+  "Enhancing Tracking Robustness with Auxiliary Adversarial Defense Networks." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2402.17976)] 
+  [[code](https://github.com/)]
+
+  
 ### CVPR 2024
 
+- **MASA:** Siyuan Li, Lei Ke, Martin Danelljan, Luigi Piccinelli, Mattia Segu, Luc Van Gool, Fisher Yu.<br />
+  "Matching Anything by Segmenting Anything." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2406.04221)] 
+  [[code](https://matchinganything.github.io/)]
+  
 - **OneTracker:** Lingyi Hong, Shilin Yan, Renrui Zhang, Wanyun Li, Xinyu Zhou, Pinxue Guo, Kaixun Jiang, Yiting Cheng, Jinglun Li, Zhaoyu Chen, Wenqiang Zhang.<br />
   "OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning." CVPR (2024).
   [[paper](https://arxiv.org/abs/2403.09634)] 
@@ -80,11 +176,6 @@
 
 - **DiffusionTrack:** Fei Xie, Zhongdao Wang, Chao Ma.<br />
   "DiffusionTrack: Point Set Diffusion Model for Visual Object Tracking." CVPR (2024).
-  [[paper](https://arxiv.org/)] 
-  [[code](https://)]
-
-- **AQAT:** Jinxia Xie, Bineng Zhong, Zhiyi Mo, Shengping Zhang, Liangtao Shi, Shuxiang Song, Rongrong Ji.<br />
-  "Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers." CVPR (2024).
   [[paper](https://arxiv.org/)] 
   [[code](https://)]
 
@@ -108,10 +199,15 @@
   [[paper](https://arxiv.org/abs/2311.02072)] 
   [[code](https://xxx)]
 
-- **AQAT:** Jinxia Xie, Bineng Zhong, Zhiyi Mo, Shengping Zhang, Liangtao Shi, Shuxiang Song, Rongrong Ji.<br />
+- **AQATrack:** Jinxia Xie, Bineng Zhong, Zhiyi Mo, Shengping Zhang, Liangtao Shi, Shuxiang Song, Rongrong Ji.<br />
   "Autoregressive Queries for Adaptive Tracking with Spatio-Temporal Transformers." CVPR (2024).
-  [[paper](https://arxiv.org/)] 
-  [[code](https://)]
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Xie_Autoregressive_Queries_for_Adaptive_Tracking_with_Spatio-Temporal_Transformers_CVPR_2024_paper.html)] 
+  [[code](https://github.com/GXNU-ZhongLab/AQATrack)]
+
+- **MMA:** Lingxiao Yang, Ru-Yuan Zhang, Yanchen Wang, Xiaohua Xie.<br />
+  "MMA: Multi-Modal Adapter for Vision-Language Models." CVPR (2024).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_MMA_Multi-Modal_Adapter_for_Vision-Language_Models_CVPR_2024_paper.html)] 
+  [[code](https://github.com/ZjjConan/Multi-Modal-Adapter)]
 
 - **SDSTrack:** Xiaojun Hou, Jiazheng Xing, Yijie Qian, Yaowei Guo, Shuo Xin, Junhao Chen, Kai Tang, Mengmeng Wang, Zhengkai Jiang, Liang Liu, Yong Liu.<br />
   "SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking." CVPR (2024).
@@ -128,6 +224,11 @@
   [[paper](https://arxiv.org/)] 
   [[code](https://)]
 
+- **ResampleTrack:** Xuhong Ren, Jianlang Chen, Yue Cao, Wanli Xue, Qing Guo, Lei Ma, Jianjun Zhao, Shenyong Chen.<br />
+  "ResampleTrack: Online Resampling for Adversarially Robust Visual Tracking." CVPR (2024).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024W/AdvML/html/Ren_ResampleTrack_Online_Resampling_for_Adversarially_Robust_Visual_Tracking_CVPRW_2024_paper.html)] 
+  [[code]( )]
+  
 
 ### WACV 2024
 
