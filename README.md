@@ -658,6 +658,11 @@ If you are interested in this project, please feel free to contact me (davidzhan
   [[paper](https://arxiv.org/abs/2302.13840)] 
   [[code](https://github.com/hekaijie123/TATrack)]
   
+- **RGBD1K:** Xue-Feng Zhu, Tianyang Xu, Zhangyong Tang, Zucheng Wu, Haodong Liu, Xiao Yang, Xiao-Jun Wu, Josef Kittler.<br />
+  "RGBD1K: A Large-scale Dataset and Benchmark for RGB-D Object Tracking." AAAI (2023).
+  [[paper](https://arxiv.org/abs/2208.09787)] 
+  [[code](https://github.com/xuefeng-zhu5/RGBD1K)]
+
 - **GdaTFT:** Yun Liang; Qiaoqiao Li; Fumian Long.<br />
   "Global Dilated Attention and Target Focusing Network for Robust Tracking." AAAI (2023).
   [[paper](https://underline.io/lecture/69278-global-dilated-attention-and-target-focusing-network-for-robust-tracking)] 
@@ -972,12 +977,7 @@ If you are interested in this project, please feel free to contact me (davidzhan
   "AVisT: A Benchmark for Visual Object Tracking in Adverse Visibility." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2208.06888)] 
   [[code](https://github.com/visionml/pytracking)]
-  
-- **RGBD1K:** Xue-Feng Zhu, Tianyang Xu, Zhangyong Tang, Zucheng Wu, Haodong Liu, Xiao Yang, Xiao-Jun Wu, Josef Kittler.<br />
-  "RGBD1K: A Large-scale Dataset and Benchmark for RGB-D Object Tracking." ArXiv (2022).
-  [[paper](https://arxiv.org/abs/2208.09787)] 
-  [[code](https://github.com/xuefeng-zhu5/RGBD1K)]
-  
+
 - **RGBDReview:** Jinyu Yang, Zhe Li, Song Yan, Feng Zheng, Aleš Leonardis, Joni-Kristian Kämäräinen, Ling Shao.<br />
   "RGBD Object Tracking: An In-depth Review." ArXiv (2022).
   [[paper](https://arxiv.org/abs/2203.14134)] 
