@@ -66,6 +66,115 @@ If you are interested in this project, please feel free to contact me (davidzhan
   [[code](https://github.com/baaivision/Painter)]
 
 
+### CVPR 2025
+
+- **MITracker:** Mengjie Xu, Yitao Zhu, Haotian Jiang, Jiaming Li, Zhenrong Shen, Sheng Wang, Haolin Huang, Xinyu Wang, Qing Yang, Han Zhang, Qian Wang.<br />
+  "MITracker: Multi-View Integration for Visual Object Tracking." CVPR (2025).
+  [[paper](https://arxiv.org/abs/2502.20111)] 
+  [[code](https://mii-laboratory.github.io/MITracker/)]
+
+- **SGLATrack:** Chaocan Xue, Bineng Zhong, Qihua Liang, Yaozong Zheng, Ning Li, Yuanliang Xue, Shuxiang Song.<br />
+  "Similarity-Guided Layer-Adaptive Vision Transformer for UAV Tracking." CVPR (2025).
+  [[paper](https://arxiv.org/abs/2503.06625)] 
+  [[code](https://github.com/GXNU-ZhongLab/SGLATrack)]
+
+- **DUTrack:** Xiaohai Li, Bineng Zhong, Qihua Liang, Zhiyi Mo, Jian Nong, Shuxiang Song.<br />
+  "Dynamic Updates for Language Adaptation in Visual-Language Tracking." CVPR (2025).
+  [[paper](https://arxiv.org/abs/2503.06621)] 
+  [[code](https://github.com/GXNU-ZhongLab/DUTrack)]
+  
+- **DAM4SAM:** Jovana Videnovic, Alan Lukezic, Matej Kristan.<br />
+  "A Distractor-Aware Memory for Visual Object Tracking with SAM2." CVPR (2025).
+  [[paper](https://arxiv.org/abs/2411.17576)] 
+  [[code](https://github.com/jovanavidenovic/DAM4SAM)]
+
+- **OmniTrack:** Kai Luo, Hao Shi, Sheng Wu, Fei Teng, Mengfei Duan, Chang Huang, Yuhang Wang, Kaiwei Wang, Kailun Yang.<br />
+  "Omnidirectional Multi-Object Tracking." CVPR (2025).
+  [[paper](https://arxiv.org/abs/2503.04565)] 
+  [[code](https://github.com/xifen523/OmniTrack)]
+
+
+### AAAI 2025
+
+- **STTrack:** Xiantao Hu, Ying Tai, Xu Zhao, Chen Zhao, Zhenyu Zhang, Jun Li, Bineng Zhong, Jian Yang.<br />
+  "Exploiting Multimodal Spatial-temporal Patterns for Video Object Tracking." AAAI (2025).
+  [[paper](https://arxiv.org/abs/2412.15691)] 
+  [[code](https://github.com/NJU-PCALab/STTrack)]
+
+- **SUTrack:** Xin Chen, Ben Kang, Wanting Geng, Jiawen Zhu, Yi Liu, Dong Wang, Huchuan Lu.<br />
+  "SUTrack: Towards Simple and Unified Single Object Tracking." AAAI (2025).
+  [[paper](https://arxiv.org/abs/2412.19138)] 
+  [[code](https://github.com/chenxin-dlut/SUTrack)]
+
+- **AINet:** Andong Lu, Wanyu Wang, Chenglong Li, Jin Tang, Bin Luo.<br />
+  "RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba." AAAI (2025).
+  [[paper](https://arxiv.org/abs/2408.08827)] 
+  [[code]( )]
+
+- **CAFormer:** Yun Xiao, Jiacong Zhao, Andong Lu, Chenglong Li, Yin Lin, Bing Yin, Cong Liu.<br />
+  "Cross-modulated Attention Transformer for RGBT Tracking." AAAI (2025).
+  [[paper](https://arxiv.org/abs/2408.02222)] 
+  [[code]( )]
+  
+- **TemTrack:** Jinxia Xie, Bineng Zhong, Qihua Liang, Ning Li, Zhiyi Mo, Shuxiang Song.<br />
+  "Robust Tracking via Mamba-based Context-aware Token Learning." AAAI (2025).
+  [[paper](https://arxiv.org/abs/2412.13611)] 
+  [[code](https://github.com/GXNU-ZhongLab/TemTrack)]
+
+- **LMTrack:** Chenlong Xu, Bineng Zhong, Qihua Liang, Yaozong Zheng, Guorong Li, Shuxiang Song.<br />
+  "Less is More: Token Context-aware Learning for Object Tracking." AAAI (2025).
+  [[paper](https://arxiv.org/abs/2501.00758)] 
+  [[code](https://github.com/XuChenLong/LMTrack)]
+  
+- **MambaLCT:** Xiaohai Li, Bineng Zhong, Qihua Liang, Guorong Li, Zhiyi Mo, Shuxiang Song.<br />
+  "MambaLCT: Boosting Tracking via Long-term Context State Space Model." AAAI (2025).
+  [[paper](https://arxiv.org/abs/2412.13615)] 
+  [[code](https://github.com/GXNU-ZhongLab/MambaLCT)]
+  
+- **MCITrack:** Ben Kang, Xin Chen, Simiao Lai, Yang Liu, Yi Liu, Dong Wang.<br />
+  "Exploring Enhanced Contextual Information for Video-Level Object Tracking." AAAI (2025).
+  [[paper](https://arxiv.org/abs/2412.11023)] 
+  [[code](https://github.com/kangben258/MCITrack/)]
+  
+- **AsymTrack:** Jiawen Zhu, Huayi Tang, Xin Chen, Xinying Wang, Dong Wang, Huchuan Lu.<br />
+  "Two-stream Beats One-stream: Asymmetric Siamese Network for Efficient Visual Tracking." AAAI (2025).
+  [[paper](https://arxiv.org/abs/2503.00516)] 
+  [[code](https://github.com/jiawen-zhu/AsymTrack)]
+
+- **PSOT:** Zhangbin Li, Jinxing Zhou, Jing Zhang, Shengeng Tang, Kun Li, Dan Guo.<br />
+  "Patch-level Sounding Object Tracking for Audio-Visual Question Answering." AAAI (2025).
+  [[paper](https://arxiv.org/abs/2412.10749)] 
+  [[code](https://github.com/jiawen-zhu/AsymTrack)]
+
+
+### ICASSP 2025
+
+- **CLTrack:** Bin Chen, Shenglong Hu, Gang Dong, Lingyan Liang, Dongchao Wen, Kaihua Zhang.<br />
+  "Continuously Learning Video-level Object Tokens for Robust UAV tracking." ICASSP (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10887950)] 
+  [[code]( )]
+
+- **LunarTracking:** Mohammed Leo, Ding Zhang, Hai-Tao Zheng, Haiye Lin.<br />
+  "Lunar Tracking: A New Benchmark For Nighttime Tiny Object Tracking." ICASSP (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10890681)] 
+  [[code](https://github.com/kk123321x/LunarTracking)]
+
+- **EHDA:** Qiao Li, Kanlun Tan, Qiao Liu, Di Yuan, Xin Li, Yunpeng Liu.<br />
+  "Efficient Hierarchical Domain Adaptive Thermal Infrared Tracking." ICASSP (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10890354)] 
+  [[code]( )]
+
+- **PDTrack:** Yeqiang Liu, Weiran Li, Yanhao Ding, Zhenbo Li.<br />
+  "PDTrack: Progressive Distance Association for Multiple Object Tracking." ICASSP (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10888323)] 
+  [[code]( )]
+  
+- **RSM:** Riran Cheng, Xupeng Wang, Ferdous Sohel, Hang Lei.<br />
+  "RSM: Refined Saliency Map For Explainable 3D Object Tracking." ICASSP (2025).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10887798)] 
+  [[code]( )]
+
+  
 ### NeurIPS 2024
 
 - **ChatTracker:** Yiming Sun, Fan Yu, Shaoxiang Chen, Yu Zhang, Junwei Huang, Chenhui Li, Yang Li, Changbo Wang.<br />
@@ -78,6 +187,11 @@ If you are interested in this project, please feel free to contact me (davidzhan
   [[paper](https://arxiv.org/abs/2405.19818)] 
   [[code](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
 
+- **VastTrack:** Liang Peng, Junyuan Gao, Xinran Liu, Weihong Li, Shaohua Dong, Zhipeng Zhang, Heng Fan, Libo Zhang.<br />
+  "VastTrack: Vast Category Visual Object Tracking." NeurIPS (2024).
+  [[paper](https://arxiv.org/abs/2403.03493)] 
+  [[code](https://github.com/HengLan/VastTrack)]
+  
 - **DeTrack:** Xinyu Zhou, Jinglun Li, Lingyi Hong, Kaixun Jiang, Pinxue Guo, Weifeng Ge, Wenqiang Zhang.<br />
   "DeTrack: In-model Latent Denoising Learning for Visual Object Tracking." NeurIPS (2024).
   [[paper](https://openreview.net/forum?id=ZJjuNF0olj)] 
