@@ -183,16 +183,6 @@ If you are interested in this project, please feel free to contact me (davidzhan
   "JTD-UAV: MLLM-Enhanced Joint Tracking and Description Framework for Anti-UAV Systems ." CVPR (2025).
   [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_JTD-UAV_MLLM-Enhanced_Joint_Tracking_and_Description_Framework_for_Anti-UAV_Systems_CVPR_2025_paper.html)] 
   [[code]( )]
-
-- **Anti-UAV:** Yifei Dong, Fengyi Wu, Sanjian Zhang, Guangyu Chen, Yuzhi Hu, Masumi Yano, Jingdong Sun, Siyu Huang, Feng Liu, Qi Dai, Zhi-Qi Cheng.<br />
-  "Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions." CVPRW (2025).
-  [[paper](https://arxiv.org/abs/2504.11967)] 
-  [[code]( )]
-
-- **FDTrack:** Chenxu Peng, Chenxu Wang, Minrui Zou, Danyang Li, Zhengpeng Yang, Yimian Dai, Ming-Ming Cheng, Xiang Li.<br />
-  "A Simple Detector with Frame Dynamics is a Strong Tracker." CVPRW (2025).
-  [[paper](https://arxiv.org/abs/2505.04917)] 
-  [[code](https://github.com/facias914/A-Simple-Detector-is-a-Strong-Tracker)]
   
 
 ### ICML 2025
