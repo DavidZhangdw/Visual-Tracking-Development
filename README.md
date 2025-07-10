@@ -66,7 +66,25 @@ If you are interested in this project, please feel free to contact me (davidzhan
   [[code](https://github.com/baaivision/Painter)]
 
 
+### ICCV 2025
 
+- **UMDATrack:** Siyuan Yao, Rui Zhu, Ziqi Wang, Wenqi Ren, Yanyang Yan, Xiaochun Cao.<br />
+  "UMDATrack: Unified Multi-Domain Adaptive Tracking Under Adverse Weather Conditions." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2507.00648)] 
+  [[code](https://github.com/Z-Z188/UMDATrack)]
+
+- **XTrack:** Yuedong Tan, Zongwei Wu, Yuqian Fu, Zhuyun Zhou, Guolei Sun, Eduard Zamfi, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte.<br />
+  "XTrack: Multimodal Training Boosts RGB-X Video Object Trackers." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2405.17773)] 
+  [[code](https://github.com/supertyd/XTrack)]
+
+- **FlexTrack:** Yuedong Tan, Jiawei Shao, Eduard Zamfir, Ruanjun Li, Zhaochong An, Chao Ma, Danda Paudel, Luc Van Gool, Radu Timofte, Zongwei Wu.<br />
+  "What You Have is What You Track: Adaptive and Robust Multimodal Tracking." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2507.05899)] 
+  [[code](https://github.com/supertyd/FlexTrack)]
+
+
+  
 ### CVPR 2025
 
 - **ARPTrack:** Shiyi Liang, Yifan Bai, Yihong Gong, Xing Wei.<br />
@@ -320,6 +338,16 @@ If you are interested in this project, please feel free to contact me (davidzhan
 - **RSM:** Riran Cheng, Xupeng Wang, Ferdous Sohel, Hang Lei.<br />
   "RSM: Refined Saliency Map For Explainable 3D Object Tracking." ICASSP (2025).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10887798)] 
+  [[code]( )]
+
+- **LRPD:** Qingkuo Hu, Yichen Li, Wenbin Yu.<br />
+  "Exploiting Multimodal Prompt Learning and Distillation for RGB-T Tracking." ICMR (2025).
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3731715.3733332)] 
+  [[code]( )]
+
+- **VSS:** Pengfei Wei, Liu Qiao, Zhenyu He, Di Yuan.<br />
+  "A Multi-Stream Visual-Spectral-Spatial Adaptive Hyperspectral Object Tracking." ICMR (2025).
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3731715.3733262)] 
   [[code]( )]
 
 - **DARTer:** Xuzhao Li, Xuchen Li, Shiyu Hu.<br />
