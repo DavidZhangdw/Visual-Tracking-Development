@@ -66,6 +66,35 @@ If you are interested in this project, please feel free to contact me (davidzhan
   [[code](https://github.com/baaivision/Painter)]
 
 
+### NeurIPS 2025
+
+- **RGBDT500:** Xue-Feng Zhu, Tianyang Xu, Yifan Pan, Jinjie Gu, Xi Li, Jiwen Lu, Xiao-Jun Wu, Josef Kittler.<br />
+  "Collaborating Vision, Depth, and Thermal Signals for Multi-Modal Tracking." NeurIPS (2025).
+  [[paper](https://arxiv.org/abs/2509.24741)] 
+  [[code](https://xuefeng-zhu5.github.io/RGBDT500/)]
+
+- **MMOT:** Tianhao Li, Tingfa Xu, Ying Wang, Haolin Qin, Xu Lin, Jianan Li.<br />
+  "MMOT: The First Challenging Benchmark for Drone-based Multispectral Multi-Object Tracking." NeurIPS (2025).
+  [[paper](https://arxiv.org/abs/2510.12565)] 
+  [[code](https://github.com/Annzstbl/MMOT)]
+  
+- **SpikeFET:** Jingjun Yang, Liangwei Fan, Jinpu Zhang, Xiangkai Lian, Hui Shen, Dewen Hu.<br />
+  "Fully Spiking Neural Networks for Unified Frame-Event Object Tracking." NeurIPS (2025).
+  [[paper](https://openreview.net/forum?id=FooiwsnEH9)] 
+  [[code](https://github.com/Noctis-A/SpikeFET)]
+
+- **LoRATv2:** Liting Lin, Heng Fan, Zhipeng Zhang, Yuqing Huang, Yaowei Wang, Yong Xu, Haibin Ling.<br />
+  "LoRATv2: Enabling Low-Cost Temporal Modeling in One-Stream Trackers." NeurIPS (2025).
+  [[paper](https://openreview.net/forum?id=q06YjUj0FB)] 
+  [[code](https://github.com/LitingLin/LoRATv2)]
+
+- **DSATrack:** Xinyu Zhou, Tongxin Pan, Lingyi Hong, Pinxue Guo, Haijing Guo, Zhaoyu Chen, Kaixun Jiang, Wenqiang Zhang.<br />
+  "Dynamic Semantic-Aware Correlation Modeling for UAV Tracking." NeurIPS (2025).
+  [[paper](https://arxiv.org/abs/2510.21351)] 
+  [[code](https://github.com/zxyyxzz/DSATrack)]
+
+
+
 ### ICCV 2025
 
 - **UMDATrack:** Siyuan Yao, Rui Zhu, Ziqi Wang, Wenqi Ren, Yanyang Yan, Xiaochun Cao.<br />
@@ -83,6 +112,31 @@ If you are interested in this project, please feel free to contact me (davidzhan
   [[paper](https://arxiv.org/abs/2507.05899)] 
   [[code](https://github.com/supertyd/FlexTrack)]
 
+- **TUEs:** Qiangqiang Wu, Yi Yu, Chenqi Kong, Ziquan Liu, Jia Wan, Haoliang Li, Alex C. Kot, Antoni B. Chan.<br />
+  "Temporal Unlearnable Examples: Preventing Personal Video Data from Unauthorized Exploitation by Object Tracking." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2507.07483)] 
+  [[code]( )]
+
+- **ATCTrack:** Xiaokun Feng, Shiyu Hu, Xuchen Li, Dailing Zhang, Meiqi Wu, Jing Zhang, Xiaotang Chen, Kaiqi Huang.<br />
+  "ATCTrack: Aligning Target-Context Cues with Dynamic Target States for Robust Vision-Language Tracking." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2507.19875)] 
+  [[code](https://github.com/XiaokunFeng/ATCTrack)]
+
+- **CAT:** Yongsheng Yuan, Jie Zhao, Dong Wang, Huchuan Lu.<br />
+  "CAT: A Unified Click-and-Track Framework for Realistic Tracking." ICCV (2025).
+  [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Yuan_CAT_A_Unified_Click-and-Track_Framework_for_Realistic_Tracking_ICCV_2025_paper.html)] 
+  [[code](https://github.com/ysyuann/CAT)]
+
+- **CompressTracker:** Lingyi Hong, Jinglun Li, Xinyu Zhou, Shilin Yan, Pinxue Guo, Kaixun Jiang, Zhaoyu Chen, Shuyong Gao, Wei Zhang, Hong Lu, Wenqiang Zhang.<br />
+  "General Compression Framework for Efficient Transformer Object Tracking." ICCV (2025).
+  [[paper](https://arxiv.org/abs/2409.17564)] 
+  [[code](https://github.com/LingyiHongfd/CompressTracker)]
+
+- **SMSTracker:** Sixian Chan, Zedong Li, Wenhao Li, Shijian Lyu, Chunhua Shen, Xiaoqin Zhang.<br />
+  "SMSTracker: Tri-path Score Mask Sigma Fusion for Multi-Modal Tracking." ICCV (2025).
+  [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Chan_SMSTracker_Tri-path_Score_Mask_Sigma_Fusion_for_Multi-Modal_Tracking_ICCV_2025_paper.html)] 
+  [[code](https://github.com/Leezed525/SMSTracker)]
+  
 
   
 ### CVPR 2025
@@ -217,7 +271,51 @@ If you are interested in this project, please feel free to contact me (davidzhan
   
 
 
+### ACM MM 2025
+
+- **RSTrack:** Fansheng Zeng, Bineng Zhong, Haiying Xia, Yufei Tan, Xiantao Hu, Liangtao Shi, Shuxiang Song.<br />
+  "Explicit Context Reasoning with Supervision for Visual Tracking." ACM MM (2025).
+  [[paper](https://arxiv.org/abs/2507.16191)] 
+  [[code](https://github.com/GXNU-ZhongLab/RSTrack)]
+
+- **UniBench300:** Zhangyong Tang, Tianyang Xu, Xuefeng Zhu, Chunyang Cheng, Tao Zhou, Xiaojun Wu, Josef Kittler.<br />
+  "Serial Over Parallel: Learning Continual Unification for Multi-Modal Visual Object Tracking and Benchmarking." ACM MM (2025).
+  [[paper](https://arxiv.org/abs/2508.10655)] 
+  [[code](https://github.com/Zhangyong-Tang/UniBench300)]
+
+- **Gen4Track:** Jiawei Ge, Xinyu Zhang, Jiuxin Cao, Xuelin Zhu, Weijia Liu, Qingqing Gao, Biwei Cao, Kun Wang, Chang Liu, Bo Liu, Chen Feng, Ioannis Patras.<br />
+  "Gen4Track: A Tuning-free Data Augmentation Framework via Self-correcting Diffusion Model for Vision-Language Tracking." ACM MM (2025).
+  [[paper](https://dl.acm.org/doi/10.1145/3746027.3754956)] 
+  [[code]( )]
+
+- **FA3T:** Jiahao Wang, Fang Liu, Licheng Jiao, Hao Wang, Shuo Li, Lingling Li, Puhua Chen, Xu Liu, Xinyi Wang.<br />
+  "FA3T: Feature-Aware Adversarial Attacks for Multi-modal Tracking." ACM MM (2025).
+  [[paper](https://dl.acm.org/doi/10.1145/3746027.3755155)] 
+  [[code]( )]
+
+- **MST:** Shilei Wang, Gong Cheng, Pujian Lai, Dong Gao, Junwei Han.<br />
+  "Multi-State Tracker: Enhancing Efficient Object Tracking via Multi-State Specialization and Interaction." ACM MM (2025).
+  [[paper](https://arxiv.org/abs/2508.11531)] 
+  [[code](https://github.com/wsumel/MST)]
+
+
+
 ### IJCAI 2025
+
+- **FastSeqTrack:** Dongdong Li, Zhinan Gao, Yangliu Kuai, Rui Chen.<br />
+  "Exploring Effcient and Effective Sequence Learning for Visual Object Tracking." IJCAI (2025).
+  [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/3672.pdf)] 
+  [[code](https://github.com/vision4drones/FastSeqTrack)]
+
+- **SSTrack:** Yutong Kou, Shubo Lin, Liang Li, Bing Li, Weiming Hu, Jin Gao.<br />
+  "SSTrack: Sample-interval Scheduling for Lightweight Visual Object Tracking." IJCAI (2025).
+  [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/3314.pdf)] 
+  [[code](https://github.com/Kou-99/SSTrack)]
+
+- **TUMFNet:** Zhaodong Ding, Chenglong Li, Shengqing Miao, Jin Tang.<br />
+  "Template-based Uncertainty Multimodal Fusion Network for RGBT Tracking." IJCAI (2025).
+  [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/2815.pdf)] 
+  [[code](https://github.com/dongdong2061/IJCAI25-TUMFNet)]
 
 - **GDSTrack:** Shenglan Li, Rui Yao, Yong Zhou, Hancheng Zhu, Kunyang Sun, Bing Liu, Zhiwen Shao, Jiaqi Zhao.<br />
   "Modality-Guided Dynamic Graph Fusion and Temporal Diffusion for Self-Supervised RGB-T Tracking." IJCAI (2025).
