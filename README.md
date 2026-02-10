@@ -13,12 +13,26 @@ If you are interested in this project, please feel free to contact me (davidzhan
 - **VOTSurvey:** Sajid Javed, Martin Danelljan, Fahad Shahbaz Khan, Muhammad Haris Khan, Michael Felsberg, Jiri Matas.<br />
   "Visual Object Tracking with Discriminative Filters and Siamese Networks: A Survey and Outlook." TAPMI (2023).
   [[paper](https://arxiv.org/abs/2112.02838)] 
+
+- **VOTBook:**  Xin Zhao, Shiyu Hu, Xu-Cheng Yin.<br />
+  "Visual Object Tracking: An Evaluation Perspective." Springer (2025).
+  [[paper](https://link.springer.com/book/10.1007/978-981-96-4558-9)]
+
+- **VOTSurvey:** Sajid Javed, Martin Danelljan, Fahad Shahbaz Khan, Muhammad Haris Khan, Michael Felsberg, Jiri Matas.<br />
+  "Visual Object Tracking with Discriminative Filters and Siamese Networks: A Survey and Outlook." TAPMI (2023).
+  [[paper](https://arxiv.org/abs/2112.02838)]
   
 - **DL4VT:** Seyed Mojtaba Marvasti-Zadeh, Li Cheng, Senior Member, Hossein Ghanei-Yakhdan, Shohreh Kasaei, Senior Member.<br />
   "Deep Learning for Visual Tracking: A Comprehensive Survey." ArXiv (2021).
   [[paper](https://arxiv.org/pdf/1912.00535.pdf)] 
   [[code](https://github.com/MMarvasti/Deep-Learning-for-Visual-Tracking-Survey)]
-      
+
+- **SAMURAI:** Cheng-Yen Yang, Hsiang-Wei Huang, Zhongyu Jiang, Wenhao Chai, Jenq-Neng Hwang.<br />
+  "SAMURAI: Motion-Aware Memory for Training-Free Visual Object Tracking with SAM 2." TIP (2026).
+  [[arxiv](https://arxiv.org/abs/2411.11922)]
+  [[paper](https://ieeexplore.ieee.org/document/11351313)] 
+  [[code](https://github.com/yangchris11/samurai)]
+  
 - **SAM:** Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick.<br />
   "Segment Anything." ArXiv (2023).
   [[paper](https://arxiv.org/pdf/2304.02643v1.pdf)] 
@@ -65,6 +79,102 @@ If you are interested in this project, please feel free to contact me (davidzhan
   [[paper](https://arxiv.org/abs/2304.03284)] 
   [[code](https://github.com/baaivision/Painter)]
 
+
+### AAAI 2026
+
+- **SATA:** Tianlu Zhang, Qiang Zhang, Guiguang Ding, Jungong Han.<br />
+  "Tracking and Segmenting Anything in Any Modality." AAAI (2026).
+  [[paper](https://arxiv.org/abs/2511.19475)]
+  [[code]( )]
+
+- **LUART:** Yun Xiao, Yuhang Wang, Jiandong Jin, Wangkang Zhang, Chenglong Li.<br />
+  "Unaligned UAV RGBT Tracking: A Largescale Benchmark and A Novel Approach." AAAI (2026).
+  [[paper]( )] 
+  [[code](https://github.com/NOP1224/Unaligned_RGBT_Tracking)]
+
+- **CADTrack:** Hao Li, Yuhao Wang, Xiantao Hu, Wenning Hao, Pingping Zhang, Dong Wang, Huchuan Lu.<br />
+  "CADTrack: Learning Contextual Aggregation with Deformable Alignment for Robust RGBT Tracking." AAAI (2026).
+  [[paper](https://arxiv.org/abs/2511.17967)] 
+  [[code](https://github.com/IdolLab/CADTrack)]
+
+- **AlignTrack:** Chuanyu Sun, Jiqing Zhang, Yang Wang, Yuanchen Wang, Yutong Jiang, Baocai Yin, Xin Yang.<br />
+  "AlignTrack: Top-Down Spatiotemporal Resolution Alignment for RGB-Event Visual Tracking." AAAI (2026).
+  [[paper]( )] 
+  [[code](https://github.com/scy0712/AlignTrack)]
+
+- **MoDTrack:** Hongtao Yang, Bineng Zhong, Qihua Liang, Xiantao Hu, Yufei Tan, Haiying Xia, Shuxiang Song.<br />
+  "Motion-Aware Object Tracking via Motion and Geometry-Aware Cues." AAAI (2026).
+  [[paper]( )] 
+  [[code]( )]
+
+- **MUTrack:** Weijing Wu, Qihua Liang, Bineng Zhong, Xiaohu Tang, Yufei Tan, Ning Li, Yuanliang Xue.<br />
+  "MUTrack: A Memory-Aware Unified Representation Framework for Visual Trackings." AAAI (2026).
+  [[paper]( )] 
+  [[code]( )]
+
+- **ADTrack:** Guangtong Zhang, Bineng Zhong, Shirui Yang, Yang Wang, Tian Bai.<br />
+  "Aware Distillation for Robust Vision-Language Tracking Under Linguistic Sparsity." AAAI (2026).
+  [[paper]( )] 
+  [[code]( )]
+  
+- **MFDP:** Shilei Wang, Pujian Lai, Dong Gao, Jifeng Ning, Gong Cheng.<br />
+  "Exploring Modality-Aware Fusion and Decoupled Temporal Propagation for Multi-Modal Object Tracking." AAAI (2026).
+  [[paper]( )] 
+  [[code]( )]
+
+- **STDTrack:** Junze Shi, Yang Yu, Jian Shi, Haibo Luo.<br />
+  "Exploring Reliable Spatiotemporal Dependencies for Efficient Visual Tracking." AAAI (2026).
+  [[paper](https://arxiv.org/abs/2601.09078)] 
+  [[code]( )]  
+
+- **AMTrack:** Ge Ying, Dawei Zhang, Chengzhuan Yang, Wei Liu, Sang-Woon Jeon, Hua Wang, Changqin Huang, Zhonglong Zheng.<br />
+  "Exploiting All Mamba Fusion for Efficient RGB-D Tracking." AAAI (2026).
+  [[paper]( )] 
+  [[code]( )]
+
+- **GOLA:** Zekai Shao, Yufan Hu, Jingyuan Liu, Bin Fan, Hongmin Liu.<br />
+  "Group Orthogonal Low-Rank Adaptation for RGB-T Tracking." AAAI (2026).
+  [[paper](https://arxiv.org/abs/2512.05359)] 
+  [[code](https://github.com/MelanTech/GOLA)]
+
+- **SFPT:** Jiahao Wang, Fang Liu, Hao Wang, Shuo Li, Xiyi Wang, Puhua Chen.<br />
+  "Semantic Feature Purification for Adversarially-Aware RGB-T Tracking." AAAI (2026).
+  [[paper]( )] 
+  [[code]( )]
+
+- **HTTrack:** Jiahao Wang, Fang Liu, Licheng Jiao, Hao Wang, Shuo Li, Xiyi Wang, Lingling Li, Puhua Chen, Xu Liu.<br />
+  "HTTrack: Learning to Perceive Targets via Historical Trajectories in Satellite Video Tracking." AAAI (2026).
+  [[paper]( )] 
+  [[code]( )]
+
+- **AerialMind:** Chenglizhao Chen, Shaofeng Liang, Runwei Guan, Xiaolou Sun, Haocheng Zhao, Haiyun Jiang, Tao Huang, Henghui Ding, Qing-Long Han.<br />
+  "AerialMind: Towards Referring Multi-Object Tracking in UAV Scenarios." AAAI (2026).
+  [[paper](https://arxiv.org/abs/2511.21053)] 
+  [[code](https://github.com/shawnliang420/AerialMind)]
+
+- **SAM2-OV:** Yangkai Chen, Qiangqiang Wu, Guangyao Li, Junlong Gao, Guanglin Niu, Hanzi Wang.<br />
+  "SAM2-OV: A Novel Detection-Only Tuning Paradigm for Open-Vocabulary Multi-Object Tracking." AAAI (2026).
+  [[paper]( )] 
+  [[code]( )]
+
+- **SAM2MOT:** Junjie Jiang, Zelin Wang, Manqi Zhao, Yin Li, DongSheng Jiang.<br />
+  "SAM2MOT: A Novel Paradigm of Multi-Object Tracking by Segmentation." AAAI (2026).
+  [[paper](https://arxiv.org/abs/2504.04519)] 
+  [[code](https://github.com/TripleJoy/SAM2MOT)]
+
+  
+### ICLR 2026
+
+- **FARTrack:** Guijie Wang, Tong Lin, Yifan Bai, Anjia Cao, Shiyi Liang, Wangbo Zhao, Xing Wei.<br />
+  "FARTrack: Fast Autoregressive Visual Tracking with High Performance." ICLR (2026).
+  [[paper](https://arxiv.org/abs/2602.03214)]
+  [[code](https://github.com/wangguijiepedeval/FARTrack)]
+
+- **GOT-Edit:** Shih-Fang Chen, Jun-Cheng Chen, I-Hong Jhuo, Yen-Yu Lin.<br />
+  "GOT-Edit: Geometry-Aware Generic Object Tracking via Online Model Editing." ICLR (2026).
+  [[paper](https://arxiv.org/abs/2602.08550)]
+  [[code](https://github.com/chenshihfang/GOT)]
+  
 
 ### NeurIPS 2025
 
