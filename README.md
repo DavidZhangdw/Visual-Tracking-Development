@@ -80,6 +80,60 @@ If you are interested in this project, please feel free to contact me (davidzhan
   [[code](https://github.com/baaivision/Painter)]
 
 
+### CVPR 2026
+
+- **UTPTrack:** Hao Wu, Xudong Wang, Jialiang Zhang, Junlong Tong, Xinghao Chen, Junyan Lin, Yunpu Ma, Xiaoyu Shen.<br />
+  "UTPTrack: Towards Simple and Unified Token Pruning for Visual Tracking." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2602.23734)]
+  [[code](https://github.com/EIT-NLP/UTPTrack)]
+
+- **SpikeTrack:** Qiuyang Zhang, Jiujun Cheng, Qichao Mao, Cong Liu, Yu Fang, Yuhong Li, Mengying Ge, Shangce Gao.<br />
+  "SpikeTrack: A Spike-driven Framework for Efficient Visual Tracking." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2602.23963)]
+  [[code](https://github.com/faicaiwawa/SpikeTrack)]
+
+- **DTPTrack:** Yuqing Huang, Liting Lin, Weijun Zhuang, Zhenyu He, Xin Li.<br />
+  "Drift-Resilient Temporal Priors for Visual Tracking." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2604.02654)]
+  [[code](https://github.com/NorahGreen/DTPTrack)]
+
+- **SEATrack:** Junbin Su, Ziteng Xue, Shihui Zhang, Kun Chen, Weiming Hu, Zhipeng Zhang.<br />
+  "SEATrack: Simple, Efficient, and Adaptive Multimodal Tracker." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2604.12502)]
+  [[code](https://github.com/AutoLab-SAI-SJTU/SEATrack)]
+  
+- **SCDT:** Andong Lu, Ziyi Zha, Jiandong Jin, Shihao Li, Chenglong Li, Jin Tang, Bin Luo.<br />
+  "Spatio-Temporal Conditional Denoising Transformer for Modality-Missing RGBT Tracking." CVPR (2026).
+  [[paper]( )]
+  [[code]( )]
+
+- **PMATrack:** Jiandong Jin, Chenglong Li, Hao Feng, Andong Lu, Lili Huang, Jin Tang.<br />
+  "Progressive Multi-cue Alignment for Unaligned RGBT Tracking." CVPR (2026).
+  [[paper]( )]
+  [[code](https://github.com/NOP1224/Unaligned_RGBT_Tracking)]
+
+- **RAGTrack:** Hao Li, Yuhao Wang, Wenning Hao, Pingping Zhang, Dong Wang, Huchuan Lu.<br />
+  "RAGTrack: Language-aware RGBT Tracking with Retrieval-Augmented Generation." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2603.03617)]
+  [[code](https://github.com/ldolLab/RAGTrack)]
+
+- **TrackMAE:** Renaud Vandeghen, Fida Mohammad Thoker, Marc Van Droogenbroeck, Bernard Ghanem.<br />
+  "TrackMAE: Video Representation Learning via Track Mask and Predict." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2603.27268)]
+  [[code](https://github.com/rvandeghen/TrackMAE)]
+
+- **OA-VAT:** Renaud Vandeghen, Fida Mohammad Thoker, Marc Van Droogenbroeck, Bernard Ghanem.<br />
+  "Instance-level Visual Active Tracking with Occlusion-Aware Planning." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2604.21453)]
+  [[code](https://github.com/SHWplus/OA-VAT)]
+
+- **STORM:** Zijia Lu, Jingru Yi, Jue Wang, Yuxiao Chen, Junwen Chen, Xinyu Li, Davide Modolo.<br />
+  "STORM: End-to-End Referring Multi-Object Tracking in Videos." CVPR Findings (2026).
+  [[paper](https://arxiv.org/abs/2604.10527)]
+  [[code](https://github.com/amazon-science/storm-referring-multi-object-grounding)]
+  
+  
+
 ### AAAI 2026
 
 - **SATA:** Tianlu Zhang, Qiang Zhang, Guiguang Ding, Jungong Han.<br />
@@ -89,7 +143,7 @@ If you are interested in this project, please feel free to contact me (davidzhan
 
 - **LUART:** Yun Xiao, Yuhang Wang, Jiandong Jin, Wangkang Zhang, Chenglong Li.<br />
   "Unaligned UAV RGBT Tracking: A Largescale Benchmark and A Novel Approach." AAAI (2026).
-  [[paper]( )] 
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/38079)] 
   [[code](https://github.com/NOP1224/Unaligned_RGBT_Tracking)]
 
 - **CADTrack:** Hao Li, Yuhao Wang, Xiantao Hu, Wenning Hao, Pingping Zhang, Dong Wang, Huchuan Lu.<br />
@@ -99,28 +153,28 @@ If you are interested in this project, please feel free to contact me (davidzhan
 
 - **AlignTrack:** Chuanyu Sun, Jiqing Zhang, Yang Wang, Yuanchen Wang, Yutong Jiang, Baocai Yin, Xin Yang.<br />
   "AlignTrack: Top-Down Spatiotemporal Resolution Alignment for RGB-Event Visual Tracking." AAAI (2026).
-  [[paper]( )] 
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37874)] 
   [[code](https://github.com/scy0712/AlignTrack)]
 
 - **MoDTrack:** Hongtao Yang, Bineng Zhong, Qihua Liang, Xiantao Hu, Yufei Tan, Haiying Xia, Shuxiang Song.<br />
   "Motion-Aware Object Tracking via Motion and Geometry-Aware Cues." AAAI (2026).
-  [[paper]( )] 
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/38144)] 
   [[code]( )]
 
 - **MUTrack:** Weijing Wu, Qihua Liang, Bineng Zhong, Xiaohu Tang, Yufei Tan, Ning Li, Yuanliang Xue.<br />
-  "MUTrack: A Memory-Aware Unified Representation Framework for Visual Trackings." AAAI (2026).
-  [[paper]( )] 
+  "MUTrack: A Memory-Aware Unified Representation Framework for Visual Tracking." AAAI (2026).
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/38052)] 
   [[code]( )]
 
 - **ADTrack:** Guangtong Zhang, Bineng Zhong, Shirui Yang, Yang Wang, Tian Bai.<br />
   "Aware Distillation for Robust Vision-Language Tracking Under Linguistic Sparsity." AAAI (2026).
-  [[paper]( )] 
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/38237)] 
   [[code]( )]
   
-- **MFDP:** Shilei Wang, Pujian Lai, Dong Gao, Jifeng Ning, Gong Cheng.<br />
+- **MDTrack:** Shilei Wang, Pujian Lai, Dong Gao, Jifeng Ning, Gong Cheng.<br />
   "Exploring Modality-Aware Fusion and Decoupled Temporal Propagation for Multi-Modal Object Tracking." AAAI (2026).
-  [[paper]( )] 
-  [[code]( )]
+  [[paper](https://arxiv.org/abs/2603.09287)] 
+  [[code](https://github.com/wsumel/MDTrack)]
 
 - **STDTrack:** Junze Shi, Yang Yu, Jian Shi, Haibo Luo.<br />
   "Exploring Reliable Spatiotemporal Dependencies for Efficient Visual Tracking." AAAI (2026).
@@ -129,7 +183,7 @@ If you are interested in this project, please feel free to contact me (davidzhan
 
 - **AMTrack:** Ge Ying, Dawei Zhang, Chengzhuan Yang, Wei Liu, Sang-Woon Jeon, Hua Wang, Changqin Huang, Zhonglong Zheng.<br />
   "Exploiting All Mamba Fusion for Efficient RGB-D Tracking." AAAI (2026).
-  [[paper]( )] 
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/38195)] 
   [[code]( )]
 
 - **GOLA:** Zekai Shao, Yufan Hu, Jingyuan Liu, Bin Fan, Hongmin Liu.<br />
@@ -139,12 +193,17 @@ If you are interested in this project, please feel free to contact me (davidzhan
 
 - **SFPT:** Jiahao Wang, Fang Liu, Hao Wang, Shuo Li, Xiyi Wang, Puhua Chen.<br />
   "Semantic Feature Purification for Adversarially-Aware RGB-T Tracking." AAAI (2026).
-  [[paper]( )] 
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37949)] 
   [[code]( )]
 
 - **HTTrack:** Jiahao Wang, Fang Liu, Licheng Jiao, Hao Wang, Shuo Li, Xiyi Wang, Lingling Li, Puhua Chen, Xu Liu.<br />
   "HTTrack: Learning to Perceive Targets via Historical Trajectories in Satellite Video Tracking." AAAI (2026).
-  [[paper]( )] 
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37950)] 
+  [[code]( )]
+  
+- **CompTrack:** Sifan Zhou, Yichao Cao, Jiahao Nie, Yuqian Fu, Ziyu Zhao, Xiaobo Lu, Shuo Wang.<br />
+  "CompTrack: Information Bottleneck-Guided Low-Rank Dynamic Token Compression for Point Cloud Tracking." AAAI (2026).
+  [[paper](https://arxiv.org/abs/2511.15580)] 
   [[code]( )]
 
 - **AerialMind:** Chenglizhao Chen, Shaofeng Liang, Runwei Guan, Xiaolou Sun, Haocheng Zhao, Haiyun Jiang, Tao Huang, Henghui Ding, Qing-Long Han.<br />
@@ -154,8 +213,8 @@ If you are interested in this project, please feel free to contact me (davidzhan
 
 - **SAM2-OV:** Yangkai Chen, Qiangqiang Wu, Guangyao Li, Junlong Gao, Guanglin Niu, Hanzi Wang.<br />
   "SAM2-OV: A Novel Detection-Only Tuning Paradigm for Open-Vocabulary Multi-Object Tracking." AAAI (2026).
-  [[paper]( )] 
-  [[code]( )]
+  [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/37301)] 
+  [[code](https://github.com/kaiycv/SAM2-OV)]
 
 - **SAM2MOT:** Junjie Jiang, Zelin Wang, Manqi Zhao, Yin Li, DongSheng Jiang.<br />
   "SAM2MOT: A Novel Paradigm of Multi-Object Tracking by Segmentation." AAAI (2026).
