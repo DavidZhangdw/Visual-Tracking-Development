@@ -87,6 +87,11 @@ If you are interested in this project, please feel free to contact me (davidzhan
   [[paper](https://arxiv.org/abs/2602.23734)]
   [[code](https://github.com/EIT-NLP/UTPTrack)]
 
+- **ETCTrack:** Weijing Wu, Qihua Liang, Bineng Zhong, Haiying Xia, Zhiyi Mo, Shuxiang Song.<br />
+  "An Efficient Token Compression Framework for Visual Object Tracking." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2605.08329)]
+  [[code](https://github.com/PJD-WJ/ETCTrack)]
+  
 - **SpikeTrack:** Qiuyang Zhang, Jiujun Cheng, Qichao Mao, Cong Liu, Yu Fang, Yuhong Li, Mengying Ge, Shangce Gao.<br />
   "SpikeTrack: A Spike-driven Framework for Efficient Visual Tracking." CVPR (2026).
   [[paper](https://arxiv.org/abs/2602.23963)]
@@ -122,6 +127,16 @@ If you are interested in this project, please feel free to contact me (davidzhan
   [[paper](https://arxiv.org/abs/2603.27268)]
   [[code](https://github.com/rvandeghen/TrackMAE)]
 
+- **SVLTrack:** Yaozong Zheng, Bineng Zhong, Qihua Liang, Shuimu Zeng, Haiying Xia, Shuxiang Song.<br />
+  "Learning to Track Instance from Single Nature Language Description." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2605.07064)]
+  [[code]( )]
+
+- **PNTrack:** Yaozong Zheng, Qihua Liang, Bineng Zhong, Shuimu Zeng, Yuanliang Xue, Ning Li, Shuxiang Song.<br />
+  "Boosting Self-Supervised Tracking with Contextual Prompts and Noise Learning." CVPR (2026).
+  [[paper](https://arxiv.org/abs/2605.06092)]
+  [[code]( )]
+  
 - **OA-VAT:** Renaud Vandeghen, Fida Mohammad Thoker, Marc Van Droogenbroeck, Bernard Ghanem.<br />
   "Instance-level Visual Active Tracking with Occlusion-Aware Planning." CVPR (2026).
   [[paper](https://arxiv.org/abs/2604.21453)]
@@ -220,6 +235,39 @@ If you are interested in this project, please feel free to contact me (davidzhan
   "SAM2MOT: A Novel Paradigm of Multi-Object Tracking by Segmentation." AAAI (2026).
   [[paper](https://arxiv.org/abs/2504.04519)] 
   [[code](https://github.com/TripleJoy/SAM2MOT)]
+
+
+### ICML 2026
+
+- **OneTrackerV2:** Lingyi Hong, Jinglun Li, Xinyu Zhou, Kaixun Jiang, Pinxue Guo, Zhaoyu Chen, Runze Li, Xingdong Sheng, Wenqiang Zhang.<br />
+  "Unified Multimodal Visual Tracking with Dual Mixture-of-Experts." ICML (2026).
+  [[paper](https://arxiv.org/abs/2605.03716)] 
+  [[code]( )]
+
+- **RELO:** Xin Chen, Chuanyu Sun, Jiao Xu, Houwen Peng, Dong Wang, Huchuan Lu, Kede Ma.<br />
+  "RELO: Reinforcement Learning to Localize for Visual Object Tracking." ICML (2026).
+  [[paper](https://arxiv.org/abs/2605.07379)] 
+  [[code](https://github.com/Multimedia-Analytics-Laboratory/RELO)]
+
+- **ETBTrack:** Yinchao Ma, Jianpeng Yang, Yuyang Tang, Jie Xiao, Dengqing Yang, Tianzhu Zhang.<br />
+  "Learning Generalized Trackers with Elastic Token Budgets." ICML (2026).
+  [[paper](https://icml.cc/virtual/2026/poster/63126)] 
+  [[code]( )]
+
+- **FATrack:** Jiahao Wang, Fang Liu, Licheng Jiao, Shuo Li, Hao Wang, Lingling Li, Xinyi Wang, Xu Liu.<br />
+  "Foreground-Aware Token Routing Vision Transformer for Real-Time Satellite Video Tracking." ICML (2026).
+  [[paper](https://icml.cc/virtual/2026/poster/60644)] 
+  [[code]( )]
+
+- **SymTrack:** Chenmin Yu, Liu Yu, Daiqing Wu, Gengluo Li, Zeyu Chen, Yu Zhou.<br />
+  "Beyond Detection: A Structure-Aware Framework for Scene Text Tracking." ICML (2026).
+  [[paper](https://arxiv.org/abs/2605.17270)] 
+  [[code](https://github.com/EdisonYCM/SymTrack)]
+
+- **AVTrack:** Yaoting Wang, Yun Zhou, Zipei Zhang, Henghui Ding.<br />
+  "AVTrack: Audio-Visual Speaker Tracking in Complex Scenes." ICML (2026).
+  [[paper](https://icml.cc/virtual/2026/poster/65747)] 
+  [[code]( )]
 
   
 ### ICLR 2026
